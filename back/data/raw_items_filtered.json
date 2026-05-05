@@ -1,5 +1,5 @@
 {
-  "primes": [
+  "warframes": [
     {
       "id": "5ab1570db2b6a8044d5137c3",
       "slug": "zephyr_prime_chassis_blueprint",
@@ -2658,7 +2658,7 @@
         "prime",
         "warframe"
       ],
-      "ducats": 100,
+      "ducats": 65,
       "i18n": {
         "en": {
           "name": "Garuda Prime Systems Blueprint",
@@ -2934,7 +2934,7 @@
         "warframe",
         "blueprint"
       ],
-      "ducats": 100,
+      "ducats": 65,
       "i18n": {
         "en": {
           "name": "Baruuk Prime Neuroptics Blueprint",
@@ -3033,7 +3033,7 @@
         "warframe",
         "blueprint"
       ],
-      "ducats": 100,
+      "ducats": 65,
       "i18n": {
         "en": {
           "name": "Wisp Prime Chassis Blueprint",
@@ -3171,7 +3171,7 @@
         "warframe",
         "blueprint"
       ],
-      "ducats": 100,
+      "ducats": 65,
       "i18n": {
         "en": {
           "name": "Grendel Prime Systems Blueprint",
@@ -3812,9 +3812,88 @@
           "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
         }
       }
+    },
+    {
+      "id": "69d6766fb3984cc97e24174d",
+      "slug": "voruna_prime_blueprint",
+      "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeBlueprint",
+      "tags": [
+        "warframe",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "i18n": {
+        "en": {
+          "name": "Voruna Prime Blueprint",
+          "icon": "items/images/en/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+          "thumb": "items/images/en/thumbs/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+          "subIcon": "sub_icons/blueprint_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d67671b3984cc97e24174e",
+      "slug": "voruna_prime_neuroptics_blueprint",
+      "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetBlueprint",
+      "tags": [
+        "component",
+        "warframe",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Voruna Prime Neuroptics Blueprint",
+          "icon": "items/images/en/voruna_prime_neuroptics_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+          "thumb": "items/images/en/thumbs/voruna_prime_neuroptics_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+          "subIcon": "sub_icons/warframe/prime_helmet_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d67673b3984cc97e24174f",
+      "slug": "voruna_prime_chassis_blueprint",
+      "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisBlueprint",
+      "tags": [
+        "component",
+        "warframe",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Voruna Prime Chassis Blueprint",
+          "icon": "items/images/en/voruna_prime_chassis_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+          "thumb": "items/images/en/thumbs/voruna_prime_chassis_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+          "subIcon": "sub_icons/warframe/prime_chassis_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d67675b3984cc97e241750",
+      "slug": "voruna_prime_systems_blueprint",
+      "gameRef": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsBlueprint",
+      "tags": [
+        "component",
+        "warframe",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 100,
+      "i18n": {
+        "en": {
+          "name": "Voruna Prime Systems Blueprint",
+          "icon": "items/images/en/voruna_prime_systems_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+          "thumb": "items/images/en/thumbs/voruna_prime_systems_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+          "subIcon": "sub_icons/warframe/prime_systems_128x128.png"
+        }
+      }
     }
   ],
-  "prime_sets": [
+  "warframe_sets": [
     {
       "id": "56783f24cbfa8f0432dd899c",
       "slug": "frost_prime_set",
@@ -4418,7 +4497,7 @@
         "prime",
         "set"
       ],
-      "ducats": 260,
+      "ducats": 225,
       "i18n": {
         "en": {
           "name": "Garuda Prime Set",
@@ -4472,7 +4551,7 @@
         "warframe",
         "set"
       ],
-      "ducats": 260,
+      "ducats": 225,
       "i18n": {
         "en": {
           "name": "Baruuk Prime Set",
@@ -4508,7 +4587,7 @@
         "warframe",
         "set"
       ],
-      "ducats": 260,
+      "ducats": 225,
       "i18n": {
         "en": {
           "name": "Wisp Prime Set",
@@ -4526,7 +4605,7 @@
         "warframe",
         "set"
       ],
-      "ducats": 260,
+      "ducats": 225,
       "i18n": {
         "en": {
           "name": "Grendel Prime Set",
@@ -4676,6 +4755,24 @@
           "name": "Gyre Prime Set",
           "icon": "items/images/en/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.webp",
           "thumb": "items/images/en/thumbs/gyre_prime_set.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69d6763bb3984cc97e24174b",
+      "slug": "voruna_prime_set",
+      "gameRef": "/Lotus/Powersuits/Werewolf/VorunaPrime",
+      "tags": [
+        "warframe",
+        "prime",
+        "set"
+      ],
+      "ducats": 290,
+      "i18n": {
+        "en": {
+          "name": "Voruna Prime Set",
+          "icon": "items/images/en/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+          "thumb": "items/images/en/thumbs/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp"
         }
       }
     }
@@ -9858,7 +9955,7 @@
         "weapon",
         "prime"
       ],
-      "ducats": 100,
+      "ducats": 65,
       "i18n": {
         "en": {
           "name": "Phantasma Prime Stock",
@@ -10456,7 +10553,7 @@
         "weapon",
         "component"
       ],
-      "ducats": 100,
+      "ducats": 65,
       "i18n": {
         "en": {
           "name": "Akarius Prime Receiver",
@@ -10552,7 +10649,7 @@
         "weapon",
         "component"
       ],
-      "ducats": 100,
+      "ducats": 65,
       "i18n": {
         "en": {
           "name": "Acceltra Prime Stock",
@@ -11523,6 +11620,141 @@
           "icon": "items/images/en/kestrel_prime_blade.4d27b989c37deb1e2a0ec4499e69c874.webp",
           "thumb": "items/images/en/thumbs/kestrel_prime_blade.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp",
           "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d6770ab3984cc97e241753",
+      "slug": "perigale_prime_blueprint",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/PerigalePrimeBlueprint",
+      "tags": [
+        "weapon",
+        "primary",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Perigale Prime Blueprint",
+          "icon": "items/images/en/perigale_prime_blueprint.9168f4020497799e8dd44b130c899c5d.webp",
+          "thumb": "items/images/en/thumbs/perigale_prime_blueprint.9168f4020497799e8dd44b130c899c5d.128x128.webp",
+          "subIcon": "sub_icons/blueprint_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d6770bb3984cc97e241754",
+      "slug": "perigale_prime_barrel",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeBarrel",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "i18n": {
+        "en": {
+          "name": "Perigale Prime Barrel",
+          "icon": "items/images/en/perigale_prime_barrel.9168f4020497799e8dd44b130c899c5d.webp",
+          "thumb": "items/images/en/thumbs/perigale_prime_barrel.9168f4020497799e8dd44b130c899c5d.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d6770cb3984cc97e241755",
+      "slug": "perigale_prime_receiver",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeReceiver",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Perigale Prime Receiver",
+          "icon": "items/images/en/perigale_prime_receiver.9168f4020497799e8dd44b130c899c5d.webp",
+          "thumb": "items/images/en/thumbs/perigale_prime_receiver.9168f4020497799e8dd44b130c899c5d.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d6770db3984cc97e241756",
+      "slug": "perigale_prime_stock",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeStock",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Perigale Prime Stock",
+          "icon": "items/images/en/perigale_prime_stock.9168f4020497799e8dd44b130c899c5d.webp",
+          "thumb": "items/images/en/thumbs/perigale_prime_stock.9168f4020497799e8dd44b130c899c5d.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_stock_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d67750b3984cc97e241759",
+      "slug": "sarofang_prime_blueprint",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/SarofangPrimeBlueprint",
+      "tags": [
+        "melee",
+        "weapon",
+        "prime",
+        "blueprint"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Sarofang Prime Blueprint",
+          "icon": "items/images/en/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.webp",
+          "thumb": "items/images/en/thumbs/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+          "subIcon": "sub_icons/blueprint_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d67751b3984cc97e24175a",
+      "slug": "sarofang_prime_blade",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeBlade",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "i18n": {
+        "en": {
+          "name": "Sarofang Prime Blade",
+          "icon": "items/images/en/sarofang_prime_blade.fbbab9117b49d01d099fd937219c9749.webp",
+          "thumb": "items/images/en/thumbs/sarofang_prime_blade.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_blade_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "69d67752b3984cc97e24175b",
+      "slug": "sarofang_prime_handle",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Sarofang Prime Handle",
+          "icon": "items/images/en/sarofang_prime_handle.fbbab9117b49d01d099fd937219c9749.webp",
+          "thumb": "items/images/en/thumbs/sarofang_prime_handle.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_handle_128x128.png"
         }
       }
     }
@@ -12945,7 +13177,7 @@
         "primary",
         "set"
       ],
-      "ducats": 260,
+      "ducats": 225,
       "i18n": {
         "en": {
           "name": "Phantasma Prime Set",
@@ -13098,7 +13330,7 @@
         "weapon",
         "set"
       ],
-      "ducats": 375,
+      "ducats": 305,
       "i18n": {
         "en": {
           "name": "Akarius Prime Set",
@@ -13117,7 +13349,7 @@
         "weapon",
         "set"
       ],
-      "ducats": 260,
+      "ducats": 225,
       "i18n": {
         "en": {
           "name": "Acceltra Prime Set",
@@ -13391,6 +13623,44 @@
           "thumb": "items/images/en/thumbs/kestrel_prime_set.4d27b989c37deb1e2a0ec4499e69c874.128x128.webp"
         }
       }
+    },
+    {
+      "id": "69d67708b3984cc97e241752",
+      "slug": "perigale_prime_set",
+      "gameRef": "/Lotus/Weapons/Tenno/LongGuns/PrimePerigale/PrimePerigaleSniper",
+      "tags": [
+        "weapon",
+        "primary",
+        "prime",
+        "set"
+      ],
+      "ducats": 175,
+      "i18n": {
+        "en": {
+          "name": "Perigale Prime Set",
+          "icon": "items/images/en/perigale_prime_set.9168f4020497799e8dd44b130c899c5d.webp",
+          "thumb": "items/images/en/thumbs/perigale_prime_set.9168f4020497799e8dd44b130c899c5d.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69d6774fb3984cc97e241758",
+      "slug": "sarofang_prime_set",
+      "gameRef": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeVorunaAxeWeapon",
+      "tags": [
+        "melee",
+        "weapon",
+        "prime",
+        "set"
+      ],
+      "ducats": 160,
+      "i18n": {
+        "en": {
+          "name": "Sarofang Prime Set",
+          "icon": "items/images/en/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.webp",
+          "thumb": "items/images/en/thumbs/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.128x128.webp"
+        }
+      }
     }
   ],
   "companions": [
@@ -13414,46 +13684,6 @@
       }
     },
     {
-      "id": "5527a279e77989205639861f",
-      "slug": "odonata_prime_harness_blueprint",
-      "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingChassisBlueprint",
-      "tags": [
-        "component",
-        "prime",
-        "archwing",
-        "blueprint"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Odonata Prime Harness Blueprint",
-          "icon": "items/images/en/odonata_prime_harness.9087f5267b49dee37c38d36f57387753.png",
-          "thumb": "items/images/en/thumbs/odonata_prime_harness.9087f5267b49dee37c38d36f57387753.128x128.png",
-          "subIcon": "sub_icons/archwing/prime_chassis_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "5527a288e77989205f31e525",
-      "slug": "odonata_prime_systems_blueprint",
-      "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingSystemsBlueprint",
-      "tags": [
-        "component",
-        "prime",
-        "archwing",
-        "blueprint"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Odonata Prime Systems Blueprint",
-          "icon": "items/images/en/odonata_prime_systems.9087f5267b49dee37c38d36f57387753.png",
-          "thumb": "items/images/en/thumbs/odonata_prime_systems.9087f5267b49dee37c38d36f57387753.128x128.png",
-          "subIcon": "sub_icons/archwing/prime_systems_128x128.png"
-        }
-      }
-    },
-    {
       "id": "559daac1e779897b4253a85e",
       "slug": "carrier_prime_blueprint",
       "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/PrimeCarrierSentinelBlueprint",
@@ -13469,61 +13699,6 @@
           "icon": "items/images/en/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
           "thumb": "items/images/en/thumbs/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
           "subIcon": "sub_icons/blueprint_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "56153730b66f836f9488bcce",
-      "slug": "kavasa_prime_buckle",
-      "gameRef": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABuckleComponent",
-      "tags": [
-        "prime"
-      ],
-      "ducats": 65,
-      "i18n": {
-        "en": {
-          "name": "Kavasa Prime Buckle",
-          "icon": "items/images/en/kavasa_prime_buckle.cc1bafee4156c05ebaa812d39cd559ba.png",
-          "thumb": "items/images/en/thumbs/kavasa_prime_buckle.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
-          "subIcon": "sub_icons/pets/prime_buckle_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "56153734b66f836f976f5501",
-      "slug": "kavasa_prime_band",
-      "gameRef": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABandComponent",
-      "tags": [
-        "prime"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Kavasa Prime Band",
-          "icon": "items/images/en/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.png",
-          "thumb": "items/images/en/thumbs/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
-          "subIcon": "sub_icons/pets/prime_band_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "54a74454e779892d5e515664",
-      "slug": "gilded_truth",
-      "gameRef": "/Lotus/Upgrades/Mods/Syndicate/BurstonPrimeMod",
-      "tags": [
-        "syndicate",
-        "burston_prime",
-        "mod",
-        "rare",
-        "primary",
-        "prime"
-      ],
-      "maxRank": 3,
-      "i18n": {
-        "en": {
-          "name": "Gilded Truth",
-          "icon": "items/images/en/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.png",
-          "thumb": "items/images/en/thumbs/gilded_truth.4f864f82b65bf77a28c01419c6cbfce1.128x128.png"
         }
       }
     },
@@ -13562,64 +13737,6 @@
           "icon": "items/images/en/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.png",
           "thumb": "items/images/en/thumbs/helios_prime_blueprint.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
           "subIcon": "sub_icons/blueprint_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "56153727b66f836f91a8e849",
-      "slug": "kavasa_prime_kubrow_collar_blueprint",
-      "gameRef": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABlueprint",
-      "tags": [
-        "prime",
-        "skin",
-        "blueprint"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Kavasa Prime Kubrow Collar Blueprint",
-          "icon": "items/images/en/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.png",
-          "thumb": "items/images/en/thumbs/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
-          "subIcon": "sub_icons/blueprint_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "5527a26de77989205156b2b7",
-      "slug": "odonata_prime_blueprint",
-      "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingBlueprint",
-      "tags": [
-        "archwing",
-        "blueprint",
-        "prime"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Odonata Prime Blueprint",
-          "icon": "items/images/en/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.png",
-          "thumb": "items/images/en/thumbs/odonata_prime_blueprint.9087f5267b49dee37c38d36f57387753.128x128.png",
-          "subIcon": "sub_icons/blueprint_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "5527a280e779892059574ca9",
-      "slug": "odonata_prime_wings_blueprint",
-      "gameRef": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingWingsBlueprint",
-      "tags": [
-        "component",
-        "prime",
-        "archwing",
-        "blueprint"
-      ],
-      "ducats": 65,
-      "i18n": {
-        "en": {
-          "name": "Odonata Prime Wings Blueprint",
-          "icon": "items/images/en/odonata_prime_wings.9087f5267b49dee37c38d36f57387753.png",
-          "thumb": "items/images/en/thumbs/odonata_prime_wings.9087f5267b49dee37c38d36f57387753.128x128.png",
-          "subIcon": "sub_icons/archwing/prime_wings_128x128.png"
         }
       }
     },
@@ -13678,42 +13795,6 @@
           "name": "Helios Prime Set",
           "icon": "items/images/en/helios_prime_set.625b7c74ea5dd61b1840f8094df7648a.png",
           "thumb": "items/images/en/thumbs/helios_prime_set.625b7c74ea5dd61b1840f8094df7648a.128x128.png"
-        }
-      }
-    },
-    {
-      "id": "56783f24cbfa8f0432dd89a0",
-      "slug": "kavasa_prime_kubrow_collar_set",
-      "gameRef": "/Lotus/Upgrades/Skins/Kubrows/Collars/PrimeKubrowCollarA",
-      "tags": [
-        "prime",
-        "skin",
-        "set"
-      ],
-      "ducats": 155,
-      "i18n": {
-        "en": {
-          "name": "Kavasa Prime Kubrow Collar Set",
-          "icon": "items/images/en/kavasa_prime_kubrow_collar_set.cc1bafee4156c05ebaa812d39cd559ba.png",
-          "thumb": "items/images/en/thumbs/kavasa_prime_kubrow_collar_set.cc1bafee4156c05ebaa812d39cd559ba.128x128.png"
-        }
-      }
-    },
-    {
-      "id": "56783f24cbfa8f0432dd89a7",
-      "slug": "odonata_prime_set",
-      "gameRef": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack",
-      "tags": [
-        "prime",
-        "set",
-        "archwing"
-      ],
-      "ducats": 140,
-      "i18n": {
-        "en": {
-          "name": "Odonata Prime Set",
-          "icon": "items/images/en/odonata_prime_set.9087f5267b49dee37c38d36f57387753.png",
-          "thumb": "items/images/en/thumbs/odonata_prime_set.9087f5267b49dee37c38d36f57387753.128x128.png"
         }
       }
     },
@@ -16692,6 +16773,1218 @@
           "name": "Melee Careen",
           "icon": "items/images/en/melee_careen.14f866446993248fb049236b3437963b.webp",
           "thumb": "items/images/en/thumbs/melee_careen.14f866446993248fb049236b3437963b.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69765a057b65a4e83d4ab4ae",
+      "slug": "zid-an-sek-eel",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/UltimateInvisibilty",
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Zid-an Sek-eel",
+          "icon": "items/images/en/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.webp",
+          "thumb": "items/images/en/thumbs/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69765a057b65a4e83d4ab4af",
+      "slug": "zid-an-asheir",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/StatusChanceOnUltimateHit",
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Zid-an Asheir",
+          "icon": "items/images/en/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.webp",
+          "thumb": "items/images/en/thumbs/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69765a057b65a4e83d4ab4b0",
+      "slug": "zid-an-uskos",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/HeatStatusProcOnUltimateKill",
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Zid-an Uskos",
+          "icon": "items/images/en/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.webp",
+          "thumb": "items/images/en/thumbs/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69765a067b65a4e83d4ab4b1",
+      "slug": "zid-an-haras",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/AmmoEfficencyDuringUltimate",
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Zid-an Haras",
+          "icon": "items/images/en/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.webp",
+          "thumb": "items/images/en/thumbs/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69765a067b65a4e83d4ab4b2",
+      "slug": "zid-an-osbok",
+      "gameRef": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/VoidSlingsOverguardStrip",
+      "tags": [
+        "arcane_enhancement"
+      ],
+      "maxRank": 5,
+      "i18n": {
+        "en": {
+          "name": "Zid-an Osbok",
+          "icon": "items/images/en/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.webp",
+          "thumb": "items/images/en/thumbs/zid-an-osbok.bea2033c8ac9089bcff1ea005cdff694.128x128.webp"
+        }
+      }
+    }
+  ],
+  "mods": [
+    {
+      "id": "54c68686e7798913c1042b4b",
+      "slug": "primed_point_blank",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Point Blank",
+          "icon": "items/images/en/primed_point_blank.205167d02b8601e3d5e56dd6e8d51649.png",
+          "thumb": "items/images/en/thumbs/primed_point_blank.205167d02b8601e3d5e56dd6e8d51649.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5655c4b3b66f832e11abd3fb",
+      "slug": "primed_shotgun_ammo_mutation",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Shotgun Ammo Mutation",
+          "icon": "items/images/en/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.png",
+          "thumb": "items/images/en/thumbs/primed_shotgun_ammo_mutation.3b4752657f1d04139d6cd22039bf49d2.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54c685c4e77989137eb0f9be",
+      "slug": "primed_ravage",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Ravage",
+          "icon": "items/images/en/primed_ravage.a0c43849bce0a4b4b68b54a3d799d314.png",
+          "thumb": "items/images/en/thumbs/primed_ravage.a0c43849bce0a4b4b68b54a3d799d314.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5765ab4947837cf09eec1f02",
+      "slug": "primed_pressure_point",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Pressure Point",
+          "icon": "items/images/en/primed_pressure_point.57758ed051424155155fb94824224ab4.png",
+          "thumb": "items/images/en/thumbs/primed_pressure_point.57758ed051424155155fb94824224ab4.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5bb7658e92ea46005b6d386d",
+      "slug": "primed_expel_grineer",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageGrineerExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Expel Grineer",
+          "icon": "items/images/en/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.png",
+          "thumb": "items/images/en/thumbs/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5bb7658f92ea46005b6d386e",
+      "slug": "primed_expel_corpus",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Expel Corpus",
+          "icon": "items/images/en/primed_expel_corpus.a7084d32e9f304849b28b8a1b680671c.png",
+          "thumb": "items/images/en/thumbs/primed_expel_corpus.a7084d32e9f304849b28b8a1b680671c.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5bb7658f92ea46005b6d386f",
+      "slug": "primed_expel_infested",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageInfestedExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Expel Infested",
+          "icon": "items/images/en/primed_expel_infested.2b5bda3a8c89f2db5e29f598a3e39ce0.png",
+          "thumb": "items/images/en/thumbs/primed_expel_infested.2b5bda3a8c89f2db5e29f598a3e39ce0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5bbcec53f639cf007b7357cf",
+      "slug": "primed_expel_corrupted",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorruptedExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Expel Orokin",
+          "icon": "items/images/en/primed_expel_corrupted.8c7d6df438f5bf500adda9c1745190fc.png",
+          "thumb": "items/images/en/thumbs/primed_expel_corrupted.8c7d6df438f5bf500adda9c1745190fc.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54c686dce7798913e1a86565",
+      "slug": "primed_heated_charge",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Heated Charge",
+          "icon": "items/images/en/primed_heated_charge.be3ac37bf7d2d82f77587dff71452c21.png",
+          "thumb": "items/images/en/thumbs/primed_heated_charge.be3ac37bf7d2d82f77587dff71452c21.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54c6855ee779891362942572",
+      "slug": "primed_continuity",
+      "gameRef": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarAbilityDurationModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "warframe"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Continuity",
+          "icon": "items/images/en/primed_continuity.240ece0417bbfeff4410681ea2294f13.png",
+          "thumb": "items/images/en/thumbs/primed_continuity.240ece0417bbfeff4410681ea2294f13.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "56900be253c8e91351672724",
+      "slug": "primed_bane_of_infested",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageInfested",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Bane Of Infested",
+          "icon": "items/images/en/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.png",
+          "thumb": "items/images/en/thumbs/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "56900c0053c8e91351672725",
+      "slug": "primed_bane_of_corpus",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorpus",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Bane Of Corpus",
+          "icon": "items/images/en/primed_bane_of_corpus.7574a28b4b72dc8cf59ceaea00653fa7.png",
+          "thumb": "items/images/en/thumbs/primed_bane_of_corpus.7574a28b4b72dc8cf59ceaea00653fa7.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "56a3ae00a4cc3c6028b342b1",
+      "slug": "primed_bane_of_grineer",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageGrineer",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Bane Of Grineer",
+          "icon": "items/images/en/primed_bane_of_grineer.8c901b72c21bb8d664c8403288c1bc1a.png",
+          "thumb": "items/images/en/thumbs/primed_bane_of_grineer.8c901b72c21bb8d664c8403288c1bc1a.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5655c4e5b66f832e25b8ce7b",
+      "slug": "primed_morphic_transformer",
+      "gameRef": "/Lotus/Upgrades/Mods/Archwing/Expert/ArchwingSuitAbilityStrengthModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "archwing"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Morphic Transformer",
+          "icon": "items/images/en/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.png",
+          "thumb": "items/images/en/thumbs/primed_morphic_transformer.d9aafc2cca4aed29c725c5b131874ffe.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5cdedd22fc2db20e0d0c5543",
+      "slug": "primed_pack_leader",
+      "gameRef": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod",
+      "tags": [
+        "mod",
+        "legendary",
+        "sentinel",
+        "companion"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Pack Leader",
+          "icon": "items/images/en/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.png",
+          "thumb": "items/images/en/thumbs/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54c686c9e7798913d9e63fff",
+      "slug": "primed_heavy_trauma",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponImpactDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Heavy Trauma",
+          "icon": "items/images/en/primed_heavy_trauma.bac389152dab880e42a72ef919212844.png",
+          "thumb": "items/images/en/thumbs/primed_heavy_trauma.bac389152dab880e42a72ef919212844.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54c6869ae7798913ca68c3dd",
+      "slug": "primed_fast_hands",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponReloadSpeedModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Fast Hands",
+          "icon": "items/images/en/primed_fast_hands.6bd825412c58f77828bfaaa9936a7e92.png",
+          "thumb": "items/images/en/thumbs/primed_fast_hands.6bd825412c58f77828bfaaa9936a7e92.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5992f2fa6a92654847b8df2a",
+      "slug": "primed_bane_of_corrupted",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorrupted",
+      "tags": [
+        "mod",
+        "rifle",
+        "primary",
+        "legendary"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Bane Of Orokin",
+          "icon": "items/images/en/primed_bane_of_corrupted.b273d5d38532bdb777d830ce87a84d9e.png",
+          "thumb": "items/images/en/thumbs/primed_bane_of_corrupted.b273d5d38532bdb777d830ce87a84d9e.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "554d3f0ce779894445a848fc",
+      "slug": "primed_slip_magazine",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Slip Magazine",
+          "icon": "items/images/en/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.png",
+          "thumb": "items/images/en/thumbs/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54c68672e7798913ba044082",
+      "slug": "primed_flow",
+      "gameRef": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarPowerMaxModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "warframe"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Flow",
+          "icon": "items/images/en/primed_flow.f65c5889e6d464ceea67c6c0aae9faa0.png",
+          "thumb": "items/images/en/thumbs/primed_flow.f65c5889e6d464ceea67c6c0aae9faa0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54dd276ee7798934e7afad13",
+      "slug": "primed_pistol_ammo_mutation",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolConvertAmmoModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Pistol Ammo Mutation",
+          "icon": "items/images/en/primed_pistol_ammo_mutation.3a6c03643ec114f30da4f486b9a30a59.png",
+          "thumb": "items/images/en/thumbs/primed_pistol_ammo_mutation.3a6c03643ec114f30da4f486b9a30a59.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54dd265ce7798934d026f6fc",
+      "slug": "primed_reach",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Reach",
+          "icon": "items/images/en/primed_reach.190fc0fb5b26e6b8a2f5be6927099fa0.png",
+          "thumb": "items/images/en/thumbs/primed_reach.190fc0fb5b26e6b8a2f5be6927099fa0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5dfea13a1456970294aff353",
+      "slug": "primed_smite_infested",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageInfestedExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Smite Infested",
+          "icon": "items/images/en/primed_smite_infested.fd671126fd4051e8e3addc13ae56d1f0.png",
+          "thumb": "items/images/en/thumbs/primed_smite_infested.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5dfea1431456970294aff388",
+      "slug": "primed_smite_corpus",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorpusExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Smite Corpus",
+          "icon": "items/images/en/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.png",
+          "thumb": "items/images/en/thumbs/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5eb5e49a04d55c04e80d6a80",
+      "slug": "primed_cleanse_grineer",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageGrineerExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Cleanse Grineer",
+          "icon": "items/images/en/primed_cleanse_grineer.58b58698d52bfa948c0b10130787bd2b.png",
+          "thumb": "items/images/en/thumbs/primed_cleanse_grineer.58b58698d52bfa948c0b10130787bd2b.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5eb5e49b04d55c04e80d6a81",
+      "slug": "primed_cleanse_infested",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageInfestedExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Cleanse Infested",
+          "icon": "items/images/en/primed_cleanse_infested.e08c5946ac81b9b21153eb675c9b30f0.png",
+          "thumb": "items/images/en/thumbs/primed_cleanse_infested.e08c5946ac81b9b21153eb675c9b30f0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5eb5e49c04d55c04e80d6a82",
+      "slug": "primed_cleanse_corpus",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorpusExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Cleanse Corpus",
+          "icon": "items/images/en/primed_cleanse_corpus.664f038307f6f3c9b8fedf14bc76896b.png",
+          "thumb": "items/images/en/thumbs/primed_cleanse_corpus.664f038307f6f3c9b8fedf14bc76896b.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5eb5e49d04d55c04e80d6a83",
+      "slug": "primed_cleanse_corrupted",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorruptedExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Cleanse Orokin",
+          "icon": "items/images/en/primed_cleanse_corrupted.d9801706fa8ef1720484d7b1c37107fe.png",
+          "thumb": "items/images/en/thumbs/primed_cleanse_corrupted.d9801706fa8ef1720484d7b1c37107fe.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "581d0c4ed5f9e290fa2e959f",
+      "slug": "primed_cryo_rounds",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponFreezeDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Cryo Rounds",
+          "icon": "items/images/en/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.png",
+          "thumb": "items/images/en/thumbs/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5ca7ae31fc2db20506557090",
+      "slug": "primed_animal_instinct",
+      "gameRef": "/Lotus/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarExpertMod",
+      "tags": [
+        "mod",
+        "legendary",
+        "sentinel",
+        "companion"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Animal Instinct",
+          "icon": "items/images/en/primed_animal_instinct.5c821ee7a8d69aace0923cdafe5d2fbb.png",
+          "thumb": "items/images/en/thumbs/primed_animal_instinct.5c821ee7a8d69aace0923cdafe5d2fbb.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5ef0a62004d55c0c40f06526",
+      "slug": "primed_rubedo_lined_barrel",
+      "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert",
+      "tags": [
+        "legendary",
+        "primary",
+        "mod",
+        "archwing",
+        "archgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Rubedo-Lined Barrel",
+          "icon": "items/images/en/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.png",
+          "thumb": "items/images/en/thumbs/primed_rubedo_lined_barrel.f907cff537d893315d623f87d3b700eb.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "563893fcb66f83093e823472",
+      "slug": "primed_target_cracker",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponCritDamageMod",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Target Cracker",
+          "icon": "items/images/en/primed_target_cracker.dbdd7561e20eb9243d62a193a1d786aa.png",
+          "thumb": "items/images/en/thumbs/primed_target_cracker.dbdd7561e20eb9243d62a193a1d786aa.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "559dacd3e779897ba8819965",
+      "slug": "primed_pistol_gambit",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponCritChanceModBeginnerExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Pistol Gambit",
+          "icon": "items/images/en/primed_pistol_gambit.a4590d10e9f17bc15d1cdaae9507d4ad.png",
+          "thumb": "items/images/en/thumbs/primed_pistol_gambit.a4590d10e9f17bc15d1cdaae9507d4ad.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5a0ef77010bc4000b8a7c12a",
+      "slug": "primed_fever_strike",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponToxinDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Fever Strike",
+          "icon": "items/images/en/primed_fever_strike.a0dc6eb9fbb4c6648aed7793ca40286b.png",
+          "thumb": "items/images/en/thumbs/primed_fever_strike.a0dc6eb9fbb4c6648aed7793ca40286b.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5b6b4850b6de79023813f39e",
+      "slug": "primed_quickdraw",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponReloadSpeedModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Quickdraw",
+          "icon": "items/images/en/primed_quickdraw.1768ebb4f9758fa903319e3979fa2239.png",
+          "thumb": "items/images/en/thumbs/primed_quickdraw.1768ebb4f9758fa903319e3979fa2239.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5fca4b457bfda40043597ee8",
+      "slug": "primed_firestorm",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponIncreaseRadialExplosionModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Firestorm",
+          "icon": "items/images/en/primed_firestorm.37a27c8080456fbe614ced671beed66b.png",
+          "thumb": "items/images/en/thumbs/primed_firestorm.37a27c8080456fbe614ced671beed66b.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5fca4b457bfda40043597ee9",
+      "slug": "primed_fulmination",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Fulmination",
+          "icon": "items/images/en/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.png",
+          "thumb": "items/images/en/thumbs/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5655c4c7b66f832e1ad87d50",
+      "slug": "primed_rifle_ammo_mutation",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRifleConvertAmmoModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "assault_rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Rifle Ammo Mutation",
+          "icon": "items/images/en/primed_rifle_ammo_mutation.d7261c0bfbca0a7e8f26bf24257d172a.png",
+          "thumb": "items/images/en/thumbs/primed_rifle_ammo_mutation.d7261c0bfbca0a7e8f26bf24257d172a.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5ba4fde94567de006211ae6d",
+      "slug": "primed_charged_shell",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Charged Shell",
+          "icon": "items/images/en/primed_charged_shell.057b97c27209ec391d8d4e0ca1a2a5e9.png",
+          "thumb": "items/images/en/thumbs/primed_charged_shell.057b97c27209ec391d8d4e0ca1a2a5e9.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "587a15c8c13d58ede882322b",
+      "slug": "primed_regen",
+      "gameRef": "/Lotus/Types/Sentinels/SentinelPrecepts/PrimedRegen",
+      "tags": [
+        "sentinel",
+        "mod",
+        "legendary"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Regen",
+          "icon": "items/images/en/primed_regen.d43312351a7a10acef1b56641029f044.png",
+          "thumb": "items/images/en/thumbs/primed_regen.d43312351a7a10acef1b56641029f044.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5dfea13f1456970294aff370",
+      "slug": "primed_smite_grineer",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageGrineerExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Smite Grineer",
+          "icon": "items/images/en/primed_smite_grineer.fd671126fd4051e8e3addc13ae56d1f0.png",
+          "thumb": "items/images/en/thumbs/primed_smite_grineer.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5dfea1441456970294aff38f",
+      "slug": "primed_smite_corrupted",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorruptedExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Smite Orokin",
+          "icon": "items/images/en/primed_smite_corrupted.fd671126fd4051e8e3addc13ae56d1f0.png",
+          "thumb": "items/images/en/thumbs/primed_smite_corrupted.fd671126fd4051e8e3addc13ae56d1f0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "604b78670a372603583c1643",
+      "slug": "primed_chilling_grasp",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponFreezeDamageModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Chilling Grasp",
+          "icon": "items/images/en/primed_chilling_grasp.2b25a580922abcba87c88a9b83e0678e.png",
+          "thumb": "items/images/en/thumbs/primed_chilling_grasp.2b25a580922abcba87c88a9b83e0678e.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "60cca19052f60b004dfea04d",
+      "slug": "primed_tactical_pump",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponReloadSpeedModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Tactical Pump",
+          "icon": "items/images/en/primed_tactical_pump.eee08b75f81f2885d578e228448f75b2.png",
+          "thumb": "items/images/en/thumbs/primed_tactical_pump.eee08b75f81f2885d578e228448f75b2.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "6139101930dd5b004b7f909c",
+      "slug": "primed_magazine_warp",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponClipMaxModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Magazine Warp",
+          "icon": "items/images/en/primed_magazine_warp.3633879e6484d0e271c64b1b04752966.png",
+          "thumb": "items/images/en/thumbs/primed_magazine_warp.3633879e6484d0e271c64b1b04752966.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "614f83a3e330e60063b618fa",
+      "slug": "primed_ammo_stock",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponClipMaxModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Ammo Stock",
+          "icon": "items/images/en/primed_ammo_stock.7caa4ea837a78b6d24b78a0bb46a1dce.png",
+          "thumb": "items/images/en/thumbs/primed_ammo_stock.7caa4ea837a78b6d24b78a0bb46a1dce.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "622c032966a58f0048549b1a",
+      "slug": "primed_sniper_ammo_mutation",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponSnipersConvertAmmoModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "sniper"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Sniper Ammo Mutation",
+          "icon": "items/images/en/primed_sniper_ammo_mutation.c03bd7dc7932247caeb35a1b2db935f0.png",
+          "thumb": "items/images/en/thumbs/primed_sniper_ammo_mutation.c03bd7dc7932247caeb35a1b2db935f0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "657c67a594e1edefd8db9c90",
+      "slug": "primed_redirection",
+      "gameRef": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "warframe"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Redirection",
+          "icon": "items/images/en/primed_redirection.325f8cb4a67aa608a364f7d19d9fd2e0.png",
+          "thumb": "items/images/en/thumbs/primed_redirection.325f8cb4a67aa608a364f7d19d9fd2e0.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "658ed23f2ad6a142084fa434",
+      "slug": "primed_convulsion",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponElectricityDamageMod",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Convulsion",
+          "icon": "items/images/en/primed_convulsion.653accfb70d0dc43bdb4c09afd8dc2a2.png",
+          "thumb": "items/images/en/thumbs/primed_convulsion.653accfb70d0dc43bdb4c09afd8dc2a2.128x128.png"
+        }
+      }
+    },
+    {
+      "id": "667ebc4259acb6bf03ebc329",
+      "slug": "primed_dual_rounds",
+      "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/PrimedArchwingRifleFireIterationsMod",
+      "tags": [
+        "primary",
+        "mod",
+        "legendary",
+        "archwing",
+        "archgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Dual Rounds",
+          "icon": "items/images/en/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.webp",
+          "thumb": "items/images/en/thumbs/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "66912e8259acb6bf03ebc342",
+      "slug": "primed_deadly_efficiency",
+      "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/PrimedArchwingDamageOnReloadMod",
+      "tags": [
+        "primary",
+        "mod",
+        "legendary",
+        "archwing",
+        "archgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Deadly Efficiency",
+          "icon": "items/images/en/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.webp",
+          "thumb": "items/images/en/thumbs/primed_deadly_efficiency.6c4ef2232a90ec25f8c82a40602a21eb.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "67eff367cedcd0be6d13595e",
+      "slug": "primed_steady_hands",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponRecoilReductionModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Steady Hands",
+          "icon": "items/images/en/primed_steady_hands.1d29887a28ce4c601e6c1ba29c92bbe4.webp",
+          "thumb": "items/images/en/thumbs/primed_steady_hands.1d29887a28ce4c601e6c1ba29c92bbe4.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "68028a0a24bd8dc3de5797d4",
+      "slug": "primed_stabilizer",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRecoilReductionModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Stabilizer",
+          "icon": "items/images/en/primed_stabilizer.6a71bfad85471874722d113409dcc828.webp",
+          "thumb": "items/images/en/thumbs/primed_stabilizer.6a71bfad85471874722d113409dcc828.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "6814dc7c35715d4f3e9c64b6",
+      "slug": "primed_counterbalance",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponRecoilReductionModExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Counterbalance",
+          "icon": "items/images/en/primed_counterbalance.2e8f0586838ca7b371168c73c24db304.webp",
+          "thumb": "items/images/en/thumbs/primed_counterbalance.2e8f0586838ca7b371168c73c24db304.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "685f1bf7731e63abe79a5cfa",
+      "slug": "primed_smite_the_murmur",
+      "gameRef": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageMurmursExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "melee"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Smite The Murmur",
+          "icon": "items/images/en/primed_smite_the_murmur.72a5ed9fa6492475778c404423a258f5.webp",
+          "thumb": "items/images/en/thumbs/primed_smite_the_murmur.72a5ed9fa6492475778c404423a258f5.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "68839bb9731e63abe79a5d0b",
+      "slug": "primed_expel_the_murmur",
+      "gameRef": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageMurmursExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "secondary",
+        "pistol"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Expel The Murmur",
+          "icon": "items/images/en/primed_expel_the_murmur.f53d132ed58595187052bba3f83222cd.webp",
+          "thumb": "items/images/en/thumbs/primed_expel_the_murmur.f53d132ed58595187052bba3f83222cd.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "68a86e6b731e63abe79a5d0d",
+      "slug": "primed_cleanse_the_murmur",
+      "gameRef": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageMurmursExpert",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "shotgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Cleanse The Murmur",
+          "icon": "items/images/en/primed_cleanse_the_murmur.3dae6796b99b296ad259c86ae6aeed32.webp",
+          "thumb": "items/images/en/thumbs/primed_cleanse_the_murmur.3dae6796b99b296ad259c86ae6aeed32.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "68cd5ef5e800bed01fa3482e",
+      "slug": "primed_bane_of_the_murmur",
+      "gameRef": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageMurmurs",
+      "tags": [
+        "mod",
+        "legendary",
+        "primary",
+        "rifle"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Bane Of The Murmur",
+          "icon": "items/images/en/primed_bane_of_the_murmur.5c422ed6c90990253654c35908810795.webp",
+          "thumb": "items/images/en/thumbs/primed_bane_of_the_murmur.5c422ed6c90990253654c35908810795.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "694ec216f384e9a134cf4f47",
+      "slug": "primed_venomous_clip",
+      "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingWeaponToxinDamageModExpert",
+      "tags": [
+        "primary",
+        "archwing",
+        "legendary",
+        "mod",
+        "archgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Venomous Clip",
+          "icon": "items/images/en/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.webp",
+          "thumb": "items/images/en/thumbs/primed_venomous_clip.3da375b43efdcdc065e4f8d060ab3968.128x128.webp"
+        }
+      }
+    },
+    {
+      "id": "69988d58bdd67bd33c02704b",
+      "slug": "primed_ammo_chain",
+      "gameRef": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleAmmoMaxModExpert",
+      "tags": [
+        "primary",
+        "archwing",
+        "legendary",
+        "mod",
+        "archgun"
+      ],
+      "maxRank": 10,
+      "i18n": {
+        "en": {
+          "name": "Primed Ammo Chain",
+          "icon": "items/images/en/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.webp",
+          "thumb": "items/images/en/thumbs/primed_ammo_chain.09ebc62670431d28f40cdb4e984b8031.128x128.webp"
         }
       }
     }
