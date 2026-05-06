@@ -5009,44 +5009,6 @@
       }
     },
     {
-      "id": "58b57068eb26db5c31192116",
-      "slug": "helios_prime_carapace",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosCarapace",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Helios Prime Carapace",
-          "icon": "items/images/en/helios_prime_carapace.625b7c74ea5dd61b1840f8094df7648a.png",
-          "thumb": "items/images/en/thumbs/helios_prime_carapace.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "54ca4337e779891a2e3fbc83",
-      "slug": "wyrm_prime_systems",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmSystems",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Wyrm Prime Systems",
-          "icon": "items/images/en/wyrm_prime_systems.4da3da5cc8eeef554dc3208bbb5a8f26.png",
-          "thumb": "items/images/en/thumbs/wyrm_prime_systems.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
-        }
-      }
-    },
-    {
       "id": "54a73e65e779893a797fff42",
       "slug": "fang_prime_handle",
       "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeFangHandle",
@@ -6049,25 +6011,6 @@
       }
     },
     {
-      "id": "54ca4330e779891a286a5428",
-      "slug": "wyrm_prime_carapace",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Wyrm Prime Carapace",
-          "icon": "items/images/en/wyrm_prime_carapace.4da3da5cc8eeef554dc3208bbb5a8f26.png",
-          "thumb": "items/images/en/thumbs/wyrm_prime_carapace.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
-        }
-      }
-    },
-    {
       "id": "592dd262011e88f094afec82",
       "slug": "sybaris_prime_blueprint",
       "gameRef": "/Lotus/Types/Recipes/Weapons/SybarisPrimeBlueprint",
@@ -6361,44 +6304,6 @@
       }
     },
     {
-      "id": "5d93ca107ea27b0a87566f5f",
-      "slug": "dethcube_prime_carapace",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeCarapace",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Dethcube Prime Carapace",
-          "icon": "items/images/en/dethcube_prime_carapace.47a0e82681bf367a015928558a9f133b.png",
-          "thumb": "items/images/en/thumbs/dethcube_prime_carapace.47a0e82681bf367a015928558a9f133b.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "5d93ca107ea27b0a87566f62",
-      "slug": "dethcube_prime_cerebrum",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeCerebrum",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 65,
-      "i18n": {
-        "en": {
-          "name": "Dethcube Prime Cerebrum",
-          "icon": "items/images/en/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.png",
-          "thumb": "items/images/en/thumbs/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
-        }
-      }
-    },
-    {
       "id": "5d93ca117ea27b0a87566f65",
       "slug": "tekko_prime_gauntlet",
       "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/TekkoPrimeGauntlet",
@@ -6571,25 +6476,6 @@
       }
     },
     {
-      "id": "54ca4329e779891a21d036bd",
-      "slug": "wyrm_prime_cerebrum",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCerebrum",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Wyrm Prime Cerebrum",
-          "icon": "items/images/en/wyrm_prime_cerebrum.4da3da5cc8eeef554dc3208bbb5a8f26.png",
-          "thumb": "items/images/en/thumbs/wyrm_prime_cerebrum.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
-        }
-      }
-    },
-    {
       "id": "54a73e65e779893a797fff4e",
       "slug": "lex_prime_blueprint",
       "gameRef": "/Lotus/Types/Recipes/Weapons/LexPrimeBlueprint",
@@ -6664,25 +6550,6 @@
           "icon": "items/images/en/scindo_prime_blueprint.ae70ac90b811a44f64263394b6410c28.png",
           "thumb": "items/images/en/thumbs/scindo_prime_blueprint.ae70ac90b811a44f64263394b6410c28.128x128.png",
           "subIcon": "sub_icons/blueprint_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "559daad1e779897b4be73862",
-      "slug": "carrier_prime_carapace",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCarapace",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Carrier Prime Carapace",
-          "icon": "items/images/en/carrier_prime_carapace.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
-          "thumb": "items/images/en/thumbs/carrier_prime_carapace.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
         }
       }
     },
@@ -7088,25 +6955,6 @@
           "icon": "items/images/en/euphona_prime_barrel.6a18cc50c57ac13c3203e872baf85a8d.png",
           "thumb": "items/images/en/thumbs/euphona_prime_barrel.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
           "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "58b57068eb26db5c31192115",
-      "slug": "helios_prime_cerebrum",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosCerebrum",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 100,
-      "i18n": {
-        "en": {
-          "name": "Helios Prime Cerebrum",
-          "icon": "items/images/en/helios_prime_cerebrum.625b7c74ea5dd61b1840f8094df7648a.png",
-          "thumb": "items/images/en/thumbs/helios_prime_cerebrum.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
         }
       }
     },
@@ -7920,25 +7768,6 @@
       }
     },
     {
-      "id": "559daad8e779897b4f59525f",
-      "slug": "carrier_prime_systems",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierSystems",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Carrier Prime Systems",
-          "icon": "items/images/en/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
-          "thumb": "items/images/en/thumbs/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
-        }
-      }
-    },
-    {
       "id": "56c3bc025d2f0202da32e944",
       "slug": "spira_prime_blueprint",
       "gameRef": "/Lotus/Types/Recipes/Weapons/PrimeLiDaggerBlueprint",
@@ -7955,25 +7784,6 @@
           "icon": "items/images/en/spira_prime_blueprint.1a495b1cb31bba268dc7a50f2a4f7134.png",
           "thumb": "items/images/en/thumbs/spira_prime_blueprint.1a495b1cb31bba268dc7a50f2a4f7134.128x128.png",
           "subIcon": "sub_icons/blueprint_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "58b57068eb26db5c31192117",
-      "slug": "helios_prime_systems",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosSystems",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Helios Prime Systems",
-          "icon": "items/images/en/helios_prime_systems.625b7c74ea5dd61b1840f8094df7648a.png",
-          "thumb": "items/images/en/thumbs/helios_prime_systems.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
         }
       }
     },
@@ -8189,25 +7999,6 @@
           "icon": "items/images/en/fragor_prime_handle.2b917b8a12f0981ff0a9a48c6c24edb1.png",
           "thumb": "items/images/en/thumbs/fragor_prime_handle.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
           "subIcon": "sub_icons/weapon/prime_handle_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "559daacae779897b47b74c13",
-      "slug": "carrier_prime_cerebrum",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCerebrum",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 65,
-      "i18n": {
-        "en": {
-          "name": "Carrier Prime Cerebrum",
-          "icon": "items/images/en/carrier_prime_cerebrum.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
-          "thumb": "items/images/en/thumbs/carrier_prime_cerebrum.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
         }
       }
     },
@@ -8592,25 +8383,6 @@
           "icon": "items/images/en/corinth_prime_blueprint.1f73bc83dd117b5e0295b90ed0cccc8d.png",
           "thumb": "items/images/en/thumbs/corinth_prime_blueprint.1f73bc83dd117b5e0295b90ed0cccc8d.128x128.png",
           "subIcon": "sub_icons/blueprint_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "5d93ca117ea27b0a87566f6e",
-      "slug": "dethcube_prime_systems",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeSystems",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Dethcube Prime Systems",
-          "icon": "items/images/en/dethcube_prime_systems.47a0e82681bf367a015928558a9f133b.png",
-          "thumb": "items/images/en/thumbs/dethcube_prime_systems.47a0e82681bf367a015928558a9f133b.128x128.png",
-          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
         }
       }
     },
@@ -10120,25 +9892,6 @@
       }
     },
     {
-      "id": "641263e07d179f02100c6d44",
-      "slug": "shade_prime_systems",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeSystems",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Shade Prime Systems",
-          "icon": "items/images/en/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.png",
-          "thumb": "items/images/en/thumbs/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.128x128.png",
-          "subIcon": "sub_icons/weapon/prime_systems_128x128.png"
-        }
-      }
-    },
-    {
       "id": "641263e07d179f02100c6d47",
       "slug": "larkspur_prime_barrel",
       "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeBarrel",
@@ -10154,25 +9907,6 @@
           "icon": "items/images/en/larkspur_prime_barrel.592e684b836593e202891aea8b3a3f6c.png",
           "thumb": "items/images/en/thumbs/larkspur_prime_barrel.592e684b836593e202891aea8b3a3f6c.128x128.png",
           "subIcon": "sub_icons/weapon/prime_barrel_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "641263e07d179f02100c6d48",
-      "slug": "shade_prime_cerebrum",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeCerebrum",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Shade Prime Cerebrum",
-          "icon": "items/images/en/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.png",
-          "thumb": "items/images/en/thumbs/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.128x128.png",
-          "subIcon": "sub_icons/weapon/prime_cerebrum_128x128.png"
         }
       }
     },
@@ -10211,25 +9945,6 @@
           "icon": "items/images/en/larkspur_prime_receiver.592e684b836593e202891aea8b3a3f6c.png",
           "thumb": "items/images/en/thumbs/larkspur_prime_receiver.592e684b836593e202891aea8b3a3f6c.128x128.png",
           "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "641263e07d179f02100c6d4d",
-      "slug": "shade_prime_carapace",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeCarapace",
-      "tags": [
-        "component",
-        "weapon",
-        "prime"
-      ],
-      "ducats": 100,
-      "i18n": {
-        "en": {
-          "name": "Shade Prime Carapace",
-          "icon": "items/images/en/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.png",
-          "thumb": "items/images/en/thumbs/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.128x128.png",
-          "subIcon": "sub_icons/weapon/prime_carapace_128x128.png"
         }
       }
     },
@@ -10869,63 +10584,6 @@
           "icon": "items/images/en/epitaph_prime_receiver.a81cadf3c1f6e67c92c188534ced77b2.webp",
           "thumb": "items/images/en/thumbs/epitaph_prime_receiver.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
           "subIcon": "sub_icons/weapon/prime_receiver_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "66c60c9066bbb2aedca695aa",
-      "slug": "nautilus_prime_cerebrum",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
-      "tags": [
-        "component",
-        "prime",
-        "weapon"
-      ],
-      "ducats": 100,
-      "i18n": {
-        "en": {
-          "name": "Nautilus Prime Cerebrum",
-          "icon": "items/images/en/nautilus_prime_cerebrum.a81cadf3c1f6e67c92c188534ced77b2.webp",
-          "thumb": "items/images/en/thumbs/nautilus_prime_cerebrum.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
-          "subIcon": "sub_icons/weapon/prime_cerebrum_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "66c60c9066bbb2aedca695ab",
-      "slug": "nautilus_prime_carapace",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
-      "tags": [
-        "component",
-        "prime",
-        "weapon"
-      ],
-      "ducats": 15,
-      "i18n": {
-        "en": {
-          "name": "Nautilus Prime Carapace",
-          "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
-          "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
-          "subIcon": "sub_icons/weapon/prime_carapace_128x128.png"
-        }
-      }
-    },
-    {
-      "id": "66c60c9166bbb2aedca695ac",
-      "slug": "nautilus_prime_systems",
-      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
-      "tags": [
-        "component",
-        "prime",
-        "weapon"
-      ],
-      "ducats": 45,
-      "i18n": {
-        "en": {
-          "name": "Nautilus Prime Systems",
-          "icon": "items/images/en/nautilus_prime_systems.a81cadf3c1f6e67c92c188534ced77b2.webp",
-          "thumb": "items/images/en/thumbs/nautilus_prime_systems.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
-          "subIcon": "sub_icons/weapon/prime_systems_128x128.png"
         }
       }
     },
@@ -13684,6 +13342,44 @@
       }
     },
     {
+      "id": "58b57068eb26db5c31192116",
+      "slug": "helios_prime_carapace",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosCarapace",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Helios Prime Carapace",
+          "icon": "items/images/en/helios_prime_carapace.625b7c74ea5dd61b1840f8094df7648a.png",
+          "thumb": "items/images/en/thumbs/helios_prime_carapace.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54ca4337e779891a2e3fbc83",
+      "slug": "wyrm_prime_systems",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmSystems",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Wyrm Prime Systems",
+          "icon": "items/images/en/wyrm_prime_systems.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+          "thumb": "items/images/en/thumbs/wyrm_prime_systems.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
+        }
+      }
+    },
+    {
       "id": "559daac1e779897b4253a85e",
       "slug": "carrier_prime_blueprint",
       "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/PrimeCarrierSentinelBlueprint",
@@ -13699,6 +13395,63 @@
           "icon": "items/images/en/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
           "thumb": "items/images/en/thumbs/carrier_prime_blueprint.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
           "subIcon": "sub_icons/blueprint_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "54ca4330e779891a286a5428",
+      "slug": "wyrm_prime_carapace",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCarapace",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Wyrm Prime Carapace",
+          "icon": "items/images/en/wyrm_prime_carapace.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+          "thumb": "items/images/en/thumbs/wyrm_prime_carapace.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5d93ca107ea27b0a87566f5f",
+      "slug": "dethcube_prime_carapace",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeCarapace",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Dethcube Prime Carapace",
+          "icon": "items/images/en/dethcube_prime_carapace.47a0e82681bf367a015928558a9f133b.png",
+          "thumb": "items/images/en/thumbs/dethcube_prime_carapace.47a0e82681bf367a015928558a9f133b.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5d93ca107ea27b0a87566f62",
+      "slug": "dethcube_prime_cerebrum",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeCerebrum",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 65,
+      "i18n": {
+        "en": {
+          "name": "Dethcube Prime Cerebrum",
+          "icon": "items/images/en/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.png",
+          "thumb": "items/images/en/thumbs/dethcube_prime_cerebrum.47a0e82681bf367a015928558a9f133b.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
         }
       }
     },
@@ -13741,6 +13494,139 @@
       }
     },
     {
+      "id": "54ca4329e779891a21d036bd",
+      "slug": "wyrm_prime_cerebrum",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeWyrmCerebrum",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Wyrm Prime Cerebrum",
+          "icon": "items/images/en/wyrm_prime_cerebrum.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+          "thumb": "items/images/en/thumbs/wyrm_prime_cerebrum.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "559daad1e779897b4be73862",
+      "slug": "carrier_prime_carapace",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCarapace",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Carrier Prime Carapace",
+          "icon": "items/images/en/carrier_prime_carapace.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+          "thumb": "items/images/en/thumbs/carrier_prime_carapace.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_carapace_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "58b57068eb26db5c31192115",
+      "slug": "helios_prime_cerebrum",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosCerebrum",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "i18n": {
+        "en": {
+          "name": "Helios Prime Cerebrum",
+          "icon": "items/images/en/helios_prime_cerebrum.625b7c74ea5dd61b1840f8094df7648a.png",
+          "thumb": "items/images/en/thumbs/helios_prime_cerebrum.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "559daad8e779897b4f59525f",
+      "slug": "carrier_prime_systems",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierSystems",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Carrier Prime Systems",
+          "icon": "items/images/en/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+          "thumb": "items/images/en/thumbs/carrier_prime_systems.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "58b57068eb26db5c31192117",
+      "slug": "helios_prime_systems",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosSystems",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Helios Prime Systems",
+          "icon": "items/images/en/helios_prime_systems.625b7c74ea5dd61b1840f8094df7648a.png",
+          "thumb": "items/images/en/thumbs/helios_prime_systems.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "559daacae779897b47b74c13",
+      "slug": "carrier_prime_cerebrum",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCarrierCerebrum",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 65,
+      "i18n": {
+        "en": {
+          "name": "Carrier Prime Cerebrum",
+          "icon": "items/images/en/carrier_prime_cerebrum.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+          "thumb": "items/images/en/thumbs/carrier_prime_cerebrum.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_cerebrum_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "5d93ca117ea27b0a87566f6e",
+      "slug": "dethcube_prime_systems",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDethcubeSystems",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Dethcube Prime Systems",
+          "icon": "items/images/en/dethcube_prime_systems.47a0e82681bf367a015928558a9f133b.png",
+          "thumb": "items/images/en/thumbs/dethcube_prime_systems.47a0e82681bf367a015928558a9f133b.128x128.png",
+          "subIcon": "sub_icons/sentinel/prime_systems_128x128.png"
+        }
+      }
+    },
+    {
       "id": "641263e07d179f02100c6d42",
       "slug": "shade_prime_blueprint",
       "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/ShadePrimeSentinelBlueprint",
@@ -13760,6 +13646,63 @@
       }
     },
     {
+      "id": "641263e07d179f02100c6d44",
+      "slug": "shade_prime_systems",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeSystems",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Shade Prime Systems",
+          "icon": "items/images/en/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.png",
+          "thumb": "items/images/en/thumbs/shade_prime_systems.d4376af3d68e873e85f81f456c83b261.128x128.png",
+          "subIcon": "sub_icons/weapon/prime_systems_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "641263e07d179f02100c6d48",
+      "slug": "shade_prime_cerebrum",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeCerebrum",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Shade Prime Cerebrum",
+          "icon": "items/images/en/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.png",
+          "thumb": "items/images/en/thumbs/shade_prime_cerebrum.d4376af3d68e873e85f81f456c83b261.128x128.png",
+          "subIcon": "sub_icons/weapon/prime_cerebrum_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "641263e07d179f02100c6d4d",
+      "slug": "shade_prime_carapace",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/ShadePrimeCarapace",
+      "tags": [
+        "component",
+        "weapon",
+        "prime"
+      ],
+      "ducats": 100,
+      "i18n": {
+        "en": {
+          "name": "Shade Prime Carapace",
+          "icon": "items/images/en/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.png",
+          "thumb": "items/images/en/thumbs/shade_prime_carapace.d4376af3d68e873e85f81f456c83b261.128x128.png",
+          "subIcon": "sub_icons/weapon/prime_carapace_128x128.png"
+        }
+      }
+    },
+    {
       "id": "66c60c9066bbb2aedca695a9",
       "slug": "nautilus_prime_blueprint",
       "gameRef": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
@@ -13775,6 +13718,63 @@
           "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
           "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
           "subIcon": "sub_icons/blueprint_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "66c60c9066bbb2aedca695aa",
+      "slug": "nautilus_prime_cerebrum",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+      "tags": [
+        "component",
+        "prime",
+        "weapon"
+      ],
+      "ducats": 100,
+      "i18n": {
+        "en": {
+          "name": "Nautilus Prime Cerebrum",
+          "icon": "items/images/en/nautilus_prime_cerebrum.a81cadf3c1f6e67c92c188534ced77b2.webp",
+          "thumb": "items/images/en/thumbs/nautilus_prime_cerebrum.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_cerebrum_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "66c60c9066bbb2aedca695ab",
+      "slug": "nautilus_prime_carapace",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCarapace",
+      "tags": [
+        "component",
+        "prime",
+        "weapon"
+      ],
+      "ducats": 15,
+      "i18n": {
+        "en": {
+          "name": "Nautilus Prime Carapace",
+          "icon": "items/images/en/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.webp",
+          "thumb": "items/images/en/thumbs/nautilus_prime_carapace.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_carapace_128x128.png"
+        }
+      }
+    },
+    {
+      "id": "66c60c9166bbb2aedca695ac",
+      "slug": "nautilus_prime_systems",
+      "gameRef": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeSystems",
+      "tags": [
+        "component",
+        "prime",
+        "weapon"
+      ],
+      "ducats": 45,
+      "i18n": {
+        "en": {
+          "name": "Nautilus Prime Systems",
+          "icon": "items/images/en/nautilus_prime_systems.a81cadf3c1f6e67c92c188534ced77b2.webp",
+          "thumb": "items/images/en/thumbs/nautilus_prime_systems.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+          "subIcon": "sub_icons/weapon/prime_systems_128x128.png"
         }
       }
     }

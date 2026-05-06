@@ -46,7 +46,7 @@ async function filterLocally() {
             let isWeapon = tags.includes("weapon");
             let isCompanion = tags.includes("sentinel");
 
-            const slug = item.url_name || item.slug || "";
+            const slug = item.slug || "";
 
             // Force companion if it has specific companion part names
             if (
