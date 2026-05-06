@@ -34,9 +34,12 @@ async function filterLocally() {
         }
 
         // Mods
-        if (tags.includes("mod") && tags.includes("legendary")) {
-            categories.mods.push(item)
-            continue
+        if (tags.includes("mod")) {
+            // Only keep legendary mods (like Primed Continuity) for our app
+            if (tags.includes("legendary")) {
+                categories.mods.push(item);
+            }
+            continue; // Skip all other mods entirely so they don't leak into primes
         }
 
         // Primes

@@ -1,0 +1,663 @@
+{
+  "arcane_barrier": {
+    "max": 39,
+    "min": 3
+  },
+  "arcane_ice": {
+    "max": 42,
+    "min": 3
+  },
+  "virtuos_strike": {
+    "max": 38,
+    "min": 4
+  },
+  "pax_soar": {
+    "max": 41,
+    "min": 9
+  },
+  "arcane_trickery": {
+    "max": 20,
+    "min": 3
+  },
+  "arcane_velocity": {
+    "max": 72,
+    "min": 6
+  },
+  "arcane_resistance": {
+    "max": 58,
+    "min": 5
+  },
+  "arcane_pulse": {
+    "max": 18,
+    "min": 3
+  },
+  "magus_vigor": {
+    "max": 24,
+    "min": 4
+  },
+  "magus_repair": {
+    "max": 96,
+    "min": 7
+  },
+  "magus_glitch": {
+    "max": 101,
+    "min": 8
+  },
+  "magus_overload": {
+    "max": 130,
+    "min": 9
+  },
+  "arcane_fury": {
+    "max": 69,
+    "min": 5
+  },
+  "arcane_aegis": {
+    "max": 83,
+    "min": 6
+  },
+  "arcane_consequence": {
+    "max": 35,
+    "min": 3
+  },
+  "arcane_energize": {
+    "max": 110,
+    "min": 5
+  },
+  "arcane_strike": {
+    "max": 67,
+    "min": 5
+  },
+  "arcane_nullifier": {
+    "max": 41,
+    "min": 4
+  },
+  "arcane_victory": {
+    "max": 16,
+    "min": 3
+  },
+  "arcane_eruption": {
+    "max": 19,
+    "min": 4
+  },
+  "arcane_awakening": {
+    "max": 26,
+    "min": 3
+  },
+  "arcane_ultimatum": {
+    "max": 15,
+    "min": 2
+  },
+  "magus_anomaly": {
+    "max": 103,
+    "min": 8
+  },
+  "virtuos_surge": {
+    "max": 33,
+    "min": 20
+  },
+  "arcane_deflection": {
+    "max": 52,
+    "min": 4
+  },
+  "exodia_valor": {
+    "max": 90
+  },
+  "arcane_grace": {
+    "max": 99,
+    "min": 5
+  },
+  "virtuos_fury": {
+    "max": 45,
+    "min": 13
+  },
+  "virtuos_null": {
+    "max": 33,
+    "min": 9
+  },
+  "virtuos_tempo": {
+    "max": 29,
+    "min": 6
+  },
+  "exodia_force": {
+    "max": 97,
+    "min": 11
+  },
+  "virtuos_ghost": {
+    "max": 47,
+    "min": 9
+  },
+  "peculiar_growth": {
+    "max": 31,
+    "min": 22
+  },
+  "virtuos_forge": {
+    "max": 37,
+    "min": 8
+  },
+  "pax_seeker": {
+    "max": 65,
+    "min": 8
+  },
+  "virtuos_spike": {
+    "max": 35,
+    "min": 13
+  },
+  "arcane_tempo": {
+    "max": 32,
+    "min": 3
+  },
+  "arcane_agility": {
+    "max": 32,
+    "min": 3
+  },
+  "arcane_bodyguard": {
+    "max": 45,
+    "min": 4
+  },
+  "arcane_primary_charger": {
+    "max": 27,
+    "min": 3
+  },
+  "arcane_blade_charger": {
+    "max": 33,
+    "min": 4
+  },
+  "magus_drive": {
+    "max": 121,
+    "min": 11
+  },
+  "magus_cadence": {
+    "max": 68,
+    "min": 8
+  },
+  "exodia_brave": {
+    "max": 77
+  },
+  "exodia_hunt": {
+    "max": 99,
+    "min": 24
+  },
+  "exodia_triumph": {
+    "max": 104,
+    "min": 10
+  },
+  "magus_nourish": {
+    "max": 52,
+    "min": 7
+  },
+  "virtuos_shadow": {
+    "max": 37,
+    "min": 4
+  },
+  "arcane_guardian": {
+    "max": 41,
+    "min": 4
+  },
+  "magus_accelerant": {
+    "max": 128,
+    "min": 10
+  },
+  "arcane_healing": {
+    "max": 40,
+    "min": 3
+  },
+  "arcane_warmth": {
+    "max": 16,
+    "min": 2
+  },
+  "virtuos_trojan": {
+    "max": 42,
+    "min": 8
+  },
+  "exodia_contagion": {
+    "max": 95,
+    "min": 14
+  },
+  "exodia_epidemic": {
+    "max": 136,
+    "min": 14
+  },
+  "theorem_demulcent": {
+    "max": 38,
+    "min": 5
+  },
+  "theorem_infection": {
+    "max": 163,
+    "min": 7
+  },
+  "residual_shock": {
+    "max": 40,
+    "min": 5
+  },
+  "magus_replenish": {
+    "max": 84,
+    "min": 9
+  },
+  "peculiar_bloom": {
+    "max": 32,
+    "min": 26
+  },
+  "magus_cloud": {
+    "max": 70,
+    "min": 7
+  },
+  "arcane_acceleration": {
+    "max": 52,
+    "min": 4
+  },
+  "arcane_arachne": {
+    "max": 46,
+    "min": 5
+  },
+  "arcane_momentum": {
+    "max": 20,
+    "min": 4
+  },
+  "arcane_precision": {
+    "max": 82,
+    "min": 6
+  },
+  "exodia_might": {
+    "max": 120
+  },
+  "pax_bolt": {
+    "max": 41,
+    "min": 8
+  },
+  "magus_melt": {
+    "max": 89,
+    "min": 5
+  },
+  "magus_firewall": {
+    "max": 160,
+    "min": 10
+  },
+  "magus_destruct": {
+    "max": 144,
+    "min": 9
+  },
+  "magus_husk": {
+    "max": 48,
+    "min": 10
+  },
+  "magus_elevate": {
+    "max": 109,
+    "min": 5
+  },
+  "residual_boils": {
+    "max": 36,
+    "min": 6
+  },
+  "residual_viremia": {
+    "max": 79,
+    "min": 6
+  },
+  "residual_malodor": {
+    "max": 24,
+    "min": 4
+  },
+  "theorem_contagion": {
+    "max": 42,
+    "min": 4
+  },
+  "arcane_tanker": {
+    "max": 38,
+    "min": 3
+  },
+  "arcane_pistoleer": {
+    "max": 53,
+    "min": 5
+  },
+  "pax_charge": {
+    "max": 43,
+    "min": 10
+  },
+  "magus_revert": {
+    "max": 166,
+    "min": 10
+  },
+  "arcane_avenger": {
+    "max": 62,
+    "min": 4
+  },
+  "arcane_phantasm": {
+    "max": 28,
+    "min": 4
+  },
+  "arcane_rage": {
+    "max": 35,
+    "min": 3
+  },
+  "magus_lockdown": {
+    "max": 91,
+    "min": 6
+  },
+  "secondary_merciless": {
+    "max": 9,
+    "min": 1
+  },
+  "primary_merciless": {
+    "max": 14,
+    "min": 2
+  },
+  "secondary_dexterity": {
+    "max": 6,
+    "min": 1
+  },
+  "secondary_deadhead": {
+    "max": 9,
+    "min": 1
+  },
+  "primary_deadhead": {
+    "max": 14,
+    "min": 2
+  },
+  "primary_dexterity": {
+    "max": 8,
+    "min": 1
+  },
+  "emergence_dissipate": {
+    "max": 15,
+    "min": 2
+  },
+  "molt_vigor": {
+    "max": 22,
+    "min": 2
+  },
+  "emergence_renewed": {
+    "max": 15,
+    "min": 2
+  },
+  "eternal_eradicate": {
+    "max": 27,
+    "min": 2
+  },
+  "molt_efficiency": {
+    "max": 37,
+    "min": 3
+  },
+  "emergence_savior": {
+    "max": 17,
+    "min": 2
+  },
+  "cascadia_overcharge": {
+    "max": 22,
+    "min": 3
+  },
+  "eternal_onslaught": {
+    "max": 24,
+    "min": 2
+  },
+  "molt_reconstruct": {
+    "max": 26,
+    "min": 3
+  },
+  "molt_augmented": {
+    "max": 51,
+    "min": 4
+  },
+  "eternal_logistics": {
+    "max": 29,
+    "min": 3
+  },
+  "cascadia_empowered": {
+    "max": 15,
+    "min": 2
+  },
+  "fractalized_reset": {
+    "max": 15,
+    "min": 3
+  },
+  "cascadia_flare": {
+    "max": 39,
+    "min": 3
+  },
+  "cascadia_accuracy": {
+    "max": 11,
+    "min": 2
+  },
+  "peculiar_audience": {
+    "max": 31,
+    "min": 20
+  },
+  "conjunction_voltage": {
+    "max": 25,
+    "min": 2
+  },
+  "primary_frostbite": {
+    "max": 26,
+    "min": 2
+  },
+  "arcane_rise": {
+    "max": 26,
+    "min": 3
+  },
+  "arcane_blessing": {
+    "max": 30,
+    "min": 3
+  },
+  "primary_plated_round": {
+    "max": 76,
+    "min": 7
+  },
+  "arcane_steadfast": {
+    "max": 180,
+    "min": 10
+  },
+  "arcane_double_back": {
+    "max": 53,
+    "min": 5
+  },
+  "secondary_kinship": {
+    "max": 56,
+    "min": 5
+  },
+  "secondary_encumber": {
+    "max": 46,
+    "min": 4
+  },
+  "primary_obstruct": {
+    "max": 29,
+    "min": 4
+  },
+  "arcane_intention": {
+    "max": 18,
+    "min": 6
+  },
+  "secondary_shiver": {
+    "max": 120,
+    "min": 5
+  },
+  "longbow_sharpshot": {
+    "max": 288,
+    "min": 14
+  },
+  "shotgun_vendetta": {
+    "max": 105,
+    "min": 7
+  },
+  "magus_aggress": {
+    "max": 21,
+    "min": 3
+  },
+  "arcane_reaper": {
+    "max": 414,
+    "min": 19
+  },
+  "primary_exhilarate": {
+    "max": 36,
+    "min": 4
+  },
+  "arcane_power_ramp": {
+    "max": 37,
+    "min": 4
+  },
+  "primary_blight": {
+    "max": 51,
+    "min": 3
+  },
+  "secondary_outburst": {
+    "max": 88,
+    "min": 5
+  },
+  "akimbo_slip_shot": {
+    "max": 32,
+    "min": 4
+  },
+  "melee_influence": {
+    "max": 69,
+    "min": 4
+  },
+  "melee_retaliation": {
+    "max": 23,
+    "min": 2
+  },
+  "melee_crescendo": {
+    "max": 124,
+    "min": 6
+  },
+  "melee_vortex": {
+    "max": 70,
+    "min": 5
+  },
+  "melee_animosity": {
+    "max": 76,
+    "min": 6
+  },
+  "melee_exposure": {
+    "max": 79,
+    "min": 4
+  },
+  "melee_duplicate": {
+    "max": 227,
+    "min": 11
+  },
+  "melee_fortification": {
+    "max": 19,
+    "min": 2
+  },
+  "arcane_ice_storm": {
+    "max": 36,
+    "min": 4
+  },
+  "secondary_surge": {
+    "max": 39,
+    "min": 3
+  },
+  "arcane_battery": {
+    "max": 40,
+    "min": 4
+  },
+  "secondary_fortifier": {
+    "max": 40,
+    "min": 3
+  },
+  "melee_afflictions": {
+    "max": 42,
+    "min": 4
+  },
+  "arcane_crepuscular": {
+    "max": 30,
+    "min": 2
+  },
+  "arcane_impetus": {
+    "max": 29,
+    "min": 3
+  },
+  "primary_crux": {
+    "max": 27,
+    "min": 2
+  },
+  "secondary_enervate": {
+    "max": 28,
+    "min": 2
+  },
+  "melee_doughty": {
+    "max": 12,
+    "min": 2
+  },
+  "arcane_camisado": {
+    "max": 27,
+    "min": 2
+  },
+  "arcane_bellicose": {
+    "max": 23,
+    "min": 2
+  },
+  "arcane_truculence": {
+    "max": 14,
+    "min": 2
+  },
+  "arcane_escapist": {
+    "max": 39,
+    "min": 3
+  },
+  "arcane_hot_shot": {
+    "max": 478,
+    "min": 20
+  },
+  "arcane_universal_fallout": {
+    "max": 142,
+    "min": 6
+  },
+  "peculiar_end": {
+    "max": 87,
+    "min": 100
+  },
+  "arcane_persistence": {
+    "max": 19,
+    "min": 2
+  },
+  "arcane_expertise": {
+    "max": 16,
+    "min": 2
+  },
+  "arcane_circumvent": {
+    "max": 20,
+    "min": 2
+  },
+  "primary_bulwark": {
+    "max": 19,
+    "min": 2
+  },
+  "primary_overcharge": {
+    "max": 20,
+    "min": 2
+  },
+  "secondary_irradiate": {
+    "max": 17,
+    "min": 2
+  },
+  "primary_debilitate": {
+    "max": 17,
+    "min": 2
+  },
+  "arcane_concentration": {
+    "max": 18,
+    "min": 2
+  },
+  "melee_careen": {
+    "max": 19,
+    "min": 2
+  },
+  "zid-an-sek-eel": {
+    "max": 30,
+    "min": 3
+  },
+  "zid-an-asheir": {
+    "max": 35,
+    "min": 3
+  },
+  "zid-an-uskos": {
+    "max": 64,
+    "min": 4
+  },
+  "zid-an-haras": {
+    "max": 21,
+    "min": 3
+  },
+  "zid-an-osbok": {
+    "max": 56,
+    "min": 4
+  }
+}

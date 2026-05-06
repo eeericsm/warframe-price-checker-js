@@ -1,0 +1,242 @@
+{
+  "primed_point_blank": {
+    "max": 129,
+    "min": 44
+  },
+  "primed_shotgun_ammo_mutation": {
+    "max": 162,
+    "min": 60
+  },
+  "primed_ravage": {
+    "max": 119,
+    "min": 48
+  },
+  "primed_pressure_point": {
+    "max": 105,
+    "min": 40
+  },
+  "primed_expel_grineer": {
+    "max": 124,
+    "min": 30
+  },
+  "primed_expel_corpus": {
+    "max": 138,
+    "min": 53
+  },
+  "primed_expel_infested": {
+    "max": 192,
+    "min": 85
+  },
+  "primed_expel_corrupted": {
+    "max": 240,
+    "min": 133
+  },
+  "primed_heated_charge": {
+    "max": 110,
+    "min": 39
+  },
+  "primed_continuity": {
+    "max": 134,
+    "min": 64
+  },
+  "primed_bane_of_infested": {
+    "max": 130,
+    "min": 44
+  },
+  "primed_bane_of_corpus": {
+    "max": 97,
+    "min": 22
+  },
+  "primed_bane_of_grineer": {
+    "max": 106,
+    "min": 37
+  },
+  "primed_morphic_transformer": {
+    "max": 154,
+    "min": 60
+  },
+  "primed_pack_leader": {
+    "max": 172,
+    "min": 90
+  },
+  "primed_heavy_trauma": {
+    "max": 149,
+    "min": 60
+  },
+  "primed_fast_hands": {
+    "max": 190,
+    "min": 78
+  },
+  "primed_bane_of_corrupted": {
+    "max": 153,
+    "min": 59
+  },
+  "primed_slip_magazine": {
+    "max": 133,
+    "min": 37
+  },
+  "primed_flow": {
+    "max": 94,
+    "min": 39
+  },
+  "primed_pistol_ammo_mutation": {
+    "max": 132,
+    "min": 60
+  },
+  "primed_reach": {
+    "max": 144,
+    "min": 60
+  },
+  "primed_smite_infested": {
+    "max": 125,
+    "min": 35
+  },
+  "primed_smite_corpus": {
+    "max": 148,
+    "min": 57
+  },
+  "primed_cleanse_grineer": {
+    "max": 140,
+    "min": 28
+  },
+  "primed_cleanse_infested": {
+    "max": 133,
+    "min": 49
+  },
+  "primed_cleanse_corpus": {
+    "max": 139,
+    "min": 46
+  },
+  "primed_cleanse_corrupted": {
+    "max": 130,
+    "min": 31
+  },
+  "primed_cryo_rounds": {
+    "max": 112,
+    "min": 43
+  },
+  "primed_animal_instinct": {
+    "max": 130,
+    "min": 45
+  },
+  "primed_rubedo_lined_barrel": {
+    "max": 117,
+    "min": 41
+  },
+  "primed_target_cracker": {
+    "max": 109,
+    "min": 40
+  },
+  "primed_pistol_gambit": {
+    "max": 136,
+    "min": 50
+  },
+  "primed_fever_strike": {
+    "max": 136,
+    "min": 50
+  },
+  "primed_quickdraw": {
+    "max": 136,
+    "min": 34
+  },
+  "primed_firestorm": {
+    "max": 143,
+    "min": 60
+  },
+  "primed_fulmination": {
+    "max": 128,
+    "min": 57
+  },
+  "primed_rifle_ammo_mutation": {
+    "max": 222,
+    "min": 95
+  },
+  "primed_charged_shell": {
+    "max": 138,
+    "min": 50
+  },
+  "primed_regen": {
+    "max": 98,
+    "min": 39
+  },
+  "primed_smite_grineer": {
+    "max": 120,
+    "min": 49
+  },
+  "primed_smite_corrupted": {
+    "max": 150,
+    "min": 52
+  },
+  "primed_chilling_grasp": {
+    "max": 127,
+    "min": 44
+  },
+  "primed_tactical_pump": {
+    "max": 145,
+    "min": 41
+  },
+  "primed_magazine_warp": {
+    "max": 132,
+    "min": 46
+  },
+  "primed_ammo_stock": {
+    "max": 154,
+    "min": 59
+  },
+  "primed_sniper_ammo_mutation": {
+    "max": 156,
+    "min": 67
+  },
+  "primed_redirection": {
+    "max": 106,
+    "min": 45
+  },
+  "primed_convulsion": {
+    "max": 100,
+    "min": 33
+  },
+  "primed_dual_rounds": {
+    "max": 218,
+    "min": 120
+  },
+  "primed_deadly_efficiency": {
+    "max": 135,
+    "min": 35
+  },
+  "primed_steady_hands": {
+    "max": 139,
+    "min": 46
+  },
+  "primed_stabilizer": {
+    "max": 130,
+    "min": 40
+  },
+  "primed_counterbalance": {
+    "max": 196,
+    "min": 105
+  },
+  "primed_smite_the_murmur": {
+    "max": 113,
+    "min": 27
+  },
+  "primed_expel_the_murmur": {
+    "max": 146,
+    "min": 56
+  },
+  "primed_cleanse_the_murmur": {
+    "max": 157,
+    "min": 56
+  },
+  "primed_bane_of_the_murmur": {
+    "max": 111,
+    "min": 33
+  },
+  "primed_venomous_clip": {
+    "max": 114,
+    "min": 46
+  },
+  "primed_ammo_chain": {
+    "max": 144,
+    "min": 55
+  }
+}

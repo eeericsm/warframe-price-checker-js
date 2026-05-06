@@ -1,0 +1,449 @@
+{
+  "frost_prime": {
+    "set": 79,
+    "parts": {
+      "frost_prime_blueprint": 40,
+      "frost_prime_neuroptics_blueprint": 10,
+      "frost_prime_chassis_blueprint": 16,
+      "frost_prime_systems_blueprint": 13
+    }
+  },
+  "hydroid_prime": {
+    "set": 90,
+    "parts": {
+      "hydroid_prime_neuroptics_blueprint": 19,
+      "hydroid_prime_chassis_blueprint": 10,
+      "hydroid_prime_blueprint": 21,
+      "hydroid_prime_systems_blueprint": 39
+    }
+  },
+  "saryn_prime": {
+    "set": 74,
+    "parts": {
+      "saryn_prime_blueprint": 16,
+      "saryn_prime_neuroptics_blueprint": 12,
+      "saryn_prime_chassis_blueprint": 40,
+      "saryn_prime_systems_blueprint": 8
+    }
+  },
+  "rhino_prime": {
+    "set": 82,
+    "parts": {
+      "rhino_prime_neuroptics_blueprint": 20,
+      "rhino_prime_blueprint": 29,
+      "rhino_prime_chassis_blueprint": 14,
+      "rhino_prime_systems_blueprint": 9
+    }
+  },
+  "wukong_prime": {
+    "set": 89,
+    "parts": {
+      "wukong_prime_neuroptics_blueprint": 10,
+      "wukong_prime_chassis_blueprint": 15,
+      "wukong_prime_blueprint": 39,
+      "wukong_prime_systems_blueprint": 20
+    }
+  },
+  "ember_prime": {
+    "set": 63,
+    "parts": {
+      "ember_prime_neuroptics_blueprint": 19,
+      "ember_prime_chassis_blueprint": 9,
+      "ember_prime_systems_blueprint": 9,
+      "ember_prime_blueprint": 27
+    }
+  },
+  "mag_prime": {
+    "set": 70,
+    "parts": {
+      "mag_prime_chassis_blueprint": 15,
+      "mag_prime_neuroptics_blueprint": 10,
+      "mag_prime_systems_blueprint": 16,
+      "mag_prime_blueprint": 37
+    }
+  },
+  "oberon_prime": {
+    "set": 81,
+    "parts": {
+      "oberon_prime_neuroptics_blueprint": 38,
+      "oberon_prime_chassis_blueprint": 10,
+      "oberon_prime_systems_blueprint": 17,
+      "oberon_prime_blueprint": 10
+    }
+  },
+  "trinity_prime": {
+    "set": 45,
+    "parts": {
+      "trinity_prime_neuroptics_blueprint": 9,
+      "trinity_prime_blueprint": 11,
+      "trinity_prime_systems_blueprint": 7,
+      "trinity_prime_chassis_blueprint": 9
+    }
+  },
+  "volt_prime": {
+    "set": 60,
+    "parts": {
+      "volt_prime_neuroptics_blueprint": 26,
+      "volt_prime_chassis_blueprint": 12,
+      "volt_prime_blueprint": 13,
+      "volt_prime_systems_blueprint": 10
+    }
+  },
+  "titania_prime": {
+    "set": 90,
+    "parts": {
+      "titania_prime_neuroptics_blueprint": 10,
+      "titania_prime_blueprint": 15,
+      "titania_prime_chassis_blueprint": 13,
+      "titania_prime_systems_blueprint": 44
+    }
+  },
+  "inaros_prime": {
+    "set": 70,
+    "parts": {
+      "inaros_prime_chassis_blueprint": 5,
+      "inaros_prime_neuroptics_blueprint": 50,
+      "inaros_prime_blueprint": 9,
+      "inaros_prime_systems_blueprint": 9
+    }
+  },
+  "valkyr_prime": {
+    "set": 74,
+    "parts": {
+      "valkyr_prime_neuroptics_blueprint": 10,
+      "valkyr_prime_chassis_blueprint": 39,
+      "valkyr_prime_blueprint": 5,
+      "valkyr_prime_systems_blueprint": 20
+    }
+  },
+  "limbo_prime": {
+    "set": 100,
+    "parts": {
+      "limbo_prime_systems_blueprint": 6,
+      "limbo_prime_blueprint": 8,
+      "limbo_prime_chassis_blueprint": 60,
+      "limbo_prime_neuroptics_blueprint": 31
+    }
+  },
+  "atlas_prime": {
+    "set": 63,
+    "parts": {
+      "atlas_prime_chassis_blueprint": 7,
+      "atlas_prime_systems_blueprint": 5,
+      "atlas_prime_neuroptics_blueprint": 50,
+      "atlas_prime_blueprint": 4
+    }
+  },
+  "chroma_prime": {
+    "set": 92,
+    "parts": {
+      "chroma_prime_blueprint": 10,
+      "chroma_prime_systems_blueprint": 37,
+      "chroma_prime_chassis_blueprint": 10,
+      "chroma_prime_neuroptics_blueprint": 36
+    }
+  },
+  "banshee_prime": {
+    "set": 84,
+    "parts": {
+      "banshee_prime_chassis_blueprint": 34,
+      "banshee_prime_systems_blueprint": 39,
+      "banshee_prime_neuroptics_blueprint": 5,
+      "banshee_prime_blueprint": 9
+    }
+  },
+  "vauban_prime": {
+    "set": 101,
+    "parts": {
+      "vauban_prime_neuroptics_blueprint": 28,
+      "vauban_prime_blueprint": 13,
+      "vauban_prime_chassis_blueprint": 15,
+      "vauban_prime_systems_blueprint": 37
+    }
+  },
+  "loki_prime": {
+    "set": 75,
+    "parts": {
+      "loki_prime_systems_blueprint": 30,
+      "loki_prime_chassis_blueprint": 23,
+      "loki_prime_neuroptics_blueprint": 19,
+      "loki_prime_blueprint": 10
+    }
+  },
+  "nova_prime": {
+    "set": 64,
+    "parts": {
+      "nova_prime_systems_blueprint": 10,
+      "nova_prime_neuroptics_blueprint": 12,
+      "nova_prime_chassis_blueprint": 28,
+      "nova_prime_blueprint": 10
+    }
+  },
+  "nyx_prime": {
+    "set": 78,
+    "parts": {
+      "nyx_prime_blueprint": 8,
+      "nyx_prime_systems_blueprint": 10,
+      "nyx_prime_neuroptics_blueprint": 35,
+      "nyx_prime_chassis_blueprint": 11
+    }
+  },
+  "zephyr_prime": {
+    "set": 80,
+    "parts": {
+      "zephyr_prime_chassis_blueprint": 8,
+      "zephyr_prime_blueprint": 19,
+      "zephyr_prime_neuroptics_blueprint": 6,
+      "zephyr_prime_systems_blueprint": 39
+    }
+  },
+  "ivara_prime": {
+    "set": 67,
+    "parts": {
+      "ivara_prime_neuroptics_blueprint": 7,
+      "ivara_prime_chassis_blueprint": 33,
+      "ivara_prime_systems_blueprint": 9,
+      "ivara_prime_blueprint": 9
+    }
+  },
+  "mirage_prime": {
+    "set": 89,
+    "parts": {
+      "mirage_prime_systems_blueprint": 23,
+      "mirage_prime_blueprint": 39,
+      "mirage_prime_chassis_blueprint": 16,
+      "mirage_prime_neuroptics_blueprint": 8
+    }
+  },
+  "equinox_prime": {
+    "set": 77,
+    "parts": {
+      "equinox_prime_blueprint": 18,
+      "equinox_prime_systems_blueprint": 38,
+      "equinox_prime_neuroptics_blueprint": 8,
+      "equinox_prime_chassis_blueprint": 4
+    }
+  },
+  "ash_prime": {
+    "set": 63,
+    "parts": {
+      "ash_prime_neuroptics_blueprint": 10,
+      "ash_prime_chassis_blueprint": 13,
+      "ash_prime_systems_blueprint": 19,
+      "ash_prime_blueprint": 13
+    }
+  },
+  "mesa_prime": {
+    "set": 70,
+    "parts": {
+      "mesa_prime_blueprint": 8,
+      "mesa_prime_neuroptics_blueprint": 35,
+      "mesa_prime_systems_blueprint": 15,
+      "mesa_prime_chassis_blueprint": 9
+    }
+  },
+  "nekros_prime": {
+    "set": 89,
+    "parts": {
+      "nekros_prime_neuroptics_blueprint": 22,
+      "nekros_prime_chassis_blueprint": 10,
+      "nekros_prime_blueprint": 24,
+      "nekros_prime_systems_blueprint": 30
+    }
+  },
+  "nezha_prime": {
+    "set": 74,
+    "parts": {
+      "nezha_prime_blueprint": 8,
+      "nezha_prime_systems_blueprint": 6,
+      "nezha_prime_chassis_blueprint": 38,
+      "nezha_prime_neuroptics_blueprint": 26
+    }
+  },
+  "octavia_prime": {
+    "set": 85,
+    "parts": {
+      "octavia_prime_blueprint": 53,
+      "octavia_prime_chassis_blueprint": 15,
+      "octavia_prime_neuroptics_blueprint": 5,
+      "octavia_prime_systems_blueprint": 9
+    }
+  },
+  "gara_prime": {
+    "set": 85,
+    "parts": {
+      "gara_prime_blueprint": 42,
+      "gara_prime_neuroptics_blueprint": 8,
+      "gara_prime_systems_blueprint": 8,
+      "gara_prime_chassis_blueprint": 21
+    }
+  },
+  "nidus_prime": {
+    "set": 90,
+    "parts": {
+      "nidus_prime_blueprint": 9,
+      "nidus_prime_systems_blueprint": 7,
+      "nidus_prime_neuroptics_blueprint": 40,
+      "nidus_prime_chassis_blueprint": 35
+    }
+  },
+  "harrow_prime": {
+    "set": 67,
+    "parts": {
+      "harrow_prime_blueprint": 5,
+      "harrow_prime_neuroptics_blueprint": 8,
+      "harrow_prime_chassis_blueprint": 11,
+      "harrow_prime_systems_blueprint": 40
+    }
+  },
+  "garuda_prime": {
+    "set": 87,
+    "parts": {
+      "garuda_prime_chassis_blueprint": 8,
+      "garuda_prime_systems_blueprint": 30,
+      "garuda_prime_neuroptics_blueprint": 34,
+      "garuda_prime_blueprint": 5
+    }
+  },
+  "khora_prime": {
+    "set": 83,
+    "parts": {
+      "khora_prime_chassis_blueprint": 10,
+      "khora_prime_blueprint": 34,
+      "khora_prime_neuroptics_blueprint": 30,
+      "khora_prime_systems_blueprint": 9
+    }
+  },
+  "revenant_prime": {
+    "set": 69,
+    "parts": {
+      "revenant_prime_chassis_blueprint": 8,
+      "revenant_prime_systems_blueprint": 13,
+      "revenant_prime_neuroptics_blueprint": 10,
+      "revenant_prime_blueprint": 30
+    }
+  },
+  "baruuk_prime": {
+    "set": 71,
+    "parts": {
+      "baruuk_prime_chassis_blueprint": 5,
+      "baruuk_prime_blueprint": 17,
+      "baruuk_prime_systems_blueprint": 10,
+      "baruuk_prime_neuroptics_blueprint": 36
+    }
+  },
+  "hildryn_prime": {
+    "set": 66,
+    "parts": {
+      "hildryn_prime_blueprint": 39,
+      "hildryn_prime_systems_blueprint": 5,
+      "hildryn_prime_neuroptics_blueprint": 6,
+      "hildryn_prime_chassis_blueprint": 11
+    }
+  },
+  "wisp_prime": {
+    "set": 70,
+    "parts": {
+      "wisp_prime_chassis_blueprint": 20,
+      "wisp_prime_neuroptics_blueprint": 6,
+      "wisp_prime_systems_blueprint": 5,
+      "wisp_prime_blueprint": 40
+    }
+  },
+  "grendel_prime": {
+    "set": 53,
+    "parts": {
+      "grendel_prime_blueprint": 15,
+      "grendel_prime_neuroptics_blueprint": 8,
+      "grendel_prime_chassis_blueprint": 8,
+      "grendel_prime_systems_blueprint": 16
+    }
+  },
+  "gauss_prime": {
+    "set": 48,
+    "parts": {
+      "gauss_prime_blueprint": 5,
+      "gauss_prime_neuroptics_blueprint": 9,
+      "gauss_prime_chassis_blueprint": 6,
+      "gauss_prime_systems_blueprint": 23
+    }
+  },
+  "protea_prime": {
+    "set": 29,
+    "parts": {
+      "protea_prime_blueprint": 3,
+      "protea_prime_neuroptics_blueprint": 4,
+      "protea_prime_chassis_blueprint": 10,
+      "protea_prime_systems_blueprint": 15
+    }
+  },
+  "sevagoth_prime": {
+    "set": 26,
+    "parts": {
+      "sevagoth_prime_blueprint": 6,
+      "sevagoth_prime_neuroptics_blueprint": 2,
+      "sevagoth_prime_chassis_blueprint": 19,
+      "sevagoth_prime_systems_blueprint": 2
+    }
+  },
+  "xaku_prime": {
+    "set": 24,
+    "parts": {
+      "xaku_prime_blueprint": 14,
+      "xaku_prime_neuroptics_blueprint": 2,
+      "xaku_prime_chassis_blueprint": 3,
+      "xaku_prime_systems_blueprint": 8
+    }
+  },
+  "lavos_prime": {
+    "set": 21,
+    "parts": {
+      "lavos_prime_blueprint": 3,
+      "lavos_prime_neuroptics_blueprint": 5,
+      "lavos_prime_chassis_blueprint": 3,
+      "lavos_prime_systems_blueprint": 11
+    }
+  },
+  "yareli_prime": {
+    "set": 37,
+    "parts": {
+      "yareli_prime_blueprint": 3,
+      "yareli_prime_neuroptics_blueprint": 16,
+      "yareli_prime_chassis_blueprint": 2,
+      "yareli_prime_systems_blueprint": 20
+    }
+  },
+  "caliban_prime": {
+    "set": 40,
+    "parts": {
+      "caliban_prime_blueprint": 3,
+      "caliban_prime_neuroptics_blueprint": 12,
+      "caliban_prime_chassis_blueprint": 2,
+      "caliban_prime_systems_blueprint": 25
+    }
+  },
+  "gyre_prime": {
+    "set": 38,
+    "parts": {
+      "gyre_prime_blueprint": 5,
+      "gyre_prime_neuroptics_blueprint": 10,
+      "gyre_prime_chassis_blueprint": 9,
+      "gyre_prime_systems_blueprint": 4
+    }
+  },
+  "voruna_prime": {
+    "set": 75,
+    "parts": {
+      "voruna_prime_blueprint": 32,
+      "voruna_prime_neuroptics_blueprint": 8,
+      "voruna_prime_chassis_blueprint": 7,
+      "voruna_prime_systems_blueprint": 18
+    }
+  },
+  "molecular": {
+    "set": null,
+    "parts": {
+      "molecular_fission": 11
+    }
+  }
+}

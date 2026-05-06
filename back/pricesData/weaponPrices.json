@@ -1,0 +1,846 @@
+{
+  "vasto_prime": {
+    "set": 20,
+    "parts": {
+      "vasto_prime_barrel": 9,
+      "vasto_prime_blueprint": 5,
+      "vasto_prime_receiver": 9
+    }
+  },
+  "zhuge_prime": {
+    "set": 64,
+    "parts": {
+      "zhuge_prime_grip": 6,
+      "zhuge_prime_blueprint": 7,
+      "zhuge_prime_receiver": 13,
+      "zhuge_prime_barrel": 36,
+      "zhuge_prime_string": 13
+    }
+  },
+  "dual_kamas_prime": {
+    "set": 74,
+    "parts": {
+      "dual_kamas_prime_blueprint": 7,
+      "dual_kamas_prime_handle": 7,
+      "dual_kamas_prime_blade": 27
+    }
+  },
+  "destreza_prime": {
+    "set": 81,
+    "parts": {
+      "destreza_prime_handle": 14,
+      "destreza_prime_blade": 76,
+      "destreza_prime_blueprint": 6
+    }
+  },
+  "stradavar_prime": {
+    "set": 39,
+    "parts": {
+      "stradavar_prime_receiver": 9,
+      "stradavar_prime_blueprint": 20,
+      "stradavar_prime_barrel": 5,
+      "stradavar_prime_stock": 10
+    }
+  },
+  "silva_and_aegis_prime": {
+    "set": 50,
+    "parts": {
+      "silva_and_aegis_prime_guard": 26,
+      "silva_and_aegis_prime_hilt": 7,
+      "silva_and_aegis_prime_blade": 7,
+      "silva_and_aegis_prime_blueprint": 10
+    }
+  },
+  "latron_prime": {
+    "set": 70,
+    "parts": {
+      "latron_prime_barrel": 16,
+      "latron_prime_receiver": 18,
+      "latron_prime_stock": 17,
+      "latron_prime_blueprint": 18
+    }
+  },
+  "lex_prime": {
+    "set": 9,
+    "parts": {
+      "lex_prime_blueprint": 2,
+      "lex_prime_barrel": 4,
+      "lex_prime_receiver": 3
+    }
+  },
+  "vectis_prime": {
+    "set": 115,
+    "parts": {
+      "vectis_prime_stock": 20,
+      "vectis_prime_barrel": 21,
+      "vectis_prime_receiver": 59,
+      "vectis_prime_blueprint": 10
+    }
+  },
+  "sicarus_prime": {
+    "set": 55,
+    "parts": {
+      "sicarus_prime_barrel": 12,
+      "sicarus_prime_receiver": 38,
+      "sicarus_prime_blueprint": 9
+    }
+  },
+  "braton_prime": {
+    "set": 8,
+    "parts": {
+      "braton_prime_barrel": 5,
+      "braton_prime_stock": 2,
+      "braton_prime_blueprint": 2,
+      "braton_prime_receiver": 4
+    }
+  },
+  "aklex_prime": {
+    "set": 36,
+    "parts": {
+      "aklex_prime_blueprint": 7,
+      "aklex_prime_link": 30
+    }
+  },
+  "ninkondi_prime": {
+    "set": 78,
+    "parts": {
+      "ninkondi_prime_chain": 5,
+      "ninkondi_prime_blueprint": 6,
+      "ninkondi_prime_handle": 43
+    }
+  },
+  "fang_prime": {
+    "set": 10,
+    "parts": {
+      "fang_prime_handle": 3,
+      "fang_prime_blade": 3,
+      "fang_prime_blueprint": 4
+    }
+  },
+  "euphona_prime": {
+    "set": 61,
+    "parts": {
+      "euphona_prime_blueprint": 5,
+      "euphona_prime_barrel": 7,
+      "euphona_prime_receiver": 62
+    }
+  },
+  "bo_prime": {
+    "set": 71,
+    "parts": {
+      "bo_prime_blueprint": 17,
+      "bo_prime_handle": 24,
+      "bo_prime_ornament": 24
+    }
+  },
+  "boar_prime": {
+    "set": 80,
+    "parts": {
+      "boar_prime_blueprint": 10,
+      "boar_prime_barrel": 18,
+      "boar_prime_receiver": 21,
+      "boar_prime_stock": 58
+    }
+  },
+  "boltor_prime": {
+    "set": 73,
+    "parts": {
+      "boltor_prime_receiver": 9,
+      "boltor_prime_stock": 13,
+      "boltor_prime_blueprint": 20,
+      "boltor_prime_barrel": 14
+    }
+  },
+  "kogake_prime": {
+    "set": 101,
+    "parts": {
+      "kogake_prime_gauntlet": 33,
+      "kogake_prime_boot": 8,
+      "kogake_prime_blueprint": 8
+    }
+  },
+  "akvasto_prime": {
+    "set": 90,
+    "parts": {
+      "akvasto_prime_blueprint": 111,
+      "akvasto_prime_link": 26
+    }
+  },
+  "ankyros_prime": {
+    "set": 78,
+    "parts": {
+      "ankyros_prime_blade": 10,
+      "ankyros_prime_gauntlet": 28,
+      "ankyros_prime_blueprint": 10
+    }
+  },
+  "paris_prime": {
+    "set": 9,
+    "parts": {
+      "paris_prime_blueprint": 5,
+      "paris_prime_grip": 4,
+      "paris_prime_string": 3,
+      "paris_prime_upper_limb": 2,
+      "paris_prime_lower_limb": 2
+    }
+  },
+  "ballistica_prime": {
+    "set": 88,
+    "parts": {
+      "ballistica_prime_string": 17,
+      "ballistica_prime_lower_limb": 10,
+      "ballistica_prime_blueprint": 34,
+      "ballistica_prime_receiver": 7,
+      "ballistica_prime_upper_limb": 10
+    }
+  },
+  "venka_prime": {
+    "set": 65,
+    "parts": {
+      "venka_prime_blueprint": 5,
+      "venka_prime_blades": 7,
+      "venka_prime_gauntlet": 28
+    }
+  },
+  "akbronco_prime": {
+    "set": 10,
+    "parts": {
+      "akbronco_prime_link": 4,
+      "akbronco_prime_blueprint": 2
+    }
+  },
+  "dakra_prime": {
+    "set": 30,
+    "parts": {
+      "dakra_prime_handle": 10,
+      "dakra_prime_blade": 19,
+      "dakra_prime_blueprint": 10
+    }
+  },
+  "baza_prime": {
+    "set": 82,
+    "parts": {
+      "baza_prime_blueprint": 15,
+      "baza_prime_stock": 49,
+      "baza_prime_receiver": 6,
+      "baza_prime_barrel": 5
+    }
+  },
+  "aksomati_prime": {
+    "set": 100,
+    "parts": {
+      "aksomati_prime_link": 61,
+      "aksomati_prime_receiver": 8,
+      "aksomati_prime_barrel": 18,
+      "aksomati_prime_blueprint": 16
+    }
+  },
+  "hikou_prime": {
+    "set": 63,
+    "parts": {
+      "hikou_prime_pouch": 12,
+      "hikou_prime_stars": 13,
+      "hikou_prime_blueprint": 6
+    }
+  },
+  "reaper_prime": {
+    "set": 32,
+    "parts": {
+      "reaper_prime_blueprint": 13,
+      "reaper_prime_blade": 10,
+      "reaper_prime_handle": 17
+    }
+  },
+  "sybaris_prime": {
+    "set": 76,
+    "parts": {
+      "sybaris_prime_barrel": 41,
+      "sybaris_prime_blueprint": 7,
+      "sybaris_prime_receiver": 9,
+      "sybaris_prime_stock": 14
+    }
+  },
+  "redeemer_prime": {
+    "set": 49,
+    "parts": {
+      "redeemer_prime_blade": 6,
+      "redeemer_prime_blueprint": 6,
+      "redeemer_prime_handle": 39
+    }
+  },
+  "orthos_prime": {
+    "set": 10,
+    "parts": {
+      "orthos_prime_blade": 4,
+      "orthos_prime_blueprint": 3,
+      "orthos_prime_handle": 3
+    }
+  },
+  "tigris_prime": {
+    "set": 52,
+    "parts": {
+      "tigris_prime_receiver": 10,
+      "tigris_prime_stock": 7,
+      "tigris_prime_barrel": 6,
+      "tigris_prime_blueprint": 24
+    }
+  },
+  "fragor_prime": {
+    "set": 33,
+    "parts": {
+      "fragor_prime_head": 9,
+      "fragor_prime_blueprint": 12,
+      "fragor_prime_handle": 11
+    }
+  },
+  "pangolin_prime": {
+    "set": 40,
+    "parts": {
+      "pangolin_prime_blade": 10,
+      "pangolin_prime_handle": 6,
+      "pangolin_prime_blueprint": 15
+    }
+  },
+  "glaive_prime": {
+    "set": 70,
+    "parts": {
+      "glaive_prime_blade": 18,
+      "glaive_prime_disc": 9,
+      "glaive_prime_blueprint": 18
+    }
+  },
+  "scindo_prime": {
+    "set": 39,
+    "parts": {
+      "scindo_prime_handle": 10,
+      "scindo_prime_blueprint": 5,
+      "scindo_prime_blade": 17
+    }
+  },
+  "akstiletto_prime": {
+    "set": 100,
+    "parts": {
+      "akstiletto_prime_blueprint": 14,
+      "akstiletto_prime_barrel": 16,
+      "akstiletto_prime_receiver": 18,
+      "akstiletto_prime_link": 10
+    }
+  },
+  "karyst_prime": {
+    "set": 35,
+    "parts": {
+      "karyst_prime_handle": 5,
+      "karyst_prime_blueprint": 7,
+      "karyst_prime_blade": 20
+    }
+  },
+  "panthera_prime": {
+    "set": 68,
+    "parts": {
+      "panthera_prime_stock": 9,
+      "panthera_prime_barrel": 23,
+      "panthera_prime_receiver": 20,
+      "panthera_prime_blueprint": 6
+    }
+  },
+  "cernos_prime": {
+    "set": 59,
+    "parts": {
+      "cernos_prime_blueprint": 6,
+      "cernos_prime_lower_limb": 22,
+      "cernos_prime_upper_limb": 7,
+      "cernos_prime_grip": 9,
+      "cernos_prime_string": 12
+    }
+  },
+  "akbolto_prime": {
+    "set": 107,
+    "parts": {
+      "akbolto_prime_receiver": 47,
+      "akbolto_prime_blueprint": 4,
+      "akbolto_prime_link": 5,
+      "akbolto_prime_barrel": 11
+    }
+  },
+  "nikana_prime": {
+    "set": 70,
+    "parts": {
+      "nikana_prime_hilt": 50,
+      "nikana_prime_blueprint": 6,
+      "nikana_prime_blade": 19
+    }
+  },
+  "spira_prime": {
+    "set": 101,
+    "parts": {
+      "spira_prime_blueprint": 4,
+      "spira_prime_pouch": 44,
+      "spira_prime_blade": 19
+    }
+  },
+  "nami_skyla_prime": {
+    "set": 103,
+    "parts": {
+      "nami_skyla_prime_handle": 8,
+      "nami_skyla_prime_blade": 38,
+      "nami_skyla_prime_blueprint": 9
+    }
+  },
+  "kronen_prime": {
+    "set": 115,
+    "parts": {
+      "kronen_prime_handle": 13,
+      "kronen_prime_blueprint": 5,
+      "kronen_prime_blade": 39
+    }
+  },
+  "tiberon_prime": {
+    "set": 66,
+    "parts": {
+      "tiberon_prime_blueprint": 8,
+      "tiberon_prime_receiver": 10,
+      "tiberon_prime_barrel": 13,
+      "tiberon_prime_stock": 43
+    }
+  },
+  "tipedo_prime": {
+    "set": 82,
+    "parts": {
+      "tipedo_prime_handle": 37,
+      "tipedo_prime_blueprint": 5,
+      "tipedo_prime_ornament": 14
+    }
+  },
+  "tekko_prime": {
+    "set": 69,
+    "parts": {
+      "tekko_prime_gauntlet": 8,
+      "tekko_prime_blade": 24,
+      "tekko_prime_blueprint": 4
+    }
+  },
+  "rubico_prime": {
+    "set": 52,
+    "parts": {
+      "rubico_prime_barrel": 9,
+      "rubico_prime_receiver": 6,
+      "rubico_prime_stock": 9,
+      "rubico_prime_blueprint": 21
+    }
+  },
+  "burston_prime": {
+    "set": 9,
+    "parts": {
+      "burston_prime_receiver": 3,
+      "burston_prime_blueprint": 3,
+      "burston_prime_stock": 2,
+      "burston_prime_barrel": 4
+    }
+  },
+  "soma_prime": {
+    "set": 45,
+    "parts": {
+      "soma_prime_blueprint": 6,
+      "soma_prime_receiver": 9,
+      "soma_prime_stock": 18,
+      "soma_prime_barrel": 8
+    }
+  },
+  "akjagara_prime": {
+    "set": 98,
+    "parts": {
+      "akjagara_prime_receiver": 16,
+      "akjagara_prime_link": 7,
+      "akjagara_prime_barrel": 41,
+      "akjagara_prime_blueprint": 16
+    }
+  },
+  "gram_prime": {
+    "set": 37,
+    "parts": {
+      "gram_prime_handle": 29,
+      "gram_prime_blueprint": 7,
+      "gram_prime_blade": 7
+    }
+  },
+  "pyrana_prime": {
+    "set": 67,
+    "parts": {
+      "pyrana_prime_blueprint": 46,
+      "pyrana_prime_receiver": 9,
+      "pyrana_prime_barrel": 5
+    }
+  },
+  "guandao_prime": {
+    "set": 61,
+    "parts": {
+      "guandao_prime_blueprint": 7,
+      "guandao_prime_blade": 9,
+      "guandao_prime_handle": 25
+    }
+  },
+  "zakti_prime": {
+    "set": 45,
+    "parts": {
+      "zakti_prime_blueprint": 23,
+      "zakti_prime_barrel": 5,
+      "zakti_prime_receiver": 7
+    }
+  },
+  "bronco_prime": {
+    "set": 9,
+    "parts": {
+      "bronco_prime_barrel": 4,
+      "bronco_prime_blueprint": 3,
+      "bronco_prime_receiver": 3
+    }
+  },
+  "galatine_prime": {
+    "set": 47,
+    "parts": {
+      "galatine_prime_blueprint": 58,
+      "galatine_prime_blade": 6,
+      "galatine_prime_handle": 7
+    }
+  },
+  "corinth_prime": {
+    "set": 100,
+    "parts": {
+      "corinth_prime_stock": 26,
+      "corinth_prime_blueprint": 5,
+      "corinth_prime_barrel": 61,
+      "corinth_prime_receiver": 8
+    }
+  },
+  "pandero_prime": {
+    "set": 39,
+    "parts": {
+      "pandero_prime_barrel": 7,
+      "pandero_prime_receiver": 32,
+      "pandero_prime_blueprint": 6
+    }
+  },
+  "tenora_prime": {
+    "set": 75,
+    "parts": {
+      "tenora_prime_blueprint": 7,
+      "tenora_prime_receiver": 32,
+      "tenora_prime_stock": 18,
+      "tenora_prime_barrel": 19
+    }
+  },
+  "volnus_prime": {
+    "set": 41,
+    "parts": {
+      "volnus_prime_handle": 37,
+      "volnus_prime_head": 9,
+      "volnus_prime_blueprint": 4
+    }
+  },
+  "astilla_prime": {
+    "set": 49,
+    "parts": {
+      "astilla_prime_blueprint": 9,
+      "astilla_prime_receiver": 8,
+      "astilla_prime_barrel": 34,
+      "astilla_prime_stock": 8
+    }
+  },
+  "strun_prime": {
+    "set": 58,
+    "parts": {
+      "strun_prime_blueprint": 27,
+      "strun_prime_receiver": 8,
+      "strun_prime_barrel": 10,
+      "strun_prime_stock": 9
+    }
+  },
+  "magnus_prime": {
+    "set": 42,
+    "parts": {
+      "magnus_prime_blueprint": 7,
+      "magnus_prime_receiver": 6,
+      "magnus_prime_barrel": 25
+    }
+  },
+  "knell_prime": {
+    "set": 36,
+    "parts": {
+      "knell_prime_barrel": 32,
+      "knell_prime_blueprint": 5,
+      "knell_prime_receiver": 5
+    }
+  },
+  "scourge_prime": {
+    "set": 86,
+    "parts": {
+      "scourge_prime_blade": 5,
+      "scourge_prime_barrel": 40,
+      "scourge_prime_handle": 6,
+      "scourge_prime_blueprint": 16
+    }
+  },
+  "corvas_prime": {
+    "set": 46,
+    "parts": {
+      "corvas_prime_barrel": 27,
+      "corvas_prime_blueprint": 5,
+      "corvas_prime_stock": 5,
+      "corvas_prime_receiver": 8
+    }
+  },
+  "nagantaka_prime": {
+    "set": 39,
+    "parts": {
+      "nagantaka_prime_receiver": 5,
+      "nagantaka_prime_blueprint": 18,
+      "nagantaka_prime_stock": 6,
+      "nagantaka_prime_barrel": 9
+    }
+  },
+  "dual_keres_prime": {
+    "set": 62,
+    "parts": {
+      "dual_keres_prime_handle": 8,
+      "dual_keres_prime_blueprint": 23,
+      "dual_keres_prime_blade": 10
+    }
+  },
+  "hystrix_prime": {
+    "set": 30,
+    "parts": {
+      "hystrix_prime_blueprint": 6,
+      "hystrix_prime_receiver": 18,
+      "hystrix_prime_barrel": 7
+    }
+  },
+  "tatsu_prime": {
+    "set": 30,
+    "parts": {
+      "tatsu_prime_blade": 5,
+      "tatsu_prime_blueprint": 4,
+      "tatsu_prime_handle": 27
+    }
+  },
+  "phantasma_prime": {
+    "set": 73,
+    "parts": {
+      "phantasma_prime_barrel": 28,
+      "phantasma_prime_blueprint": 5,
+      "phantasma_prime_receiver": 8,
+      "phantasma_prime_stock": 29
+    }
+  },
+  "afuris_prime": {
+    "set": 110,
+    "parts": {
+      "afuris_prime_barrel": 7,
+      "afuris_prime_link": 5,
+      "afuris_prime_blueprint": 4,
+      "afuris_prime_receiver": 55
+    }
+  },
+  "cobra_and_crane_prime": {
+    "set": 28,
+    "parts": {
+      "cobra_and_crane_prime_guard": 21,
+      "cobra_and_crane_prime_blueprint": 4,
+      "cobra_and_crane_prime_blade": 5,
+      "cobra_and_crane_prime_hilt": 5
+    }
+  },
+  "larkspur_prime": {
+    "set": 60,
+    "parts": {
+      "larkspur_prime_barrel": 46,
+      "larkspur_prime_stock": 8,
+      "larkspur_prime_receiver": 6,
+      "larkspur_prime_blueprint": 7
+    }
+  },
+  "gunsen_prime": {
+    "set": 53,
+    "parts": {
+      "gunsen_prime_blueprint": 4,
+      "gunsen_prime_handle": 7,
+      "gunsen_prime_blade": 18
+    }
+  },
+  "fulmin_prime": {
+    "set": 40,
+    "parts": {
+      "fulmin_prime_blueprint": 5,
+      "fulmin_prime_barrel": 4,
+      "fulmin_prime_stock": 5,
+      "fulmin_prime_receiver": 27
+    }
+  },
+  "masseter_prime": {
+    "set": 19,
+    "parts": {
+      "masseter_prime_blueprint": 4,
+      "masseter_prime_blade": 14,
+      "masseter_prime_handle": 5
+    }
+  },
+  "zylok_prime": {
+    "set": 27,
+    "parts": {
+      "zylok_prime_blueprint": 14,
+      "zylok_prime_barrel": 6,
+      "zylok_prime_receiver": 5
+    }
+  },
+  "akarius_prime": {
+    "set": 69,
+    "parts": {
+      "akarius_prime_blueprint": 13,
+      "akarius_prime_barrel": 7,
+      "akarius_prime_receiver": 15,
+      "akarius_prime_link": 4
+    }
+  },
+  "acceltra_prime": {
+    "set": 34,
+    "parts": {
+      "acceltra_prime_blueprint": 4,
+      "acceltra_prime_barrel": 15,
+      "acceltra_prime_receiver": 5,
+      "acceltra_prime_stock": 13
+    }
+  },
+  "velox_prime": {
+    "set": 15,
+    "parts": {
+      "velox_prime_blueprint": 4,
+      "velox_prime_barrel": 10,
+      "velox_prime_receiver": 5
+    }
+  },
+  "okina_prime": {
+    "set": 40,
+    "parts": {
+      "okina_prime_blueprint": 12,
+      "okina_prime_handle": 7,
+      "okina_prime_blade": 7
+    }
+  },
+  "akmagnus_prime": {
+    "set": 29,
+    "parts": {
+      "akmagnus_prime_blueprint": 10,
+      "akmagnus_prime_link": 9
+    }
+  },
+  "epitaph_prime": {
+    "set": 10,
+    "parts": {
+      "epitaph_prime_blueprint": 4,
+      "epitaph_prime_barrel": 3,
+      "epitaph_prime_receiver": 9
+    }
+  },
+  "trumna_prime": {
+    "set": 25,
+    "parts": {
+      "trumna_prime_blueprint": 1,
+      "trumna_prime_barrel": 11,
+      "trumna_prime_receiver": 9,
+      "trumna_prime_stock": 4
+    }
+  },
+  "quassus_prime": {
+    "set": 23,
+    "parts": {
+      "quassus_prime_blueprint": 3,
+      "quassus_prime_handle": 5,
+      "quassus_prime_blade": 8
+    }
+  },
+  "cedo_prime": {
+    "set": 18,
+    "parts": {
+      "cedo_prime_blueprint": 9,
+      "cedo_prime_receiver": 3,
+      "cedo_prime_barrel": 5,
+      "cedo_prime_stock": 5
+    }
+  },
+  "dual_zoren_prime": {
+    "set": 30,
+    "parts": {
+      "dual_zoren_prime_blueprint": 3,
+      "dual_zoren_prime_handle": 4,
+      "dual_zoren_prime_blade": 15
+    }
+  },
+  "daikyu_prime": {
+    "set": 20,
+    "parts": {
+      "daikyu_prime_blueprint": 2,
+      "daikyu_prime_lower_limb": 3,
+      "daikyu_prime_upper_limb": 3,
+      "daikyu_prime_grip": 9,
+      "daikyu_prime_string": 5
+    }
+  },
+  "kompressa_prime": {
+    "set": 12,
+    "parts": {
+      "kompressa_prime_blueprint": 2,
+      "kompressa_prime_barrel": 10,
+      "kompressa_prime_reciever": 5
+    }
+  },
+  "vadarya_prime": {
+    "set": 16,
+    "parts": {
+      "vadarya_prime_blueprint": 9,
+      "vadarya_prime_barrel": 5,
+      "vadarya_prime_receiver": 3,
+      "vadarya_prime_stock": 2
+    }
+  },
+  "venato_prime": {
+    "set": 14,
+    "parts": {
+      "venato_prime_blueprint": 3,
+      "venato_prime_blade": 12,
+      "venato_prime_handle": 4
+    }
+  },
+  "alternox_prime": {
+    "set": 34,
+    "parts": {
+      "alternox_prime_blueprint": 10,
+      "alternox_prime_barrel": 4,
+      "alternox_prime_receiver": 6,
+      "alternox_prime_stock": 9
+    }
+  },
+  "kestrel_prime": {
+    "set": 30,
+    "parts": {
+      "kestrel_prime_blueprint": 4,
+      "kestrel_prime_grip": 10,
+      "kestrel_prime_blade": 7
+    }
+  },
+  "perigale_prime": {
+    "set": 45,
+    "parts": {
+      "perigale_prime_blueprint": 5,
+      "perigale_prime_barrel": 14,
+      "perigale_prime_receiver": 5,
+      "perigale_prime_stock": 10
+    }
+  },
+  "sarofang_prime": {
+    "set": 35,
+    "parts": {
+      "sarofang_prime_blueprint": 5,
+      "sarofang_prime_blade": 16,
+      "sarofang_prime_handle": 4
+    }
+  }
+}

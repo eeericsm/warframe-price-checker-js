@@ -1,9 +1,8 @@
 {
   "warframes": {
-    "frost": {
+    "frost_prime": {
       "set": {
         "slug": "frost_prime_set",
-        "name": "Frost Prime Set",
         "tags": [
           "set",
           "prime",
@@ -15,7 +14,6 @@
       "parts": [
         {
           "slug": "frost_prime_blueprint",
-          "name": "Frost Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -26,7 +24,6 @@
         },
         {
           "slug": "frost_prime_neuroptics_blueprint",
-          "name": "Frost Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -38,7 +35,6 @@
         },
         {
           "slug": "frost_prime_chassis_blueprint",
-          "name": "Frost Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -50,7 +46,6 @@
         },
         {
           "slug": "frost_prime_systems_blueprint",
-          "name": "Frost Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -62,10 +57,9 @@
         }
       ]
     },
-    "hydroid": {
+    "hydroid_prime": {
       "set": {
         "slug": "hydroid_prime_set",
-        "name": "Hydroid Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -77,7 +71,6 @@
       "parts": [
         {
           "slug": "hydroid_prime_neuroptics_blueprint",
-          "name": "Hydroid Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -89,7 +82,6 @@
         },
         {
           "slug": "hydroid_prime_chassis_blueprint",
-          "name": "Hydroid Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -101,7 +93,6 @@
         },
         {
           "slug": "hydroid_prime_blueprint",
-          "name": "Hydroid Prime Blueprint",
           "tags": [
             "warframe",
             "blueprint",
@@ -112,7 +103,6 @@
         },
         {
           "slug": "hydroid_prime_systems_blueprint",
-          "name": "Hydroid Prime Systems Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -124,10 +114,9 @@
         }
       ]
     },
-    "saryn": {
+    "saryn_prime": {
       "set": {
         "slug": "saryn_prime_set",
-        "name": "Saryn Prime Set",
         "tags": [
           "set",
           "prime",
@@ -139,7 +128,6 @@
       "parts": [
         {
           "slug": "saryn_prime_blueprint",
-          "name": "Saryn Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -150,7 +138,6 @@
         },
         {
           "slug": "saryn_prime_neuroptics_blueprint",
-          "name": "Saryn Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -162,7 +149,6 @@
         },
         {
           "slug": "saryn_prime_chassis_blueprint",
-          "name": "Saryn Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -174,7 +160,6 @@
         },
         {
           "slug": "saryn_prime_systems_blueprint",
-          "name": "Saryn Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -186,10 +171,9 @@
         }
       ]
     },
-    "rhino": {
+    "rhino_prime": {
       "set": {
         "slug": "rhino_prime_set",
-        "name": "Rhino Prime Set",
         "tags": [
           "set",
           "prime",
@@ -201,7 +185,6 @@
       "parts": [
         {
           "slug": "rhino_prime_neuroptics_blueprint",
-          "name": "Rhino Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -213,7 +196,6 @@
         },
         {
           "slug": "rhino_prime_blueprint",
-          "name": "Rhino Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -224,7 +206,6 @@
         },
         {
           "slug": "rhino_prime_chassis_blueprint",
-          "name": "Rhino Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -236,7 +217,6 @@
         },
         {
           "slug": "rhino_prime_systems_blueprint",
-          "name": "Rhino Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -248,10 +228,9 @@
         }
       ]
     },
-    "wukong": {
+    "wukong_prime": {
       "set": {
         "slug": "wukong_prime_set",
-        "name": "Wukong Prime Set",
         "tags": [
           "set",
           "prime",
@@ -263,7 +242,6 @@
       "parts": [
         {
           "slug": "wukong_prime_neuroptics_blueprint",
-          "name": "Wukong Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -275,7 +253,6 @@
         },
         {
           "slug": "wukong_prime_chassis_blueprint",
-          "name": "Wukong Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -287,7 +264,6 @@
         },
         {
           "slug": "wukong_prime_blueprint",
-          "name": "Wukong Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -298,7 +274,6 @@
         },
         {
           "slug": "wukong_prime_systems_blueprint",
-          "name": "Wukong Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -310,10 +285,9 @@
         }
       ]
     },
-    "ember": {
+    "ember_prime": {
       "set": {
         "slug": "ember_prime_set",
-        "name": "Ember Prime Set",
         "tags": [
           "set",
           "prime",
@@ -325,7 +299,6 @@
       "parts": [
         {
           "slug": "ember_prime_neuroptics_blueprint",
-          "name": "Ember Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -337,7 +310,6 @@
         },
         {
           "slug": "ember_prime_chassis_blueprint",
-          "name": "Ember Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -349,7 +321,6 @@
         },
         {
           "slug": "ember_prime_systems_blueprint",
-          "name": "Ember Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -361,7 +332,6 @@
         },
         {
           "slug": "ember_prime_blueprint",
-          "name": "Ember Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -372,10 +342,9 @@
         }
       ]
     },
-    "mag": {
+    "mag_prime": {
       "set": {
         "slug": "mag_prime_set",
-        "name": "Mag Prime Set",
         "tags": [
           "set",
           "prime",
@@ -387,7 +356,6 @@
       "parts": [
         {
           "slug": "mag_prime_chassis_blueprint",
-          "name": "Mag Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -399,7 +367,6 @@
         },
         {
           "slug": "mag_prime_neuroptics_blueprint",
-          "name": "Mag Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -411,7 +378,6 @@
         },
         {
           "slug": "mag_prime_systems_blueprint",
-          "name": "Mag Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -423,7 +389,6 @@
         },
         {
           "slug": "mag_prime_blueprint",
-          "name": "Mag Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -434,10 +399,9 @@
         }
       ]
     },
-    "oberon": {
+    "oberon_prime": {
       "set": {
         "slug": "oberon_prime_set",
-        "name": "Oberon Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -449,7 +413,6 @@
       "parts": [
         {
           "slug": "oberon_prime_neuroptics_blueprint",
-          "name": "Oberon Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -461,7 +424,6 @@
         },
         {
           "slug": "oberon_prime_chassis_blueprint",
-          "name": "Oberon Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -473,7 +435,6 @@
         },
         {
           "slug": "oberon_prime_systems_blueprint",
-          "name": "Oberon Prime Systems Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -485,7 +446,6 @@
         },
         {
           "slug": "oberon_prime_blueprint",
-          "name": "Oberon Prime Blueprint",
           "tags": [
             "warframe",
             "blueprint",
@@ -496,10 +456,9 @@
         }
       ]
     },
-    "trinity": {
+    "trinity_prime": {
       "set": {
         "slug": "trinity_prime_set",
-        "name": "Trinity Prime Set",
         "tags": [
           "set",
           "warframe",
@@ -511,7 +470,6 @@
       "parts": [
         {
           "slug": "trinity_prime_neuroptics_blueprint",
-          "name": "Trinity Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -523,7 +481,6 @@
         },
         {
           "slug": "trinity_prime_blueprint",
-          "name": "Trinity Prime Blueprint",
           "tags": [
             "blueprint",
             "warframe",
@@ -534,7 +491,6 @@
         },
         {
           "slug": "trinity_prime_systems_blueprint",
-          "name": "Trinity Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -546,7 +502,6 @@
         },
         {
           "slug": "trinity_prime_chassis_blueprint",
-          "name": "Trinity Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -558,10 +513,9 @@
         }
       ]
     },
-    "volt": {
+    "volt_prime": {
       "set": {
         "slug": "volt_prime_set",
-        "name": "Volt Prime Set",
         "tags": [
           "set",
           "prime",
@@ -573,7 +527,6 @@
       "parts": [
         {
           "slug": "volt_prime_neuroptics_blueprint",
-          "name": "Volt Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -585,7 +538,6 @@
         },
         {
           "slug": "volt_prime_chassis_blueprint",
-          "name": "Volt Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -597,7 +549,6 @@
         },
         {
           "slug": "volt_prime_blueprint",
-          "name": "Volt Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -608,7 +559,6 @@
         },
         {
           "slug": "volt_prime_systems_blueprint",
-          "name": "Volt Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -620,10 +570,9 @@
         }
       ]
     },
-    "titania": {
+    "titania_prime": {
       "set": {
         "slug": "titania_prime_set",
-        "name": "Titania Prime Set",
         "tags": [
           "set",
           "prime",
@@ -635,7 +584,6 @@
       "parts": [
         {
           "slug": "titania_prime_neuroptics_blueprint",
-          "name": "Titania Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -647,7 +595,6 @@
         },
         {
           "slug": "titania_prime_blueprint",
-          "name": "Titania Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -658,7 +605,6 @@
         },
         {
           "slug": "titania_prime_chassis_blueprint",
-          "name": "Titania Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -670,7 +616,6 @@
         },
         {
           "slug": "titania_prime_systems_blueprint",
-          "name": "Titania Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -682,10 +627,9 @@
         }
       ]
     },
-    "inaros": {
+    "inaros_prime": {
       "set": {
         "slug": "inaros_prime_set",
-        "name": "Inaros Prime Set",
         "tags": [
           "set",
           "prime",
@@ -697,7 +641,6 @@
       "parts": [
         {
           "slug": "inaros_prime_chassis_blueprint",
-          "name": "Inaros Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -709,7 +652,6 @@
         },
         {
           "slug": "inaros_prime_neuroptics_blueprint",
-          "name": "Inaros Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -721,7 +663,6 @@
         },
         {
           "slug": "inaros_prime_blueprint",
-          "name": "Inaros Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -732,7 +673,6 @@
         },
         {
           "slug": "inaros_prime_systems_blueprint",
-          "name": "Inaros Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -744,10 +684,9 @@
         }
       ]
     },
-    "valkyr": {
+    "valkyr_prime": {
       "set": {
         "slug": "valkyr_prime_set",
-        "name": "Valkyr Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -759,7 +698,6 @@
       "parts": [
         {
           "slug": "valkyr_prime_neuroptics_blueprint",
-          "name": "Valkyr Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -771,7 +709,6 @@
         },
         {
           "slug": "valkyr_prime_chassis_blueprint",
-          "name": "Valkyr Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -783,7 +720,6 @@
         },
         {
           "slug": "valkyr_prime_blueprint",
-          "name": "Valkyr Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -794,7 +730,6 @@
         },
         {
           "slug": "valkyr_prime_systems_blueprint",
-          "name": "Valkyr Prime Systems Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -806,10 +741,9 @@
         }
       ]
     },
-    "limbo": {
+    "limbo_prime": {
       "set": {
         "slug": "limbo_prime_set",
-        "name": "Limbo Prime Set",
         "tags": [
           "set",
           "prime",
@@ -821,7 +755,6 @@
       "parts": [
         {
           "slug": "limbo_prime_systems_blueprint",
-          "name": "Limbo Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -833,7 +766,6 @@
         },
         {
           "slug": "limbo_prime_blueprint",
-          "name": "Limbo Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -844,7 +776,6 @@
         },
         {
           "slug": "limbo_prime_chassis_blueprint",
-          "name": "Limbo Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -856,7 +787,6 @@
         },
         {
           "slug": "limbo_prime_neuroptics_blueprint",
-          "name": "Limbo Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -868,10 +798,9 @@
         }
       ]
     },
-    "atlas": {
+    "atlas_prime": {
       "set": {
         "slug": "atlas_prime_set",
-        "name": "Atlas Prime Set",
         "tags": [
           "set",
           "prime",
@@ -883,7 +812,6 @@
       "parts": [
         {
           "slug": "atlas_prime_chassis_blueprint",
-          "name": "Atlas Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -895,7 +823,6 @@
         },
         {
           "slug": "atlas_prime_systems_blueprint",
-          "name": "Atlas Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -907,7 +834,6 @@
         },
         {
           "slug": "atlas_prime_neuroptics_blueprint",
-          "name": "Atlas Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -919,7 +845,6 @@
         },
         {
           "slug": "atlas_prime_blueprint",
-          "name": "Atlas Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -930,10 +855,9 @@
         }
       ]
     },
-    "chroma": {
+    "chroma_prime": {
       "set": {
         "slug": "chroma_prime_set",
-        "name": "Chroma Prime Set",
         "tags": [
           "set",
           "prime",
@@ -945,7 +869,6 @@
       "parts": [
         {
           "slug": "chroma_prime_blueprint",
-          "name": "Chroma Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -956,7 +879,6 @@
         },
         {
           "slug": "chroma_prime_systems_blueprint",
-          "name": "Chroma Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -968,7 +890,6 @@
         },
         {
           "slug": "chroma_prime_chassis_blueprint",
-          "name": "Chroma Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -980,7 +901,6 @@
         },
         {
           "slug": "chroma_prime_neuroptics_blueprint",
-          "name": "Chroma Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -992,10 +912,9 @@
         }
       ]
     },
-    "banshee": {
+    "banshee_prime": {
       "set": {
         "slug": "banshee_prime_set",
-        "name": "Banshee Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -1007,7 +926,6 @@
       "parts": [
         {
           "slug": "banshee_prime_chassis_blueprint",
-          "name": "Banshee Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -1019,7 +937,6 @@
         },
         {
           "slug": "banshee_prime_systems_blueprint",
-          "name": "Banshee Prime Systems Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -1031,7 +948,6 @@
         },
         {
           "slug": "banshee_prime_neuroptics_blueprint",
-          "name": "Banshee Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -1043,7 +959,6 @@
         },
         {
           "slug": "banshee_prime_blueprint",
-          "name": "Banshee Prime Blueprint",
           "tags": [
             "warframe",
             "blueprint",
@@ -1054,10 +969,9 @@
         }
       ]
     },
-    "vauban": {
+    "vauban_prime": {
       "set": {
         "slug": "vauban_prime_set",
-        "name": "Vauban Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1069,7 +983,6 @@
       "parts": [
         {
           "slug": "vauban_prime_neuroptics_blueprint",
-          "name": "Vauban Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1081,7 +994,6 @@
         },
         {
           "slug": "vauban_prime_blueprint",
-          "name": "Vauban Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1092,7 +1004,6 @@
         },
         {
           "slug": "vauban_prime_chassis_blueprint",
-          "name": "Vauban Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1104,7 +1015,6 @@
         },
         {
           "slug": "vauban_prime_systems_blueprint",
-          "name": "Vauban Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1116,10 +1026,9 @@
         }
       ]
     },
-    "loki": {
+    "loki_prime": {
       "set": {
         "slug": "loki_prime_set",
-        "name": "Loki Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1131,7 +1040,6 @@
       "parts": [
         {
           "slug": "loki_prime_systems_blueprint",
-          "name": "Loki Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1143,7 +1051,6 @@
         },
         {
           "slug": "loki_prime_chassis_blueprint",
-          "name": "Loki Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1155,7 +1062,6 @@
         },
         {
           "slug": "loki_prime_neuroptics_blueprint",
-          "name": "Loki Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1167,7 +1073,6 @@
         },
         {
           "slug": "loki_prime_blueprint",
-          "name": "Loki Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1178,10 +1083,9 @@
         }
       ]
     },
-    "nova": {
+    "nova_prime": {
       "set": {
         "slug": "nova_prime_set",
-        "name": "Nova Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1193,7 +1097,6 @@
       "parts": [
         {
           "slug": "nova_prime_systems_blueprint",
-          "name": "Nova Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1205,7 +1108,6 @@
         },
         {
           "slug": "nova_prime_neuroptics_blueprint",
-          "name": "Nova Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1217,7 +1119,6 @@
         },
         {
           "slug": "nova_prime_chassis_blueprint",
-          "name": "Nova Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1229,7 +1130,6 @@
         },
         {
           "slug": "nova_prime_blueprint",
-          "name": "Nova Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1240,10 +1140,9 @@
         }
       ]
     },
-    "nyx": {
+    "nyx_prime": {
       "set": {
         "slug": "nyx_prime_set",
-        "name": "Nyx Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1255,7 +1154,6 @@
       "parts": [
         {
           "slug": "nyx_prime_blueprint",
-          "name": "Nyx Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1266,7 +1164,6 @@
         },
         {
           "slug": "nyx_prime_systems_blueprint",
-          "name": "Nyx Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1278,7 +1175,6 @@
         },
         {
           "slug": "nyx_prime_neuroptics_blueprint",
-          "name": "Nyx Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1290,7 +1186,6 @@
         },
         {
           "slug": "nyx_prime_chassis_blueprint",
-          "name": "Nyx Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1302,10 +1197,9 @@
         }
       ]
     },
-    "zephyr": {
+    "zephyr_prime": {
       "set": {
         "slug": "zephyr_prime_set",
-        "name": "Zephyr Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -1317,7 +1211,6 @@
       "parts": [
         {
           "slug": "zephyr_prime_chassis_blueprint",
-          "name": "Zephyr Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1329,7 +1222,6 @@
         },
         {
           "slug": "zephyr_prime_blueprint",
-          "name": "Zephyr Prime Blueprint",
           "tags": [
             "warframe",
             "blueprint",
@@ -1340,7 +1232,6 @@
         },
         {
           "slug": "zephyr_prime_neuroptics_blueprint",
-          "name": "Zephyr Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1352,7 +1243,6 @@
         },
         {
           "slug": "zephyr_prime_systems_blueprint",
-          "name": "Zephyr Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1364,10 +1254,9 @@
         }
       ]
     },
-    "ivara": {
+    "ivara_prime": {
       "set": {
         "slug": "ivara_prime_set",
-        "name": "Ivara Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1379,7 +1268,6 @@
       "parts": [
         {
           "slug": "ivara_prime_neuroptics_blueprint",
-          "name": "Ivara Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1391,7 +1279,6 @@
         },
         {
           "slug": "ivara_prime_chassis_blueprint",
-          "name": "Ivara Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1403,7 +1290,6 @@
         },
         {
           "slug": "ivara_prime_systems_blueprint",
-          "name": "Ivara Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1415,7 +1301,6 @@
         },
         {
           "slug": "ivara_prime_blueprint",
-          "name": "Ivara Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1426,10 +1311,9 @@
         }
       ]
     },
-    "mirage": {
+    "mirage_prime": {
       "set": {
         "slug": "mirage_prime_set",
-        "name": "Mirage Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -1441,7 +1325,6 @@
       "parts": [
         {
           "slug": "mirage_prime_systems_blueprint",
-          "name": "Mirage Prime Systems Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -1453,7 +1336,6 @@
         },
         {
           "slug": "mirage_prime_blueprint",
-          "name": "Mirage Prime Blueprint",
           "tags": [
             "warframe",
             "blueprint",
@@ -1464,7 +1346,6 @@
         },
         {
           "slug": "mirage_prime_chassis_blueprint",
-          "name": "Mirage Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -1476,7 +1357,6 @@
         },
         {
           "slug": "mirage_prime_neuroptics_blueprint",
-          "name": "Mirage Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -1488,10 +1368,9 @@
         }
       ]
     },
-    "equinox": {
+    "equinox_prime": {
       "set": {
         "slug": "equinox_prime_set",
-        "name": "Equinox Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1503,7 +1382,6 @@
       "parts": [
         {
           "slug": "equinox_prime_blueprint",
-          "name": "Equinox Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1514,7 +1392,6 @@
         },
         {
           "slug": "equinox_prime_systems_blueprint",
-          "name": "Equinox Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1526,7 +1403,6 @@
         },
         {
           "slug": "equinox_prime_neuroptics_blueprint",
-          "name": "Equinox Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1538,7 +1414,6 @@
         },
         {
           "slug": "equinox_prime_chassis_blueprint",
-          "name": "Equinox Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1550,10 +1425,9 @@
         }
       ]
     },
-    "ash": {
+    "ash_prime": {
       "set": {
         "slug": "ash_prime_set",
-        "name": "Ash Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1565,7 +1439,6 @@
       "parts": [
         {
           "slug": "ash_prime_neuroptics_blueprint",
-          "name": "Ash Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1577,7 +1450,6 @@
         },
         {
           "slug": "ash_prime_chassis_blueprint",
-          "name": "Ash Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1589,7 +1461,6 @@
         },
         {
           "slug": "ash_prime_systems_blueprint",
-          "name": "Ash Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1601,7 +1472,6 @@
         },
         {
           "slug": "ash_prime_blueprint",
-          "name": "Ash Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1612,10 +1482,9 @@
         }
       ]
     },
-    "mesa": {
+    "mesa_prime": {
       "set": {
         "slug": "mesa_prime_set",
-        "name": "Mesa Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1627,7 +1496,6 @@
       "parts": [
         {
           "slug": "mesa_prime_blueprint",
-          "name": "Mesa Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1638,7 +1506,6 @@
         },
         {
           "slug": "mesa_prime_neuroptics_blueprint",
-          "name": "Mesa Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1650,7 +1517,6 @@
         },
         {
           "slug": "mesa_prime_systems_blueprint",
-          "name": "Mesa Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1662,7 +1528,6 @@
         },
         {
           "slug": "mesa_prime_chassis_blueprint",
-          "name": "Mesa Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1674,10 +1539,9 @@
         }
       ]
     },
-    "nekros": {
+    "nekros_prime": {
       "set": {
         "slug": "nekros_prime_set",
-        "name": "Nekros Prime Set",
         "tags": [
           "set",
           "warframe",
@@ -1689,7 +1553,6 @@
       "parts": [
         {
           "slug": "nekros_prime_neuroptics_blueprint",
-          "name": "Nekros Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1701,7 +1564,6 @@
         },
         {
           "slug": "nekros_prime_chassis_blueprint",
-          "name": "Nekros Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1713,7 +1575,6 @@
         },
         {
           "slug": "nekros_prime_blueprint",
-          "name": "Nekros Prime Blueprint",
           "tags": [
             "blueprint",
             "warframe",
@@ -1724,7 +1585,6 @@
         },
         {
           "slug": "nekros_prime_systems_blueprint",
-          "name": "Nekros Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1736,10 +1596,9 @@
         }
       ]
     },
-    "nezha": {
+    "nezha_prime": {
       "set": {
         "slug": "nezha_prime_set",
-        "name": "Nezha Prime Set",
         "tags": [
           "set",
           "prime",
@@ -1751,7 +1610,6 @@
       "parts": [
         {
           "slug": "nezha_prime_blueprint",
-          "name": "Nezha Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -1762,7 +1620,6 @@
         },
         {
           "slug": "nezha_prime_systems_blueprint",
-          "name": "Nezha Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1774,7 +1631,6 @@
         },
         {
           "slug": "nezha_prime_chassis_blueprint",
-          "name": "Nezha Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1786,7 +1642,6 @@
         },
         {
           "slug": "nezha_prime_neuroptics_blueprint",
-          "name": "Nezha Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1798,10 +1653,9 @@
         }
       ]
     },
-    "octavia": {
+    "octavia_prime": {
       "set": {
         "slug": "octavia_prime_set",
-        "name": "Octavia Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -1813,7 +1667,6 @@
       "parts": [
         {
           "slug": "octavia_prime_blueprint",
-          "name": "Octavia Prime Blueprint",
           "tags": [
             "blueprint",
             "warframe",
@@ -1824,7 +1677,6 @@
         },
         {
           "slug": "octavia_prime_chassis_blueprint",
-          "name": "Octavia Prime Chassis Blueprint",
           "tags": [
             "blueprint",
             "warframe",
@@ -1836,7 +1688,6 @@
         },
         {
           "slug": "octavia_prime_neuroptics_blueprint",
-          "name": "Octavia Prime Neuroptics Blueprint",
           "tags": [
             "blueprint",
             "warframe",
@@ -1848,7 +1699,6 @@
         },
         {
           "slug": "octavia_prime_systems_blueprint",
-          "name": "Octavia Prime Systems Blueprint",
           "tags": [
             "blueprint",
             "warframe",
@@ -1860,10 +1710,9 @@
         }
       ]
     },
-    "gara": {
+    "gara_prime": {
       "set": {
         "slug": "gara_prime_set",
-        "name": "Gara Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -1875,7 +1724,6 @@
       "parts": [
         {
           "slug": "gara_prime_blueprint",
-          "name": "Gara Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -1886,7 +1734,6 @@
         },
         {
           "slug": "gara_prime_neuroptics_blueprint",
-          "name": "Gara Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1898,7 +1745,6 @@
         },
         {
           "slug": "gara_prime_systems_blueprint",
-          "name": "Gara Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1910,7 +1756,6 @@
         },
         {
           "slug": "gara_prime_chassis_blueprint",
-          "name": "Gara Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -1922,10 +1767,9 @@
         }
       ]
     },
-    "nidus": {
+    "nidus_prime": {
       "set": {
         "slug": "nidus_prime_set",
-        "name": "Nidus Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -1937,7 +1781,6 @@
       "parts": [
         {
           "slug": "nidus_prime_blueprint",
-          "name": "Nidus Prime Blueprint",
           "tags": [
             "blueprint",
             "warframe",
@@ -1948,7 +1791,6 @@
         },
         {
           "slug": "nidus_prime_systems_blueprint",
-          "name": "Nidus Prime Systems Blueprint",
           "tags": [
             "blueprint",
             "component",
@@ -1960,7 +1802,6 @@
         },
         {
           "slug": "nidus_prime_neuroptics_blueprint",
-          "name": "Nidus Prime Neuroptics Blueprint",
           "tags": [
             "blueprint",
             "component",
@@ -1972,7 +1813,6 @@
         },
         {
           "slug": "nidus_prime_chassis_blueprint",
-          "name": "Nidus Prime Chassis Blueprint",
           "tags": [
             "blueprint",
             "component",
@@ -1984,10 +1824,9 @@
         }
       ]
     },
-    "harrow": {
+    "harrow_prime": {
       "set": {
         "slug": "harrow_prime_set",
-        "name": "Harrow Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -1999,7 +1838,6 @@
       "parts": [
         {
           "slug": "harrow_prime_blueprint",
-          "name": "Harrow Prime Blueprint",
           "tags": [
             "warframe",
             "blueprint",
@@ -2010,7 +1848,6 @@
         },
         {
           "slug": "harrow_prime_neuroptics_blueprint",
-          "name": "Harrow Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -2022,7 +1859,6 @@
         },
         {
           "slug": "harrow_prime_chassis_blueprint",
-          "name": "Harrow Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -2034,7 +1870,6 @@
         },
         {
           "slug": "harrow_prime_systems_blueprint",
-          "name": "Harrow Prime Systems Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -2046,10 +1881,9 @@
         }
       ]
     },
-    "garuda": {
+    "garuda_prime": {
       "set": {
         "slug": "garuda_prime_set",
-        "name": "Garuda Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2061,7 +1895,6 @@
       "parts": [
         {
           "slug": "garuda_prime_chassis_blueprint",
-          "name": "Garuda Prime Chassis Blueprint",
           "tags": [
             "blueprint",
             "component",
@@ -2073,7 +1906,6 @@
         },
         {
           "slug": "garuda_prime_systems_blueprint",
-          "name": "Garuda Prime Systems Blueprint",
           "tags": [
             "blueprint",
             "component",
@@ -2085,7 +1917,6 @@
         },
         {
           "slug": "garuda_prime_neuroptics_blueprint",
-          "name": "Garuda Prime Neuroptics Blueprint",
           "tags": [
             "blueprint",
             "component",
@@ -2097,7 +1928,6 @@
         },
         {
           "slug": "garuda_prime_blueprint",
-          "name": "Garuda Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -2108,10 +1938,9 @@
         }
       ]
     },
-    "khora": {
+    "khora_prime": {
       "set": {
         "slug": "khora_prime_set",
-        "name": "Khora Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -2123,7 +1952,6 @@
       "parts": [
         {
           "slug": "khora_prime_chassis_blueprint",
-          "name": "Khora Prime Chassis Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2135,7 +1963,6 @@
         },
         {
           "slug": "khora_prime_blueprint",
-          "name": "Khora Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2146,7 +1973,6 @@
         },
         {
           "slug": "khora_prime_neuroptics_blueprint",
-          "name": "Khora Prime Neuroptics Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2158,7 +1984,6 @@
         },
         {
           "slug": "khora_prime_systems_blueprint",
-          "name": "Khora Prime Systems Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2170,10 +1995,9 @@
         }
       ]
     },
-    "revenant": {
+    "revenant_prime": {
       "set": {
         "slug": "revenant_prime_set",
-        "name": "Revenant Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -2185,7 +2009,6 @@
       "parts": [
         {
           "slug": "revenant_prime_chassis_blueprint",
-          "name": "Revenant Prime Chassis Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2197,7 +2020,6 @@
         },
         {
           "slug": "revenant_prime_systems_blueprint",
-          "name": "Revenant Prime Systems Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2209,7 +2031,6 @@
         },
         {
           "slug": "revenant_prime_neuroptics_blueprint",
-          "name": "Revenant Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2221,7 +2042,6 @@
         },
         {
           "slug": "revenant_prime_blueprint",
-          "name": "Revenant Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2232,10 +2052,9 @@
         }
       ]
     },
-    "baruuk": {
+    "baruuk_prime": {
       "set": {
         "slug": "baruuk_prime_set",
-        "name": "Baruuk Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -2247,7 +2066,6 @@
       "parts": [
         {
           "slug": "baruuk_prime_chassis_blueprint",
-          "name": "Baruuk Prime Chassis Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2259,7 +2077,6 @@
         },
         {
           "slug": "baruuk_prime_blueprint",
-          "name": "Baruuk Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2270,7 +2087,6 @@
         },
         {
           "slug": "baruuk_prime_systems_blueprint",
-          "name": "Baruuk Prime Systems Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2282,7 +2098,6 @@
         },
         {
           "slug": "baruuk_prime_neuroptics_blueprint",
-          "name": "Baruuk Prime Neuroptics Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2294,10 +2109,9 @@
         }
       ]
     },
-    "hildryn": {
+    "hildryn_prime": {
       "set": {
         "slug": "hildryn_prime_set",
-        "name": "Hildryn Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2309,7 +2123,6 @@
       "parts": [
         {
           "slug": "hildryn_prime_blueprint",
-          "name": "Hildryn Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2320,7 +2133,6 @@
         },
         {
           "slug": "hildryn_prime_systems_blueprint",
-          "name": "Hildryn Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -2332,7 +2144,6 @@
         },
         {
           "slug": "hildryn_prime_neuroptics_blueprint",
-          "name": "Hildryn Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -2344,7 +2155,6 @@
         },
         {
           "slug": "hildryn_prime_chassis_blueprint",
-          "name": "Hildryn Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -2356,10 +2166,9 @@
         }
       ]
     },
-    "wisp": {
+    "wisp_prime": {
       "set": {
         "slug": "wisp_prime_set",
-        "name": "Wisp Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -2371,7 +2180,6 @@
       "parts": [
         {
           "slug": "wisp_prime_chassis_blueprint",
-          "name": "Wisp Prime Chassis Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2383,7 +2191,6 @@
         },
         {
           "slug": "wisp_prime_neuroptics_blueprint",
-          "name": "Wisp Prime Neuroptics Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2395,7 +2202,6 @@
         },
         {
           "slug": "wisp_prime_systems_blueprint",
-          "name": "Wisp Prime Systems Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2407,7 +2213,6 @@
         },
         {
           "slug": "wisp_prime_blueprint",
-          "name": "Wisp Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2418,10 +2223,9 @@
         }
       ]
     },
-    "grendel": {
+    "grendel_prime": {
       "set": {
         "slug": "grendel_prime_set",
-        "name": "Grendel Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -2433,7 +2237,6 @@
       "parts": [
         {
           "slug": "grendel_prime_blueprint",
-          "name": "Grendel Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2444,7 +2247,6 @@
         },
         {
           "slug": "grendel_prime_neuroptics_blueprint",
-          "name": "Grendel Prime Neuroptics Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2456,7 +2258,6 @@
         },
         {
           "slug": "grendel_prime_chassis_blueprint",
-          "name": "Grendel Prime Chassis Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2468,7 +2269,6 @@
         },
         {
           "slug": "grendel_prime_systems_blueprint",
-          "name": "Grendel Prime Systems Blueprint",
           "tags": [
             "prime",
             "component",
@@ -2480,10 +2280,9 @@
         }
       ]
     },
-    "gauss": {
+    "gauss_prime": {
       "set": {
         "slug": "gauss_prime_set",
-        "name": "Gauss Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -2495,7 +2294,6 @@
       "parts": [
         {
           "slug": "gauss_prime_blueprint",
-          "name": "Gauss Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2506,7 +2304,6 @@
         },
         {
           "slug": "gauss_prime_neuroptics_blueprint",
-          "name": "Gauss Prime Neuroptics Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2518,7 +2315,6 @@
         },
         {
           "slug": "gauss_prime_chassis_blueprint",
-          "name": "Gauss Prime Chassis Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2530,7 +2326,6 @@
         },
         {
           "slug": "gauss_prime_systems_blueprint",
-          "name": "Gauss Prime Systems Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2542,10 +2337,9 @@
         }
       ]
     },
-    "protea": {
+    "protea_prime": {
       "set": {
         "slug": "protea_prime_set",
-        "name": "Protea Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2557,7 +2351,6 @@
       "parts": [
         {
           "slug": "protea_prime_blueprint",
-          "name": "Protea Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2568,7 +2361,6 @@
         },
         {
           "slug": "protea_prime_neuroptics_blueprint",
-          "name": "Protea Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2580,7 +2372,6 @@
         },
         {
           "slug": "protea_prime_chassis_blueprint",
-          "name": "Protea Prime Chassis Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2592,7 +2383,6 @@
         },
         {
           "slug": "protea_prime_systems_blueprint",
-          "name": "Protea Prime Systems Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2604,10 +2394,9 @@
         }
       ]
     },
-    "sevagoth": {
+    "sevagoth_prime": {
       "set": {
         "slug": "sevagoth_prime_set",
-        "name": "Sevagoth Prime Set",
         "tags": [
           "prime",
           "warframe",
@@ -2619,7 +2408,6 @@
       "parts": [
         {
           "slug": "sevagoth_prime_blueprint",
-          "name": "Sevagoth Prime Blueprint",
           "tags": [
             "prime",
             "warframe",
@@ -2630,7 +2418,6 @@
         },
         {
           "slug": "sevagoth_prime_neuroptics_blueprint",
-          "name": "Sevagoth Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "prime",
@@ -2642,7 +2429,6 @@
         },
         {
           "slug": "sevagoth_prime_chassis_blueprint",
-          "name": "Sevagoth Prime Chassis Blueprint",
           "tags": [
             "component",
             "prime",
@@ -2654,7 +2440,6 @@
         },
         {
           "slug": "sevagoth_prime_systems_blueprint",
-          "name": "Sevagoth Prime Systems Blueprint",
           "tags": [
             "component",
             "prime",
@@ -2666,10 +2451,9 @@
         }
       ]
     },
-    "xaku": {
+    "xaku_prime": {
       "set": {
         "slug": "xaku_prime_set",
-        "name": "Xaku Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2681,7 +2465,6 @@
       "parts": [
         {
           "slug": "xaku_prime_blueprint",
-          "name": "Xaku Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2692,7 +2475,6 @@
         },
         {
           "slug": "xaku_prime_neuroptics_blueprint",
-          "name": "Xaku Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -2704,7 +2486,6 @@
         },
         {
           "slug": "xaku_prime_chassis_blueprint",
-          "name": "Xaku Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -2716,7 +2497,6 @@
         },
         {
           "slug": "xaku_prime_systems_blueprint",
-          "name": "Xaku Prime Systems Blueprint",
           "tags": [
             "warframe",
             "component",
@@ -2728,10 +2508,9 @@
         }
       ]
     },
-    "lavos": {
+    "lavos_prime": {
       "set": {
         "slug": "lavos_prime_set",
-        "name": "Lavos Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2743,7 +2522,6 @@
       "parts": [
         {
           "slug": "lavos_prime_blueprint",
-          "name": "Lavos Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2754,7 +2532,6 @@
         },
         {
           "slug": "lavos_prime_neuroptics_blueprint",
-          "name": "Lavos Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2766,7 +2543,6 @@
         },
         {
           "slug": "lavos_prime_chassis_blueprint",
-          "name": "Lavos Prime Chassis Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2778,7 +2554,6 @@
         },
         {
           "slug": "lavos_prime_systems_blueprint",
-          "name": "Lavos Prime Systems Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2790,10 +2565,9 @@
         }
       ]
     },
-    "yareli": {
+    "yareli_prime": {
       "set": {
         "slug": "yareli_prime_set",
-        "name": "Yareli Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2805,7 +2579,6 @@
       "parts": [
         {
           "slug": "yareli_prime_blueprint",
-          "name": "Yareli Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2816,7 +2589,6 @@
         },
         {
           "slug": "yareli_prime_neuroptics_blueprint",
-          "name": "Yareli Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2828,7 +2600,6 @@
         },
         {
           "slug": "yareli_prime_chassis_blueprint",
-          "name": "Yareli Prime Chassis Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2840,7 +2611,6 @@
         },
         {
           "slug": "yareli_prime_systems_blueprint",
-          "name": "Yareli Prime Systems Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2852,10 +2622,9 @@
         }
       ]
     },
-    "caliban": {
+    "caliban_prime": {
       "set": {
         "slug": "caliban_prime_set",
-        "name": "Caliban Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2867,7 +2636,6 @@
       "parts": [
         {
           "slug": "caliban_prime_blueprint",
-          "name": "Caliban Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2877,7 +2645,6 @@
         },
         {
           "slug": "caliban_prime_neuroptics_blueprint",
-          "name": "Caliban Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2888,7 +2655,6 @@
         },
         {
           "slug": "caliban_prime_chassis_blueprint",
-          "name": "Caliban Prime Chassis Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2899,7 +2665,6 @@
         },
         {
           "slug": "caliban_prime_systems_blueprint",
-          "name": "Caliban Prime Systems Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -2910,10 +2675,9 @@
         }
       ]
     },
-    "gyre": {
+    "gyre_prime": {
       "set": {
         "slug": "gyre_prime_set",
-        "name": "Gyre Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2925,7 +2689,6 @@
       "parts": [
         {
           "slug": "gyre_prime_blueprint",
-          "name": "Gyre Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2936,7 +2699,6 @@
         },
         {
           "slug": "gyre_prime_neuroptics_blueprint",
-          "name": "Gyre Prime Neuroptics Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2948,7 +2710,6 @@
         },
         {
           "slug": "gyre_prime_chassis_blueprint",
-          "name": "Gyre Prime Chassis Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2960,7 +2721,6 @@
         },
         {
           "slug": "gyre_prime_systems_blueprint",
-          "name": "Gyre Prime Systems Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2972,10 +2732,9 @@
         }
       ]
     },
-    "voruna": {
+    "voruna_prime": {
       "set": {
         "slug": "voruna_prime_set",
-        "name": "Voruna Prime Set",
         "tags": [
           "warframe",
           "prime",
@@ -2987,7 +2746,6 @@
       "parts": [
         {
           "slug": "voruna_prime_blueprint",
-          "name": "Voruna Prime Blueprint",
           "tags": [
             "warframe",
             "prime",
@@ -2998,7 +2756,6 @@
         },
         {
           "slug": "voruna_prime_neuroptics_blueprint",
-          "name": "Voruna Prime Neuroptics Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -3010,7 +2767,6 @@
         },
         {
           "slug": "voruna_prime_chassis_blueprint",
-          "name": "Voruna Prime Chassis Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -3022,7 +2778,6 @@
         },
         {
           "slug": "voruna_prime_systems_blueprint",
-          "name": "Voruna Prime Systems Blueprint",
           "tags": [
             "component",
             "warframe",
@@ -3033,32 +2788,12 @@
           "thumb": "items/images/en/thumbs/voruna_prime_systems_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp"
         }
       ]
-    },
-    "molecular_fission": {
-      "set": null,
-      "parts": [
-        {
-          "slug": "molecular_fission",
-          "name": "Molecular Fission",
-          "tags": [
-            "nova",
-            "mod",
-            "warframe",
-            "prime",
-            "augment",
-            "rare"
-          ],
-          "max_rank": 3,
-          "thumb": "items/images/en/thumbs/molecular_fission.42b30fd1ddac8ac85a2f9cbff2d6cd0e.128x128.png"
-        }
-      ]
     }
   },
   "weapons": {
-    "vasto": {
+    "vasto_prime": {
       "set": {
         "slug": "vasto_prime_set",
-        "name": "Vasto Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3071,7 +2806,6 @@
       "parts": [
         {
           "slug": "vasto_prime_barrel",
-          "name": "Vasto Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3082,7 +2816,6 @@
         },
         {
           "slug": "vasto_prime_blueprint",
-          "name": "Vasto Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3094,7 +2827,6 @@
         },
         {
           "slug": "vasto_prime_receiver",
-          "name": "Vasto Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3105,10 +2837,9 @@
         }
       ]
     },
-    "zhuge": {
+    "zhuge_prime": {
       "set": {
         "slug": "zhuge_prime_set",
-        "name": "Zhuge Prime Set",
         "tags": [
           "primary",
           "prime",
@@ -3121,7 +2852,6 @@
       "parts": [
         {
           "slug": "zhuge_prime_grip",
-          "name": "Zhuge Prime Grip",
           "tags": [
             "component",
             "weapon",
@@ -3132,7 +2862,6 @@
         },
         {
           "slug": "zhuge_prime_blueprint",
-          "name": "Zhuge Prime Blueprint",
           "tags": [
             "primary",
             "prime",
@@ -3144,7 +2873,6 @@
         },
         {
           "slug": "zhuge_prime_receiver",
-          "name": "Zhuge Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3155,7 +2883,6 @@
         },
         {
           "slug": "zhuge_prime_barrel",
-          "name": "Zhuge Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3166,7 +2893,6 @@
         },
         {
           "slug": "zhuge_prime_string",
-          "name": "Zhuge Prime String",
           "tags": [
             "component",
             "weapon",
@@ -3177,10 +2903,9 @@
         }
       ]
     },
-    "dual_kamas": {
+    "dual_kamas_prime": {
       "set": {
         "slug": "dual_kamas_prime_set",
-        "name": "Dual Kamas Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3193,7 +2918,6 @@
       "parts": [
         {
           "slug": "dual_kamas_prime_blueprint",
-          "name": "Dual Kamas Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3205,7 +2929,6 @@
         },
         {
           "slug": "dual_kamas_prime_handle",
-          "name": "Dual Kamas Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -3216,7 +2939,6 @@
         },
         {
           "slug": "dual_kamas_prime_blade",
-          "name": "Dual Kamas Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -3227,10 +2949,9 @@
         }
       ]
     },
-    "destreza": {
+    "destreza_prime": {
       "set": {
         "slug": "destreza_prime_set",
-        "name": "Destreza Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3243,7 +2964,6 @@
       "parts": [
         {
           "slug": "destreza_prime_handle",
-          "name": "Destreza Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -3254,7 +2974,6 @@
         },
         {
           "slug": "destreza_prime_blade",
-          "name": "Destreza Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -3265,7 +2984,6 @@
         },
         {
           "slug": "destreza_prime_blueprint",
-          "name": "Destreza Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3277,10 +2995,9 @@
         }
       ]
     },
-    "stradavar": {
+    "stradavar_prime": {
       "set": {
         "slug": "stradavar_prime_set",
-        "name": "Stradavar Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3293,7 +3010,6 @@
       "parts": [
         {
           "slug": "stradavar_prime_receiver",
-          "name": "Stradavar Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3304,7 +3020,6 @@
         },
         {
           "slug": "stradavar_prime_blueprint",
-          "name": "Stradavar Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3316,7 +3031,6 @@
         },
         {
           "slug": "stradavar_prime_barrel",
-          "name": "Stradavar Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3327,7 +3041,6 @@
         },
         {
           "slug": "stradavar_prime_stock",
-          "name": "Stradavar Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -3338,10 +3051,9 @@
         }
       ]
     },
-    "silva_and_aegis": {
+    "silva_and_aegis_prime": {
       "set": {
         "slug": "silva_and_aegis_prime_set",
-        "name": "Silva & Aegis Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3354,7 +3066,6 @@
       "parts": [
         {
           "slug": "silva_and_aegis_prime_guard",
-          "name": "Silva & Aegis Prime Guard",
           "tags": [
             "component",
             "weapon",
@@ -3365,7 +3076,6 @@
         },
         {
           "slug": "silva_and_aegis_prime_hilt",
-          "name": "Silva & Aegis Prime Hilt",
           "tags": [
             "component",
             "weapon",
@@ -3376,7 +3086,6 @@
         },
         {
           "slug": "silva_and_aegis_prime_blade",
-          "name": "Silva & Aegis Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -3387,7 +3096,6 @@
         },
         {
           "slug": "silva_and_aegis_prime_blueprint",
-          "name": "Silva & Aegis Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3399,10 +3107,9 @@
         }
       ]
     },
-    "latron": {
+    "latron_prime": {
       "set": {
         "slug": "latron_prime_set",
-        "name": "Latron Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3415,7 +3122,6 @@
       "parts": [
         {
           "slug": "latron_prime_barrel",
-          "name": "Latron Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3426,7 +3132,6 @@
         },
         {
           "slug": "latron_prime_receiver",
-          "name": "Latron Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3437,7 +3142,6 @@
         },
         {
           "slug": "latron_prime_stock",
-          "name": "Latron Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -3448,7 +3152,6 @@
         },
         {
           "slug": "latron_prime_blueprint",
-          "name": "Latron Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3460,10 +3163,9 @@
         }
       ]
     },
-    "lex": {
+    "lex_prime": {
       "set": {
         "slug": "lex_prime_set",
-        "name": "Lex Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3476,7 +3178,6 @@
       "parts": [
         {
           "slug": "lex_prime_blueprint",
-          "name": "Lex Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3488,7 +3189,6 @@
         },
         {
           "slug": "lex_prime_barrel",
-          "name": "Lex Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3499,7 +3199,6 @@
         },
         {
           "slug": "lex_prime_receiver",
-          "name": "Lex Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3510,10 +3209,9 @@
         }
       ]
     },
-    "vectis": {
+    "vectis_prime": {
       "set": {
         "slug": "vectis_prime_set",
-        "name": "Vectis Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3526,7 +3224,6 @@
       "parts": [
         {
           "slug": "vectis_prime_stock",
-          "name": "Vectis Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -3537,7 +3234,6 @@
         },
         {
           "slug": "vectis_prime_barrel",
-          "name": "Vectis Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3548,7 +3244,6 @@
         },
         {
           "slug": "vectis_prime_receiver",
-          "name": "Vectis Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3559,7 +3254,6 @@
         },
         {
           "slug": "vectis_prime_blueprint",
-          "name": "Vectis Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3571,10 +3265,9 @@
         }
       ]
     },
-    "sicarus": {
+    "sicarus_prime": {
       "set": {
         "slug": "sicarus_prime_set",
-        "name": "Sicarus Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3587,7 +3280,6 @@
       "parts": [
         {
           "slug": "sicarus_prime_barrel",
-          "name": "Sicarus Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3598,7 +3290,6 @@
         },
         {
           "slug": "sicarus_prime_receiver",
-          "name": "Sicarus Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3609,7 +3300,6 @@
         },
         {
           "slug": "sicarus_prime_blueprint",
-          "name": "Sicarus Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3621,10 +3311,9 @@
         }
       ]
     },
-    "braton": {
+    "braton_prime": {
       "set": {
         "slug": "braton_prime_set",
-        "name": "Braton Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3637,7 +3326,6 @@
       "parts": [
         {
           "slug": "braton_prime_barrel",
-          "name": "Braton Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3648,7 +3336,6 @@
         },
         {
           "slug": "braton_prime_stock",
-          "name": "Braton Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -3659,7 +3346,6 @@
         },
         {
           "slug": "braton_prime_blueprint",
-          "name": "Braton Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3671,7 +3357,6 @@
         },
         {
           "slug": "braton_prime_receiver",
-          "name": "Braton Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3682,10 +3367,9 @@
         }
       ]
     },
-    "aklex": {
+    "aklex_prime": {
       "set": {
         "slug": "aklex_prime_set",
-        "name": "Aklex Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3698,7 +3382,6 @@
       "parts": [
         {
           "slug": "aklex_prime_blueprint",
-          "name": "Aklex Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3710,7 +3393,6 @@
         },
         {
           "slug": "aklex_prime_link",
-          "name": "Aklex Prime Link",
           "tags": [
             "component",
             "weapon",
@@ -3721,10 +3403,9 @@
         }
       ]
     },
-    "ninkondi": {
+    "ninkondi_prime": {
       "set": {
         "slug": "ninkondi_prime_set",
-        "name": "Ninkondi Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3737,7 +3418,6 @@
       "parts": [
         {
           "slug": "ninkondi_prime_chain",
-          "name": "Ninkondi Prime Chain",
           "tags": [
             "component",
             "weapon",
@@ -3748,7 +3428,6 @@
         },
         {
           "slug": "ninkondi_prime_blueprint",
-          "name": "Ninkondi Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3760,7 +3439,6 @@
         },
         {
           "slug": "ninkondi_prime_handle",
-          "name": "Ninkondi Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -3771,10 +3449,9 @@
         }
       ]
     },
-    "fang": {
+    "fang_prime": {
       "set": {
         "slug": "fang_prime_set",
-        "name": "Fang Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3787,7 +3464,6 @@
       "parts": [
         {
           "slug": "fang_prime_handle",
-          "name": "Fang Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -3798,7 +3474,6 @@
         },
         {
           "slug": "fang_prime_blade",
-          "name": "Fang Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -3809,7 +3484,6 @@
         },
         {
           "slug": "fang_prime_blueprint",
-          "name": "Fang Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3821,10 +3495,9 @@
         }
       ]
     },
-    "euphona": {
+    "euphona_prime": {
       "set": {
         "slug": "euphona_prime_set",
-        "name": "Euphona Prime Set",
         "tags": [
           "prime",
           "weapon",
@@ -3837,7 +3510,6 @@
       "parts": [
         {
           "slug": "euphona_prime_blueprint",
-          "name": "Euphona Prime Blueprint",
           "tags": [
             "prime",
             "weapon",
@@ -3849,7 +3521,6 @@
         },
         {
           "slug": "euphona_prime_barrel",
-          "name": "Euphona Prime Barrel",
           "tags": [
             "component",
             "prime",
@@ -3860,7 +3531,6 @@
         },
         {
           "slug": "euphona_prime_receiver",
-          "name": "Euphona Prime Receiver",
           "tags": [
             "component",
             "prime",
@@ -3871,10 +3541,9 @@
         }
       ]
     },
-    "bo": {
+    "bo_prime": {
       "set": {
         "slug": "bo_prime_set",
-        "name": "Bo Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3887,7 +3556,6 @@
       "parts": [
         {
           "slug": "bo_prime_blueprint",
-          "name": "Bo Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3899,7 +3567,6 @@
         },
         {
           "slug": "bo_prime_handle",
-          "name": "Bo Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -3910,7 +3577,6 @@
         },
         {
           "slug": "bo_prime_ornament",
-          "name": "Bo Prime Ornament",
           "tags": [
             "component",
             "weapon",
@@ -3921,10 +3587,9 @@
         }
       ]
     },
-    "boar": {
+    "boar_prime": {
       "set": {
         "slug": "boar_prime_set",
-        "name": "Boar Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3937,7 +3602,6 @@
       "parts": [
         {
           "slug": "boar_prime_blueprint",
-          "name": "Boar Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -3949,7 +3613,6 @@
         },
         {
           "slug": "boar_prime_barrel",
-          "name": "Boar Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -3960,7 +3623,6 @@
         },
         {
           "slug": "boar_prime_receiver",
-          "name": "Boar Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -3971,7 +3633,6 @@
         },
         {
           "slug": "boar_prime_stock",
-          "name": "Boar Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -3982,10 +3643,9 @@
         }
       ]
     },
-    "boltor": {
+    "boltor_prime": {
       "set": {
         "slug": "boltor_prime_set",
-        "name": "Boltor Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -3998,7 +3658,6 @@
       "parts": [
         {
           "slug": "boltor_prime_receiver",
-          "name": "Boltor Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -4009,7 +3668,6 @@
         },
         {
           "slug": "boltor_prime_stock",
-          "name": "Boltor Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -4020,7 +3678,6 @@
         },
         {
           "slug": "boltor_prime_blueprint",
-          "name": "Boltor Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4032,7 +3689,6 @@
         },
         {
           "slug": "boltor_prime_barrel",
-          "name": "Boltor Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -4043,10 +3699,9 @@
         }
       ]
     },
-    "kogake": {
+    "kogake_prime": {
       "set": {
         "slug": "kogake_prime_set",
-        "name": "Kogake Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4059,7 +3714,6 @@
       "parts": [
         {
           "slug": "kogake_prime_gauntlet",
-          "name": "Kogake Prime Gauntlet",
           "tags": [
             "component",
             "weapon",
@@ -4070,7 +3724,6 @@
         },
         {
           "slug": "kogake_prime_boot",
-          "name": "Kogake Prime Boot",
           "tags": [
             "component",
             "weapon",
@@ -4081,7 +3734,6 @@
         },
         {
           "slug": "kogake_prime_blueprint",
-          "name": "Kogake Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4093,10 +3745,9 @@
         }
       ]
     },
-    "akvasto": {
+    "akvasto_prime": {
       "set": {
         "slug": "akvasto_prime_set",
-        "name": "Akvasto Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4109,7 +3760,6 @@
       "parts": [
         {
           "slug": "akvasto_prime_blueprint",
-          "name": "Akvasto Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4121,7 +3771,6 @@
         },
         {
           "slug": "akvasto_prime_link",
-          "name": "Akvasto Prime Link",
           "tags": [
             "component",
             "weapon",
@@ -4132,10 +3781,9 @@
         }
       ]
     },
-    "ankyros": {
+    "ankyros_prime": {
       "set": {
         "slug": "ankyros_prime_set",
-        "name": "Ankyros Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4148,7 +3796,6 @@
       "parts": [
         {
           "slug": "ankyros_prime_blade",
-          "name": "Ankyros Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -4159,7 +3806,6 @@
         },
         {
           "slug": "ankyros_prime_gauntlet",
-          "name": "Ankyros Prime Gauntlet",
           "tags": [
             "component",
             "weapon",
@@ -4170,7 +3816,6 @@
         },
         {
           "slug": "ankyros_prime_blueprint",
-          "name": "Ankyros Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4182,10 +3827,9 @@
         }
       ]
     },
-    "paris": {
+    "paris_prime": {
       "set": {
         "slug": "paris_prime_set",
-        "name": "Paris Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4198,7 +3842,6 @@
       "parts": [
         {
           "slug": "paris_prime_blueprint",
-          "name": "Paris Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4210,7 +3853,6 @@
         },
         {
           "slug": "paris_prime_grip",
-          "name": "Paris Prime Grip",
           "tags": [
             "component",
             "weapon",
@@ -4221,7 +3863,6 @@
         },
         {
           "slug": "paris_prime_string",
-          "name": "Paris Prime String",
           "tags": [
             "component",
             "weapon",
@@ -4232,7 +3873,6 @@
         },
         {
           "slug": "paris_prime_upper_limb",
-          "name": "Paris Prime Upper Limb",
           "tags": [
             "component",
             "weapon",
@@ -4243,7 +3883,6 @@
         },
         {
           "slug": "paris_prime_lower_limb",
-          "name": "Paris Prime Lower Limb",
           "tags": [
             "component",
             "weapon",
@@ -4254,10 +3893,9 @@
         }
       ]
     },
-    "ballistica": {
+    "ballistica_prime": {
       "set": {
         "slug": "ballistica_prime_set",
-        "name": "Ballistica Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4270,7 +3908,6 @@
       "parts": [
         {
           "slug": "ballistica_prime_string",
-          "name": "Ballistica Prime String",
           "tags": [
             "component",
             "weapon",
@@ -4281,7 +3918,6 @@
         },
         {
           "slug": "ballistica_prime_lower_limb",
-          "name": "Ballistica Prime Lower Limb",
           "tags": [
             "component",
             "weapon",
@@ -4292,7 +3928,6 @@
         },
         {
           "slug": "ballistica_prime_blueprint",
-          "name": "Ballistica Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4304,7 +3939,6 @@
         },
         {
           "slug": "ballistica_prime_receiver",
-          "name": "Ballistica Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -4315,7 +3949,6 @@
         },
         {
           "slug": "ballistica_prime_upper_limb",
-          "name": "Ballistica Prime Upper Limb",
           "tags": [
             "component",
             "weapon",
@@ -4326,10 +3959,9 @@
         }
       ]
     },
-    "venka": {
+    "venka_prime": {
       "set": {
         "slug": "venka_prime_set",
-        "name": "Venka Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4342,7 +3974,6 @@
       "parts": [
         {
           "slug": "venka_prime_blueprint",
-          "name": "Venka Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4354,7 +3985,6 @@
         },
         {
           "slug": "venka_prime_blades",
-          "name": "Venka Prime Blades",
           "tags": [
             "component",
             "weapon",
@@ -4365,7 +3995,6 @@
         },
         {
           "slug": "venka_prime_gauntlet",
-          "name": "Venka Prime Gauntlet",
           "tags": [
             "component",
             "weapon",
@@ -4376,10 +4005,9 @@
         }
       ]
     },
-    "akbronco": {
+    "akbronco_prime": {
       "set": {
         "slug": "akbronco_prime_set",
-        "name": "Akbronco Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4392,7 +4020,6 @@
       "parts": [
         {
           "slug": "akbronco_prime_link",
-          "name": "Akbronco Prime Link",
           "tags": [
             "component",
             "weapon",
@@ -4403,7 +4030,6 @@
         },
         {
           "slug": "akbronco_prime_blueprint",
-          "name": "Akbronco Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4415,10 +4041,9 @@
         }
       ]
     },
-    "dakra": {
+    "dakra_prime": {
       "set": {
         "slug": "dakra_prime_set",
-        "name": "Dakra Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4431,7 +4056,6 @@
       "parts": [
         {
           "slug": "dakra_prime_handle",
-          "name": "Dakra Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -4442,7 +4066,6 @@
         },
         {
           "slug": "dakra_prime_blade",
-          "name": "Dakra Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -4453,7 +4076,6 @@
         },
         {
           "slug": "dakra_prime_blueprint",
-          "name": "Dakra Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4465,10 +4087,9 @@
         }
       ]
     },
-    "baza": {
+    "baza_prime": {
       "set": {
         "slug": "baza_prime_set",
-        "name": "Baza Prime Set",
         "tags": [
           "primary",
           "prime",
@@ -4481,7 +4102,6 @@
       "parts": [
         {
           "slug": "baza_prime_blueprint",
-          "name": "Baza Prime Blueprint",
           "tags": [
             "primary",
             "prime",
@@ -4493,7 +4113,6 @@
         },
         {
           "slug": "baza_prime_stock",
-          "name": "Baza Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -4504,7 +4123,6 @@
         },
         {
           "slug": "baza_prime_receiver",
-          "name": "Baza Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -4515,7 +4133,6 @@
         },
         {
           "slug": "baza_prime_barrel",
-          "name": "Baza Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -4526,10 +4143,9 @@
         }
       ]
     },
-    "aksomati": {
+    "aksomati_prime": {
       "set": {
         "slug": "aksomati_prime_set",
-        "name": "Aksomati Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4542,7 +4158,6 @@
       "parts": [
         {
           "slug": "aksomati_prime_link",
-          "name": "Aksomati Prime Link",
           "tags": [
             "component",
             "weapon",
@@ -4553,7 +4168,6 @@
         },
         {
           "slug": "aksomati_prime_receiver",
-          "name": "Aksomati Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -4564,7 +4178,6 @@
         },
         {
           "slug": "aksomati_prime_barrel",
-          "name": "Aksomati Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -4575,7 +4188,6 @@
         },
         {
           "slug": "aksomati_prime_blueprint",
-          "name": "Aksomati Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4587,10 +4199,9 @@
         }
       ]
     },
-    "hikou": {
+    "hikou_prime": {
       "set": {
         "slug": "hikou_prime_set",
-        "name": "Hikou Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4603,7 +4214,6 @@
       "parts": [
         {
           "slug": "hikou_prime_pouch",
-          "name": "Hikou Prime Pouch",
           "tags": [
             "component",
             "weapon",
@@ -4614,7 +4224,6 @@
         },
         {
           "slug": "hikou_prime_stars",
-          "name": "Hikou Prime Stars",
           "tags": [
             "component",
             "weapon",
@@ -4625,7 +4234,6 @@
         },
         {
           "slug": "hikou_prime_blueprint",
-          "name": "Hikou Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4637,10 +4245,9 @@
         }
       ]
     },
-    "reaper": {
+    "reaper_prime": {
       "set": {
         "slug": "reaper_prime_set",
-        "name": "Reaper Prime Set",
         "tags": [
           "prime",
           "weapon",
@@ -4653,7 +4260,6 @@
       "parts": [
         {
           "slug": "reaper_prime_blueprint",
-          "name": "Reaper Prime Blueprint",
           "tags": [
             "prime",
             "weapon",
@@ -4665,7 +4271,6 @@
         },
         {
           "slug": "reaper_prime_blade",
-          "name": "Reaper Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -4676,7 +4281,6 @@
         },
         {
           "slug": "reaper_prime_handle",
-          "name": "Reaper Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -4687,10 +4291,9 @@
         }
       ]
     },
-    "sybaris": {
+    "sybaris_prime": {
       "set": {
         "slug": "sybaris_prime_set",
-        "name": "Sybaris Prime Set",
         "tags": [
           "primary",
           "prime",
@@ -4703,7 +4306,6 @@
       "parts": [
         {
           "slug": "sybaris_prime_barrel",
-          "name": "Sybaris Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -4714,7 +4316,6 @@
         },
         {
           "slug": "sybaris_prime_blueprint",
-          "name": "Sybaris Prime Blueprint",
           "tags": [
             "primary",
             "prime",
@@ -4726,7 +4327,6 @@
         },
         {
           "slug": "sybaris_prime_receiver",
-          "name": "Sybaris Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -4737,7 +4337,6 @@
         },
         {
           "slug": "sybaris_prime_stock",
-          "name": "Sybaris Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -4748,10 +4347,9 @@
         }
       ]
     },
-    "redeemer": {
+    "redeemer_prime": {
       "set": {
         "slug": "redeemer_prime_set",
-        "name": "Redeemer Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4764,7 +4362,6 @@
       "parts": [
         {
           "slug": "redeemer_prime_blade",
-          "name": "Redeemer Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -4775,7 +4372,6 @@
         },
         {
           "slug": "redeemer_prime_blueprint",
-          "name": "Redeemer Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4787,7 +4383,6 @@
         },
         {
           "slug": "redeemer_prime_handle",
-          "name": "Redeemer Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -4798,10 +4393,9 @@
         }
       ]
     },
-    "orthos": {
+    "orthos_prime": {
       "set": {
         "slug": "orthos_prime_set",
-        "name": "Orthos Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4814,7 +4408,6 @@
       "parts": [
         {
           "slug": "orthos_prime_blade",
-          "name": "Orthos Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -4825,7 +4418,6 @@
         },
         {
           "slug": "orthos_prime_blueprint",
-          "name": "Orthos Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4837,7 +4429,6 @@
         },
         {
           "slug": "orthos_prime_handle",
-          "name": "Orthos Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -4848,10 +4439,9 @@
         }
       ]
     },
-    "tigris": {
+    "tigris_prime": {
       "set": {
         "slug": "tigris_prime_set",
-        "name": "Tigris Prime Set",
         "tags": [
           "primary",
           "prime",
@@ -4864,7 +4454,6 @@
       "parts": [
         {
           "slug": "tigris_prime_receiver",
-          "name": "Tigris Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -4875,7 +4464,6 @@
         },
         {
           "slug": "tigris_prime_stock",
-          "name": "Tigris Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -4886,7 +4474,6 @@
         },
         {
           "slug": "tigris_prime_barrel",
-          "name": "Tigris Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -4897,7 +4484,6 @@
         },
         {
           "slug": "tigris_prime_blueprint",
-          "name": "Tigris Prime Blueprint",
           "tags": [
             "primary",
             "prime",
@@ -4909,10 +4495,9 @@
         }
       ]
     },
-    "fragor": {
+    "fragor_prime": {
       "set": {
         "slug": "fragor_prime_set",
-        "name": "Fragor Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4925,7 +4510,6 @@
       "parts": [
         {
           "slug": "fragor_prime_head",
-          "name": "Fragor Prime Head",
           "tags": [
             "component",
             "weapon",
@@ -4936,7 +4520,6 @@
         },
         {
           "slug": "fragor_prime_blueprint",
-          "name": "Fragor Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -4948,7 +4531,6 @@
         },
         {
           "slug": "fragor_prime_handle",
-          "name": "Fragor Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -4959,10 +4541,9 @@
         }
       ]
     },
-    "pangolin": {
+    "pangolin_prime": {
       "set": {
         "slug": "pangolin_prime_set",
-        "name": "Pangolin Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -4975,7 +4556,6 @@
       "parts": [
         {
           "slug": "pangolin_prime_blade",
-          "name": "Pangolin Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -4986,7 +4566,6 @@
         },
         {
           "slug": "pangolin_prime_handle",
-          "name": "Pangolin Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -4997,7 +4576,6 @@
         },
         {
           "slug": "pangolin_prime_blueprint",
-          "name": "Pangolin Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5009,10 +4587,9 @@
         }
       ]
     },
-    "glaive": {
+    "glaive_prime": {
       "set": {
         "slug": "glaive_prime_set",
-        "name": "Glaive Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5025,7 +4602,6 @@
       "parts": [
         {
           "slug": "glaive_prime_blade",
-          "name": "Glaive Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5036,7 +4612,6 @@
         },
         {
           "slug": "glaive_prime_disc",
-          "name": "Glaive Prime Disc",
           "tags": [
             "component",
             "weapon",
@@ -5047,7 +4622,6 @@
         },
         {
           "slug": "glaive_prime_blueprint",
-          "name": "Glaive Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5059,10 +4633,9 @@
         }
       ]
     },
-    "scindo": {
+    "scindo_prime": {
       "set": {
         "slug": "scindo_prime_set",
-        "name": "Scindo Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5075,7 +4648,6 @@
       "parts": [
         {
           "slug": "scindo_prime_handle",
-          "name": "Scindo Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -5086,7 +4658,6 @@
         },
         {
           "slug": "scindo_prime_blueprint",
-          "name": "Scindo Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5098,7 +4669,6 @@
         },
         {
           "slug": "scindo_prime_blade",
-          "name": "Scindo Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5109,10 +4679,9 @@
         }
       ]
     },
-    "akstiletto": {
+    "akstiletto_prime": {
       "set": {
         "slug": "akstiletto_prime_set",
-        "name": "Akstiletto Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5125,7 +4694,6 @@
       "parts": [
         {
           "slug": "akstiletto_prime_blueprint",
-          "name": "Akstiletto Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5137,7 +4705,6 @@
         },
         {
           "slug": "akstiletto_prime_barrel",
-          "name": "Akstiletto Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -5148,7 +4715,6 @@
         },
         {
           "slug": "akstiletto_prime_receiver",
-          "name": "Akstiletto Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5159,7 +4725,6 @@
         },
         {
           "slug": "akstiletto_prime_link",
-          "name": "Akstiletto Prime Link",
           "tags": [
             "component",
             "weapon",
@@ -5170,10 +4735,9 @@
         }
       ]
     },
-    "karyst": {
+    "karyst_prime": {
       "set": {
         "slug": "karyst_prime_set",
-        "name": "Karyst Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5186,7 +4750,6 @@
       "parts": [
         {
           "slug": "karyst_prime_handle",
-          "name": "Karyst Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -5197,7 +4760,6 @@
         },
         {
           "slug": "karyst_prime_blueprint",
-          "name": "Karyst Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5209,7 +4771,6 @@
         },
         {
           "slug": "karyst_prime_blade",
-          "name": "Karyst Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5220,10 +4781,9 @@
         }
       ]
     },
-    "panthera": {
+    "panthera_prime": {
       "set": {
         "slug": "panthera_prime_set",
-        "name": "Panthera Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5236,7 +4796,6 @@
       "parts": [
         {
           "slug": "panthera_prime_stock",
-          "name": "Panthera Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -5247,7 +4806,6 @@
         },
         {
           "slug": "panthera_prime_barrel",
-          "name": "Panthera Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -5258,7 +4816,6 @@
         },
         {
           "slug": "panthera_prime_receiver",
-          "name": "Panthera Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5269,7 +4826,6 @@
         },
         {
           "slug": "panthera_prime_blueprint",
-          "name": "Panthera Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5281,10 +4837,9 @@
         }
       ]
     },
-    "cernos": {
+    "cernos_prime": {
       "set": {
         "slug": "cernos_prime_set",
-        "name": "Cernos Prime Set",
         "tags": [
           "primary",
           "prime",
@@ -5297,7 +4852,6 @@
       "parts": [
         {
           "slug": "cernos_prime_blueprint",
-          "name": "Cernos Prime Blueprint",
           "tags": [
             "primary",
             "prime",
@@ -5309,7 +4863,6 @@
         },
         {
           "slug": "cernos_prime_lower_limb",
-          "name": "Cernos Prime Lower Limb",
           "tags": [
             "component",
             "weapon",
@@ -5320,7 +4873,6 @@
         },
         {
           "slug": "cernos_prime_upper_limb",
-          "name": "Cernos Prime Upper Limb",
           "tags": [
             "component",
             "weapon",
@@ -5331,7 +4883,6 @@
         },
         {
           "slug": "cernos_prime_grip",
-          "name": "Cernos Prime Grip",
           "tags": [
             "component",
             "weapon",
@@ -5342,7 +4893,6 @@
         },
         {
           "slug": "cernos_prime_string",
-          "name": "Cernos Prime String",
           "tags": [
             "component",
             "weapon",
@@ -5353,10 +4903,9 @@
         }
       ]
     },
-    "akbolto": {
+    "akbolto_prime": {
       "set": {
         "slug": "akbolto_prime_set",
-        "name": "Akbolto Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5369,7 +4918,6 @@
       "parts": [
         {
           "slug": "akbolto_prime_receiver",
-          "name": "Akbolto Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5380,7 +4928,6 @@
         },
         {
           "slug": "akbolto_prime_blueprint",
-          "name": "Akbolto Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5392,7 +4939,6 @@
         },
         {
           "slug": "akbolto_prime_link",
-          "name": "Akbolto Prime Link",
           "tags": [
             "component",
             "weapon",
@@ -5403,7 +4949,6 @@
         },
         {
           "slug": "akbolto_prime_barrel",
-          "name": "Akbolto Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -5414,10 +4959,9 @@
         }
       ]
     },
-    "nikana": {
+    "nikana_prime": {
       "set": {
         "slug": "nikana_prime_set",
-        "name": "Nikana Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5430,7 +4974,6 @@
       "parts": [
         {
           "slug": "nikana_prime_hilt",
-          "name": "Nikana Prime Hilt",
           "tags": [
             "component",
             "weapon",
@@ -5441,7 +4984,6 @@
         },
         {
           "slug": "nikana_prime_blueprint",
-          "name": "Nikana Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5453,7 +4995,6 @@
         },
         {
           "slug": "nikana_prime_blade",
-          "name": "Nikana Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5464,10 +5005,9 @@
         }
       ]
     },
-    "spira": {
+    "spira_prime": {
       "set": {
         "slug": "spira_prime_set",
-        "name": "Spira Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5480,7 +5020,6 @@
       "parts": [
         {
           "slug": "spira_prime_blueprint",
-          "name": "Spira Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5492,7 +5031,6 @@
         },
         {
           "slug": "spira_prime_pouch",
-          "name": "Spira Prime Pouch",
           "tags": [
             "component",
             "weapon",
@@ -5503,7 +5041,6 @@
         },
         {
           "slug": "spira_prime_blade",
-          "name": "Spira Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5514,10 +5051,9 @@
         }
       ]
     },
-    "nami_skyla": {
+    "nami_skyla_prime": {
       "set": {
         "slug": "nami_skyla_prime_set",
-        "name": "Nami Skyla Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5530,7 +5066,6 @@
       "parts": [
         {
           "slug": "nami_skyla_prime_handle",
-          "name": "Nami Skyla Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -5541,7 +5076,6 @@
         },
         {
           "slug": "nami_skyla_prime_blade",
-          "name": "Nami Skyla Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5552,7 +5086,6 @@
         },
         {
           "slug": "nami_skyla_prime_blueprint",
-          "name": "Nami Skyla Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5564,10 +5097,9 @@
         }
       ]
     },
-    "kronen": {
+    "kronen_prime": {
       "set": {
         "slug": "kronen_prime_set",
-        "name": "Kronen Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5580,7 +5112,6 @@
       "parts": [
         {
           "slug": "kronen_prime_handle",
-          "name": "Kronen Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -5591,7 +5122,6 @@
         },
         {
           "slug": "kronen_prime_blueprint",
-          "name": "Kronen Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5603,7 +5133,6 @@
         },
         {
           "slug": "kronen_prime_blade",
-          "name": "Kronen Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5614,10 +5143,9 @@
         }
       ]
     },
-    "tiberon": {
+    "tiberon_prime": {
       "set": {
         "slug": "tiberon_prime_set",
-        "name": "Tiberon Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5630,7 +5158,6 @@
       "parts": [
         {
           "slug": "tiberon_prime_blueprint",
-          "name": "Tiberon Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5642,7 +5169,6 @@
         },
         {
           "slug": "tiberon_prime_receiver",
-          "name": "Tiberon Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5653,7 +5179,6 @@
         },
         {
           "slug": "tiberon_prime_barrel",
-          "name": "Tiberon Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -5664,7 +5189,6 @@
         },
         {
           "slug": "tiberon_prime_stock",
-          "name": "Tiberon Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -5675,10 +5199,9 @@
         }
       ]
     },
-    "tipedo": {
+    "tipedo_prime": {
       "set": {
         "slug": "tipedo_prime_set",
-        "name": "Tipedo Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5691,7 +5214,6 @@
       "parts": [
         {
           "slug": "tipedo_prime_handle",
-          "name": "Tipedo Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -5702,7 +5224,6 @@
         },
         {
           "slug": "tipedo_prime_blueprint",
-          "name": "Tipedo Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5714,7 +5235,6 @@
         },
         {
           "slug": "tipedo_prime_ornament",
-          "name": "Tipedo Prime Ornament",
           "tags": [
             "component",
             "weapon",
@@ -5725,10 +5245,9 @@
         }
       ]
     },
-    "tekko": {
+    "tekko_prime": {
       "set": {
         "slug": "tekko_prime_set",
-        "name": "Tekko Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5741,7 +5260,6 @@
       "parts": [
         {
           "slug": "tekko_prime_gauntlet",
-          "name": "Tekko Prime Gauntlet",
           "tags": [
             "component",
             "weapon",
@@ -5752,7 +5270,6 @@
         },
         {
           "slug": "tekko_prime_blade",
-          "name": "Tekko Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -5763,7 +5280,6 @@
         },
         {
           "slug": "tekko_prime_blueprint",
-          "name": "Tekko Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5775,10 +5291,9 @@
         }
       ]
     },
-    "rubico": {
+    "rubico_prime": {
       "set": {
         "slug": "rubico_prime_set",
-        "name": "Rubico Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5791,7 +5306,6 @@
       "parts": [
         {
           "slug": "rubico_prime_barrel",
-          "name": "Rubico Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -5802,7 +5316,6 @@
         },
         {
           "slug": "rubico_prime_receiver",
-          "name": "Rubico Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5813,7 +5326,6 @@
         },
         {
           "slug": "rubico_prime_stock",
-          "name": "Rubico Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -5824,7 +5336,6 @@
         },
         {
           "slug": "rubico_prime_blueprint",
-          "name": "Rubico Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5836,10 +5347,9 @@
         }
       ]
     },
-    "burston": {
+    "burston_prime": {
       "set": {
         "slug": "burston_prime_set",
-        "name": "Burston Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5852,7 +5362,6 @@
       "parts": [
         {
           "slug": "burston_prime_receiver",
-          "name": "Burston Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5863,7 +5372,6 @@
         },
         {
           "slug": "burston_prime_blueprint",
-          "name": "Burston Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5875,7 +5383,6 @@
         },
         {
           "slug": "burston_prime_stock",
-          "name": "Burston Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -5886,7 +5393,6 @@
         },
         {
           "slug": "burston_prime_barrel",
-          "name": "Burston Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -5897,10 +5403,9 @@
         }
       ]
     },
-    "soma": {
+    "soma_prime": {
       "set": {
         "slug": "soma_prime_set",
-        "name": "Soma Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -5913,7 +5418,6 @@
       "parts": [
         {
           "slug": "soma_prime_blueprint",
-          "name": "Soma Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -5925,7 +5429,6 @@
         },
         {
           "slug": "soma_prime_receiver",
-          "name": "Soma Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5936,7 +5439,6 @@
         },
         {
           "slug": "soma_prime_stock",
-          "name": "Soma Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -5947,7 +5449,6 @@
         },
         {
           "slug": "soma_prime_barrel",
-          "name": "Soma Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -5958,10 +5459,9 @@
         }
       ]
     },
-    "akjagara": {
+    "akjagara_prime": {
       "set": {
         "slug": "akjagara_prime_set",
-        "name": "Akjagara Prime Set",
         "tags": [
           "secondary",
           "weapon",
@@ -5974,7 +5474,6 @@
       "parts": [
         {
           "slug": "akjagara_prime_receiver",
-          "name": "Akjagara Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -5985,7 +5484,6 @@
         },
         {
           "slug": "akjagara_prime_link",
-          "name": "Akjagara Prime Link",
           "tags": [
             "component",
             "weapon",
@@ -5996,7 +5494,6 @@
         },
         {
           "slug": "akjagara_prime_barrel",
-          "name": "Akjagara Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6007,7 +5504,6 @@
         },
         {
           "slug": "akjagara_prime_blueprint",
-          "name": "Akjagara Prime Blueprint",
           "tags": [
             "secondary",
             "weapon",
@@ -6019,10 +5515,9 @@
         }
       ]
     },
-    "gram": {
+    "gram_prime": {
       "set": {
         "slug": "gram_prime_set",
-        "name": "Gram Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6035,7 +5530,6 @@
       "parts": [
         {
           "slug": "gram_prime_handle",
-          "name": "Gram Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -6046,7 +5540,6 @@
         },
         {
           "slug": "gram_prime_blueprint",
-          "name": "Gram Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6058,7 +5551,6 @@
         },
         {
           "slug": "gram_prime_blade",
-          "name": "Gram Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -6069,10 +5561,9 @@
         }
       ]
     },
-    "pyrana": {
+    "pyrana_prime": {
       "set": {
         "slug": "pyrana_prime_set",
-        "name": "Pyrana Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6085,7 +5576,6 @@
       "parts": [
         {
           "slug": "pyrana_prime_blueprint",
-          "name": "Pyrana Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6097,7 +5587,6 @@
         },
         {
           "slug": "pyrana_prime_receiver",
-          "name": "Pyrana Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6108,7 +5597,6 @@
         },
         {
           "slug": "pyrana_prime_barrel",
-          "name": "Pyrana Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6119,10 +5607,9 @@
         }
       ]
     },
-    "guandao": {
+    "guandao_prime": {
       "set": {
         "slug": "guandao_prime_set",
-        "name": "Guandao Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6135,7 +5622,6 @@
       "parts": [
         {
           "slug": "guandao_prime_blueprint",
-          "name": "Guandao Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6147,7 +5633,6 @@
         },
         {
           "slug": "guandao_prime_blade",
-          "name": "Guandao Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -6158,7 +5643,6 @@
         },
         {
           "slug": "guandao_prime_handle",
-          "name": "Guandao Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -6169,10 +5653,9 @@
         }
       ]
     },
-    "zakti": {
+    "zakti_prime": {
       "set": {
         "slug": "zakti_prime_set",
-        "name": "Zakti Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6185,7 +5668,6 @@
       "parts": [
         {
           "slug": "zakti_prime_blueprint",
-          "name": "Zakti Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6197,7 +5679,6 @@
         },
         {
           "slug": "zakti_prime_barrel",
-          "name": "Zakti Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6208,7 +5689,6 @@
         },
         {
           "slug": "zakti_prime_receiver",
-          "name": "Zakti Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6219,10 +5699,9 @@
         }
       ]
     },
-    "bronco": {
+    "bronco_prime": {
       "set": {
         "slug": "bronco_prime_set",
-        "name": "Bronco Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6235,7 +5714,6 @@
       "parts": [
         {
           "slug": "bronco_prime_barrel",
-          "name": "Bronco Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6246,7 +5724,6 @@
         },
         {
           "slug": "bronco_prime_blueprint",
-          "name": "Bronco Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6258,7 +5735,6 @@
         },
         {
           "slug": "bronco_prime_receiver",
-          "name": "Bronco Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6269,10 +5745,9 @@
         }
       ]
     },
-    "galatine": {
+    "galatine_prime": {
       "set": {
         "slug": "galatine_prime_set",
-        "name": "Galatine Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6285,7 +5760,6 @@
       "parts": [
         {
           "slug": "galatine_prime_blueprint",
-          "name": "Galatine Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6297,7 +5771,6 @@
         },
         {
           "slug": "galatine_prime_blade",
-          "name": "Galatine Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -6308,7 +5781,6 @@
         },
         {
           "slug": "galatine_prime_handle",
-          "name": "Galatine Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -6319,10 +5791,9 @@
         }
       ]
     },
-    "corinth": {
+    "corinth_prime": {
       "set": {
         "slug": "corinth_prime_set",
-        "name": "Corinth Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6335,7 +5806,6 @@
       "parts": [
         {
           "slug": "corinth_prime_stock",
-          "name": "Corinth Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -6346,7 +5816,6 @@
         },
         {
           "slug": "corinth_prime_blueprint",
-          "name": "Corinth Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6358,7 +5827,6 @@
         },
         {
           "slug": "corinth_prime_barrel",
-          "name": "Corinth Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6369,7 +5837,6 @@
         },
         {
           "slug": "corinth_prime_receiver",
-          "name": "Corinth Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6380,10 +5847,9 @@
         }
       ]
     },
-    "pandero": {
+    "pandero_prime": {
       "set": {
         "slug": "pandero_prime_set",
-        "name": "Pandero Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6396,7 +5862,6 @@
       "parts": [
         {
           "slug": "pandero_prime_barrel",
-          "name": "Pandero Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6407,7 +5872,6 @@
         },
         {
           "slug": "pandero_prime_receiver",
-          "name": "Pandero Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6418,7 +5882,6 @@
         },
         {
           "slug": "pandero_prime_blueprint",
-          "name": "Pandero Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6430,10 +5893,9 @@
         }
       ]
     },
-    "tenora": {
+    "tenora_prime": {
       "set": {
         "slug": "tenora_prime_set",
-        "name": "Tenora Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6446,7 +5908,6 @@
       "parts": [
         {
           "slug": "tenora_prime_blueprint",
-          "name": "Tenora Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6458,7 +5919,6 @@
         },
         {
           "slug": "tenora_prime_receiver",
-          "name": "Tenora Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6469,7 +5929,6 @@
         },
         {
           "slug": "tenora_prime_stock",
-          "name": "Tenora Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -6480,7 +5939,6 @@
         },
         {
           "slug": "tenora_prime_barrel",
-          "name": "Tenora Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6491,10 +5949,9 @@
         }
       ]
     },
-    "volnus": {
+    "volnus_prime": {
       "set": {
         "slug": "volnus_prime_set",
-        "name": "Volnus Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6507,7 +5964,6 @@
       "parts": [
         {
           "slug": "volnus_prime_handle",
-          "name": "Volnus Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -6518,7 +5974,6 @@
         },
         {
           "slug": "volnus_prime_head",
-          "name": "Volnus Prime Head",
           "tags": [
             "component",
             "weapon",
@@ -6529,7 +5984,6 @@
         },
         {
           "slug": "volnus_prime_blueprint",
-          "name": "Volnus Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6541,10 +5995,9 @@
         }
       ]
     },
-    "astilla": {
+    "astilla_prime": {
       "set": {
         "slug": "astilla_prime_set",
-        "name": "Astilla Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -6557,7 +6010,6 @@
       "parts": [
         {
           "slug": "astilla_prime_blueprint",
-          "name": "Astilla Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -6569,7 +6021,6 @@
         },
         {
           "slug": "astilla_prime_receiver",
-          "name": "Astilla Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6580,7 +6031,6 @@
         },
         {
           "slug": "astilla_prime_barrel",
-          "name": "Astilla Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6591,7 +6041,6 @@
         },
         {
           "slug": "astilla_prime_stock",
-          "name": "Astilla Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -6602,10 +6051,9 @@
         }
       ]
     },
-    "strun": {
+    "strun_prime": {
       "set": {
         "slug": "strun_prime_set",
-        "name": "Strun Prime Set",
         "tags": [
           "primary",
           "weapon",
@@ -6618,7 +6066,6 @@
       "parts": [
         {
           "slug": "strun_prime_blueprint",
-          "name": "Strun Prime Blueprint",
           "tags": [
             "primary",
             "weapon",
@@ -6630,7 +6077,6 @@
         },
         {
           "slug": "strun_prime_receiver",
-          "name": "Strun Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6641,7 +6087,6 @@
         },
         {
           "slug": "strun_prime_barrel",
-          "name": "Strun Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6652,7 +6097,6 @@
         },
         {
           "slug": "strun_prime_stock",
-          "name": "Strun Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -6663,10 +6107,9 @@
         }
       ]
     },
-    "magnus": {
+    "magnus_prime": {
       "set": {
         "slug": "magnus_prime_set",
-        "name": "Magnus Prime Set",
         "tags": [
           "secondary",
           "weapon",
@@ -6679,7 +6122,6 @@
       "parts": [
         {
           "slug": "magnus_prime_blueprint",
-          "name": "Magnus Prime Blueprint",
           "tags": [
             "secondary",
             "weapon",
@@ -6691,7 +6133,6 @@
         },
         {
           "slug": "magnus_prime_receiver",
-          "name": "Magnus Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6702,7 +6143,6 @@
         },
         {
           "slug": "magnus_prime_barrel",
-          "name": "Magnus Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6713,10 +6153,9 @@
         }
       ]
     },
-    "knell": {
+    "knell_prime": {
       "set": {
         "slug": "knell_prime_set",
-        "name": "Knell Prime Set",
         "tags": [
           "secondary",
           "weapon",
@@ -6729,7 +6168,6 @@
       "parts": [
         {
           "slug": "knell_prime_barrel",
-          "name": "Knell Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6740,7 +6178,6 @@
         },
         {
           "slug": "knell_prime_blueprint",
-          "name": "Knell Prime Blueprint",
           "tags": [
             "secondary",
             "weapon",
@@ -6752,7 +6189,6 @@
         },
         {
           "slug": "knell_prime_receiver",
-          "name": "Knell Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6763,10 +6199,9 @@
         }
       ]
     },
-    "scourge": {
+    "scourge_prime": {
       "set": {
         "slug": "scourge_prime_set",
-        "name": "Scourge Prime Set",
         "tags": [
           "primary",
           "weapon",
@@ -6779,7 +6214,6 @@
       "parts": [
         {
           "slug": "scourge_prime_blade",
-          "name": "Scourge Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -6790,7 +6224,6 @@
         },
         {
           "slug": "scourge_prime_barrel",
-          "name": "Scourge Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6801,7 +6234,6 @@
         },
         {
           "slug": "scourge_prime_handle",
-          "name": "Scourge Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -6812,7 +6244,6 @@
         },
         {
           "slug": "scourge_prime_blueprint",
-          "name": "Scourge Prime Blueprint",
           "tags": [
             "primary",
             "weapon",
@@ -6824,10 +6255,9 @@
         }
       ]
     },
-    "corvas": {
+    "corvas_prime": {
       "set": {
         "slug": "corvas_prime_set",
-        "name": "Corvas Prime Set",
         "tags": [
           "archwing",
           "primary",
@@ -6841,7 +6271,6 @@
       "parts": [
         {
           "slug": "corvas_prime_barrel",
-          "name": "Corvas Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6852,7 +6281,6 @@
         },
         {
           "slug": "corvas_prime_blueprint",
-          "name": "Corvas Prime Blueprint",
           "tags": [
             "archwing",
             "primary",
@@ -6865,7 +6293,6 @@
         },
         {
           "slug": "corvas_prime_stock",
-          "name": "Corvas Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -6876,7 +6303,6 @@
         },
         {
           "slug": "corvas_prime_receiver",
-          "name": "Corvas Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6887,10 +6313,9 @@
         }
       ]
     },
-    "nagantaka": {
+    "nagantaka_prime": {
       "set": {
         "slug": "nagantaka_prime_set",
-        "name": "Nagantaka Prime Set",
         "tags": [
           "primary",
           "weapon",
@@ -6903,7 +6328,6 @@
       "parts": [
         {
           "slug": "nagantaka_prime_receiver",
-          "name": "Nagantaka Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -6914,7 +6338,6 @@
         },
         {
           "slug": "nagantaka_prime_blueprint",
-          "name": "Nagantaka Prime Blueprint",
           "tags": [
             "primary",
             "weapon",
@@ -6926,7 +6349,6 @@
         },
         {
           "slug": "nagantaka_prime_stock",
-          "name": "Nagantaka Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -6937,7 +6359,6 @@
         },
         {
           "slug": "nagantaka_prime_barrel",
-          "name": "Nagantaka Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -6948,10 +6369,9 @@
         }
       ]
     },
-    "dual_keres": {
+    "dual_keres_prime": {
       "set": {
         "slug": "dual_keres_prime_set",
-        "name": "Dual Keres Prime Set",
         "tags": [
           "prime",
           "melee",
@@ -6964,7 +6384,6 @@
       "parts": [
         {
           "slug": "dual_keres_prime_handle",
-          "name": "Dual Keres Prime Handle",
           "tags": [
             "prime",
             "weapon",
@@ -6975,7 +6394,6 @@
         },
         {
           "slug": "dual_keres_prime_blueprint",
-          "name": "Dual Keres Prime Blueprint",
           "tags": [
             "prime",
             "melee",
@@ -6987,7 +6405,6 @@
         },
         {
           "slug": "dual_keres_prime_blade",
-          "name": "Dual Keres Prime Blade",
           "tags": [
             "prime",
             "weapon",
@@ -6998,10 +6415,9 @@
         }
       ]
     },
-    "hystrix": {
+    "hystrix_prime": {
       "set": {
         "slug": "hystrix_prime_set",
-        "name": "Hystrix Prime Set",
         "tags": [
           "secondary",
           "prime",
@@ -7014,7 +6430,6 @@
       "parts": [
         {
           "slug": "hystrix_prime_blueprint",
-          "name": "Hystrix Prime Blueprint",
           "tags": [
             "secondary",
             "prime",
@@ -7026,7 +6441,6 @@
         },
         {
           "slug": "hystrix_prime_receiver",
-          "name": "Hystrix Prime Receiver",
           "tags": [
             "prime",
             "weapon",
@@ -7037,7 +6451,6 @@
         },
         {
           "slug": "hystrix_prime_barrel",
-          "name": "Hystrix Prime Barrel",
           "tags": [
             "prime",
             "weapon",
@@ -7048,10 +6461,9 @@
         }
       ]
     },
-    "tatsu": {
+    "tatsu_prime": {
       "set": {
         "slug": "tatsu_prime_set",
-        "name": "Tatsu Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -7064,7 +6476,6 @@
       "parts": [
         {
           "slug": "tatsu_prime_blade",
-          "name": "Tatsu Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -7075,7 +6486,6 @@
         },
         {
           "slug": "tatsu_prime_blueprint",
-          "name": "Tatsu Prime Blueprint",
           "tags": [
             "melee",
             "weapon",
@@ -7087,7 +6497,6 @@
         },
         {
           "slug": "tatsu_prime_handle",
-          "name": "Tatsu Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -7098,10 +6507,9 @@
         }
       ]
     },
-    "phantasma": {
+    "phantasma_prime": {
       "set": {
         "slug": "phantasma_prime_set",
-        "name": "Phantasma Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -7114,7 +6522,6 @@
       "parts": [
         {
           "slug": "phantasma_prime_barrel",
-          "name": "Phantasma Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -7125,7 +6532,6 @@
         },
         {
           "slug": "phantasma_prime_blueprint",
-          "name": "Phantasma Prime Blueprint",
           "tags": [
             "primary",
             "weapon",
@@ -7137,7 +6543,6 @@
         },
         {
           "slug": "phantasma_prime_receiver",
-          "name": "Phantasma Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -7148,7 +6553,6 @@
         },
         {
           "slug": "phantasma_prime_stock",
-          "name": "Phantasma Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -7159,10 +6563,9 @@
         }
       ]
     },
-    "afuris": {
+    "afuris_prime": {
       "set": {
         "slug": "afuris_prime_set",
-        "name": "Afuris Prime Set",
         "tags": [
           "prime",
           "secondary",
@@ -7175,7 +6578,6 @@
       "parts": [
         {
           "slug": "afuris_prime_barrel",
-          "name": "Afuris Prime Barrel",
           "tags": [
             "prime",
             "component",
@@ -7186,7 +6588,6 @@
         },
         {
           "slug": "afuris_prime_link",
-          "name": "Afuris Prime Link",
           "tags": [
             "prime",
             "component",
@@ -7197,7 +6598,6 @@
         },
         {
           "slug": "afuris_prime_blueprint",
-          "name": "Afuris Prime Blueprint",
           "tags": [
             "prime",
             "secondary",
@@ -7209,7 +6609,6 @@
         },
         {
           "slug": "afuris_prime_receiver",
-          "name": "Afuris Prime Receiver",
           "tags": [
             "prime",
             "component",
@@ -7220,10 +6619,9 @@
         }
       ]
     },
-    "cobra_and_crane": {
+    "cobra_and_crane_prime": {
       "set": {
         "slug": "cobra_and_crane_prime_set",
-        "name": "Cobra & Crane Prime Set",
         "tags": [
           "prime",
           "weapon",
@@ -7236,7 +6634,6 @@
       "parts": [
         {
           "slug": "cobra_and_crane_prime_guard",
-          "name": "Cobra & Crane Prime Guard",
           "tags": [
             "prime",
             "component",
@@ -7247,7 +6644,6 @@
         },
         {
           "slug": "cobra_and_crane_prime_blueprint",
-          "name": "Cobra & Crane Prime Blueprint",
           "tags": [
             "prime",
             "weapon",
@@ -7259,7 +6655,6 @@
         },
         {
           "slug": "cobra_and_crane_prime_blade",
-          "name": "Cobra & Crane Prime Blade",
           "tags": [
             "prime",
             "component",
@@ -7270,7 +6665,6 @@
         },
         {
           "slug": "cobra_and_crane_prime_hilt",
-          "name": "Cobra & Crane Prime Hilt",
           "tags": [
             "prime",
             "component",
@@ -7281,10 +6675,9 @@
         }
       ]
     },
-    "larkspur": {
+    "larkspur_prime": {
       "set": {
         "slug": "larkspur_prime_set",
-        "name": "Larkspur Prime Set",
         "tags": [
           "prime",
           "archwing",
@@ -7298,7 +6691,6 @@
       "parts": [
         {
           "slug": "larkspur_prime_barrel",
-          "name": "Larkspur Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -7309,7 +6701,6 @@
         },
         {
           "slug": "larkspur_prime_stock",
-          "name": "Larkspur Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -7320,7 +6711,6 @@
         },
         {
           "slug": "larkspur_prime_receiver",
-          "name": "Larkspur Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -7331,7 +6721,6 @@
         },
         {
           "slug": "larkspur_prime_blueprint",
-          "name": "Larkspur Prime Blueprint",
           "tags": [
             "prime",
             "archwing",
@@ -7344,10 +6733,9 @@
         }
       ]
     },
-    "gunsen": {
+    "gunsen_prime": {
       "set": {
         "slug": "gunsen_prime_set",
-        "name": "Gunsen Prime Set",
         "tags": [
           "melee",
           "prime",
@@ -7360,7 +6748,6 @@
       "parts": [
         {
           "slug": "gunsen_prime_blueprint",
-          "name": "Gunsen Prime Blueprint",
           "tags": [
             "melee",
             "prime",
@@ -7372,7 +6759,6 @@
         },
         {
           "slug": "gunsen_prime_handle",
-          "name": "Gunsen Prime Handle",
           "tags": [
             "prime",
             "component",
@@ -7383,7 +6769,6 @@
         },
         {
           "slug": "gunsen_prime_blade",
-          "name": "Gunsen Prime Blade",
           "tags": [
             "prime",
             "component",
@@ -7394,10 +6779,9 @@
         }
       ]
     },
-    "fulmin": {
+    "fulmin_prime": {
       "set": {
         "slug": "fulmin_prime_set",
-        "name": "Fulmin Prime Set",
         "tags": [
           "primary",
           "prime",
@@ -7410,7 +6794,6 @@
       "parts": [
         {
           "slug": "fulmin_prime_blueprint",
-          "name": "Fulmin Prime Blueprint",
           "tags": [
             "primary",
             "prime",
@@ -7422,7 +6805,6 @@
         },
         {
           "slug": "fulmin_prime_barrel",
-          "name": "Fulmin Prime Barrel",
           "tags": [
             "prime",
             "component",
@@ -7433,7 +6815,6 @@
         },
         {
           "slug": "fulmin_prime_stock",
-          "name": "Fulmin Prime Stock",
           "tags": [
             "prime",
             "component",
@@ -7444,7 +6825,6 @@
         },
         {
           "slug": "fulmin_prime_receiver",
-          "name": "Fulmin Prime Receiver",
           "tags": [
             "prime",
             "component",
@@ -7455,10 +6835,9 @@
         }
       ]
     },
-    "masseter": {
+    "masseter_prime": {
       "set": {
         "slug": "masseter_prime_set",
-        "name": "Masseter Prime Set",
         "tags": [
           "prime",
           "melee",
@@ -7471,7 +6850,6 @@
       "parts": [
         {
           "slug": "masseter_prime_blueprint",
-          "name": "Masseter Prime Blueprint",
           "tags": [
             "prime",
             "melee",
@@ -7483,7 +6861,6 @@
         },
         {
           "slug": "masseter_prime_blade",
-          "name": "Masseter Prime Blade",
           "tags": [
             "weapon",
             "prime",
@@ -7494,7 +6871,6 @@
         },
         {
           "slug": "masseter_prime_handle",
-          "name": "Masseter Prime Handle",
           "tags": [
             "weapon",
             "prime",
@@ -7505,10 +6881,9 @@
         }
       ]
     },
-    "zylok": {
+    "zylok_prime": {
       "set": {
         "slug": "zylok_prime_set",
-        "name": "Zylok Prime Set",
         "tags": [
           "prime",
           "secondary",
@@ -7521,7 +6896,6 @@
       "parts": [
         {
           "slug": "zylok_prime_blueprint",
-          "name": "Zylok Prime Blueprint",
           "tags": [
             "prime",
             "secondary",
@@ -7533,7 +6907,6 @@
         },
         {
           "slug": "zylok_prime_barrel",
-          "name": "Zylok Prime Barrel",
           "tags": [
             "weapon",
             "prime",
@@ -7544,7 +6917,6 @@
         },
         {
           "slug": "zylok_prime_receiver",
-          "name": "Zylok Prime Receiver",
           "tags": [
             "weapon",
             "prime",
@@ -7555,10 +6927,9 @@
         }
       ]
     },
-    "akarius": {
+    "akarius_prime": {
       "set": {
         "slug": "akarius_prime_set",
-        "name": "Akarius Prime Set",
         "tags": [
           "prime",
           "secondary",
@@ -7571,7 +6942,6 @@
       "parts": [
         {
           "slug": "akarius_prime_blueprint",
-          "name": "Akarius Prime Blueprint",
           "tags": [
             "prime",
             "secondary",
@@ -7583,7 +6953,6 @@
         },
         {
           "slug": "akarius_prime_barrel",
-          "name": "Akarius Prime Barrel",
           "tags": [
             "prime",
             "weapon",
@@ -7594,7 +6963,6 @@
         },
         {
           "slug": "akarius_prime_receiver",
-          "name": "Akarius Prime Receiver",
           "tags": [
             "prime",
             "weapon",
@@ -7605,7 +6973,6 @@
         },
         {
           "slug": "akarius_prime_link",
-          "name": "Akarius Prime Link",
           "tags": [
             "prime",
             "weapon",
@@ -7616,10 +6983,9 @@
         }
       ]
     },
-    "acceltra": {
+    "acceltra_prime": {
       "set": {
         "slug": "acceltra_prime_set",
-        "name": "Acceltra Prime Set",
         "tags": [
           "prime",
           "primary",
@@ -7632,7 +6998,6 @@
       "parts": [
         {
           "slug": "acceltra_prime_blueprint",
-          "name": "Acceltra Prime Blueprint",
           "tags": [
             "prime",
             "primary",
@@ -7644,7 +7009,6 @@
         },
         {
           "slug": "acceltra_prime_barrel",
-          "name": "Acceltra Prime Barrel",
           "tags": [
             "prime",
             "weapon",
@@ -7655,7 +7019,6 @@
         },
         {
           "slug": "acceltra_prime_receiver",
-          "name": "Acceltra Prime Receiver",
           "tags": [
             "prime",
             "weapon",
@@ -7666,7 +7029,6 @@
         },
         {
           "slug": "acceltra_prime_stock",
-          "name": "Acceltra Prime Stock",
           "tags": [
             "prime",
             "weapon",
@@ -7677,10 +7039,9 @@
         }
       ]
     },
-    "velox": {
+    "velox_prime": {
       "set": {
         "slug": "velox_prime_set",
-        "name": "Velox Prime Set",
         "tags": [
           "weapon",
           "secondary",
@@ -7693,7 +7054,6 @@
       "parts": [
         {
           "slug": "velox_prime_blueprint",
-          "name": "Velox Prime Blueprint",
           "tags": [
             "weapon",
             "secondary",
@@ -7705,7 +7065,6 @@
         },
         {
           "slug": "velox_prime_barrel",
-          "name": "Velox Prime Barrel",
           "tags": [
             "weapon",
             "component",
@@ -7716,7 +7075,6 @@
         },
         {
           "slug": "velox_prime_receiver",
-          "name": "Velox Prime Receiver",
           "tags": [
             "weapon",
             "component",
@@ -7727,10 +7085,9 @@
         }
       ]
     },
-    "okina": {
+    "okina_prime": {
       "set": {
         "slug": "okina_prime_set",
-        "name": "Okina Prime Set",
         "tags": [
           "weapon",
           "melee",
@@ -7743,7 +7100,6 @@
       "parts": [
         {
           "slug": "okina_prime_blueprint",
-          "name": "Okina Prime Blueprint",
           "tags": [
             "weapon",
             "melee",
@@ -7755,7 +7111,6 @@
         },
         {
           "slug": "okina_prime_handle",
-          "name": "Okina Prime Handle",
           "tags": [
             "weapon",
             "component",
@@ -7766,7 +7121,6 @@
         },
         {
           "slug": "okina_prime_blade",
-          "name": "Okina Prime Blade",
           "tags": [
             "weapon",
             "component",
@@ -7777,10 +7131,9 @@
         }
       ]
     },
-    "akmagnus": {
+    "akmagnus_prime": {
       "set": {
         "slug": "akmagnus_prime_set",
-        "name": "Akmagnus Prime Set",
         "tags": [
           "prime",
           "secondary",
@@ -7793,7 +7146,6 @@
       "parts": [
         {
           "slug": "akmagnus_prime_blueprint",
-          "name": "Akmagnus Prime Blueprint",
           "tags": [
             "prime",
             "secondary",
@@ -7805,7 +7157,6 @@
         },
         {
           "slug": "akmagnus_prime_link",
-          "name": "Akmagnus Prime Link",
           "tags": [
             "component",
             "prime",
@@ -7816,10 +7167,9 @@
         }
       ]
     },
-    "epitaph": {
+    "epitaph_prime": {
       "set": {
         "slug": "epitaph_prime_set",
-        "name": "Epitaph Prime Set",
         "tags": [
           "prime",
           "secondary",
@@ -7832,7 +7182,6 @@
       "parts": [
         {
           "slug": "epitaph_prime_blueprint",
-          "name": "Epitaph Prime Blueprint",
           "tags": [
             "prime",
             "secondary",
@@ -7844,7 +7193,6 @@
         },
         {
           "slug": "epitaph_prime_barrel",
-          "name": "Epitaph Prime Barrel",
           "tags": [
             "component",
             "prime",
@@ -7855,7 +7203,6 @@
         },
         {
           "slug": "epitaph_prime_receiver",
-          "name": "Epitaph Prime Receiver",
           "tags": [
             "component",
             "prime",
@@ -7866,10 +7213,9 @@
         }
       ]
     },
-    "trumna": {
+    "trumna_prime": {
       "set": {
         "slug": "trumna_prime_set",
-        "name": "Trumna Prime Set",
         "tags": [
           "primary",
           "weapon",
@@ -7882,7 +7228,6 @@
       "parts": [
         {
           "slug": "trumna_prime_blueprint",
-          "name": "Trumna Prime Blueprint",
           "tags": [
             "primary",
             "weapon",
@@ -7894,7 +7239,6 @@
         },
         {
           "slug": "trumna_prime_barrel",
-          "name": "Trumna Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -7905,7 +7249,6 @@
         },
         {
           "slug": "trumna_prime_receiver",
-          "name": "Trumna Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -7916,7 +7259,6 @@
         },
         {
           "slug": "trumna_prime_stock",
-          "name": "Trumna Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -7927,10 +7269,9 @@
         }
       ]
     },
-    "quassus": {
+    "quassus_prime": {
       "set": {
         "slug": "quassus_prime_set",
-        "name": "Quassus Prime Set",
         "tags": [
           "melee",
           "weapon",
@@ -7943,7 +7284,6 @@
       "parts": [
         {
           "slug": "quassus_prime_blueprint",
-          "name": "Quassus Prime Blueprint",
           "tags": [
             "melee",
             "weapon",
@@ -7955,7 +7295,6 @@
         },
         {
           "slug": "quassus_prime_handle",
-          "name": "Quassus Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -7966,7 +7305,6 @@
         },
         {
           "slug": "quassus_prime_blade",
-          "name": "Quassus Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -7977,10 +7315,9 @@
         }
       ]
     },
-    "cedo": {
+    "cedo_prime": {
       "set": {
         "slug": "cedo_prime_set",
-        "name": "Cedo Prime Set",
         "tags": [
           "primary",
           "weapon",
@@ -7993,7 +7330,6 @@
       "parts": [
         {
           "slug": "cedo_prime_blueprint",
-          "name": "Cedo Prime Blueprint",
           "tags": [
             "primary",
             "weapon",
@@ -8005,7 +7341,6 @@
         },
         {
           "slug": "cedo_prime_receiver",
-          "name": "Cedo Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -8016,7 +7351,6 @@
         },
         {
           "slug": "cedo_prime_barrel",
-          "name": "Cedo Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -8027,7 +7361,6 @@
         },
         {
           "slug": "cedo_prime_stock",
-          "name": "Cedo Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -8038,10 +7371,9 @@
         }
       ]
     },
-    "dual_zoren": {
+    "dual_zoren_prime": {
       "set": {
         "slug": "dual_zoren_prime_set",
-        "name": "Dual Zoren Prime Set",
         "tags": [
           "melee",
           "weapon",
@@ -8054,7 +7386,6 @@
       "parts": [
         {
           "slug": "dual_zoren_prime_blueprint",
-          "name": "Dual Zoren Prime Blueprint",
           "tags": [
             "melee",
             "weapon",
@@ -8066,7 +7397,6 @@
         },
         {
           "slug": "dual_zoren_prime_handle",
-          "name": "Dual Zoren Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -8077,7 +7407,6 @@
         },
         {
           "slug": "dual_zoren_prime_blade",
-          "name": "Dual Zoren Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -8088,10 +7417,9 @@
         }
       ]
     },
-    "daikyu": {
+    "daikyu_prime": {
       "set": {
         "slug": "daikyu_prime_set",
-        "name": "Daikyu Prime Set",
         "tags": [
           "weapon",
           "primary",
@@ -8104,7 +7432,6 @@
       "parts": [
         {
           "slug": "daikyu_prime_blueprint",
-          "name": "Daikyu Prime Blueprint",
           "tags": [
             "weapon",
             "primary",
@@ -8116,7 +7443,6 @@
         },
         {
           "slug": "daikyu_prime_lower_limb",
-          "name": "Daikyu Prime Lower Limb",
           "tags": [
             "component",
             "weapon",
@@ -8127,7 +7453,6 @@
         },
         {
           "slug": "daikyu_prime_upper_limb",
-          "name": "Daikyu Prime Upper Limb",
           "tags": [
             "component",
             "weapon",
@@ -8138,7 +7463,6 @@
         },
         {
           "slug": "daikyu_prime_grip",
-          "name": "Daikyu Prime Grip",
           "tags": [
             "component",
             "weapon",
@@ -8149,7 +7473,6 @@
         },
         {
           "slug": "daikyu_prime_string",
-          "name": "Daikyu Prime String",
           "tags": [
             "component",
             "weapon",
@@ -8160,10 +7483,9 @@
         }
       ]
     },
-    "kompressa": {
+    "kompressa_prime": {
       "set": {
         "slug": "kompressa_prime_set",
-        "name": "Kompressa Prime Set",
         "tags": [
           "secondary",
           "weapon",
@@ -8176,7 +7498,6 @@
       "parts": [
         {
           "slug": "kompressa_prime_blueprint",
-          "name": "Kompressa Prime Blueprint",
           "tags": [
             "secondary",
             "weapon",
@@ -8188,7 +7509,6 @@
         },
         {
           "slug": "kompressa_prime_barrel",
-          "name": "Kompressa Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -8199,7 +7519,6 @@
         },
         {
           "slug": "kompressa_prime_reciever",
-          "name": "Kompressa Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -8210,10 +7529,9 @@
         }
       ]
     },
-    "vadarya": {
+    "vadarya_prime": {
       "set": {
         "slug": "vadarya_prime_set",
-        "name": "Vadarya Prime Set",
         "tags": [
           "weapon",
           "primary",
@@ -8226,7 +7544,6 @@
       "parts": [
         {
           "slug": "vadarya_prime_blueprint",
-          "name": "Vadarya Prime Blueprint",
           "tags": [
             "weapon",
             "primary",
@@ -8237,7 +7554,6 @@
         },
         {
           "slug": "vadarya_prime_barrel",
-          "name": "Vadarya Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -8247,7 +7563,6 @@
         },
         {
           "slug": "vadarya_prime_receiver",
-          "name": "Vadarya Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -8257,7 +7572,6 @@
         },
         {
           "slug": "vadarya_prime_stock",
-          "name": "Vadarya Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -8267,10 +7581,9 @@
         }
       ]
     },
-    "venato": {
+    "venato_prime": {
       "set": {
         "slug": "venato_prime_set",
-        "name": "Venato Prime Set",
         "tags": [
           "weapon",
           "prime",
@@ -8283,7 +7596,6 @@
       "parts": [
         {
           "slug": "venato_prime_blueprint",
-          "name": "Venato Prime Blueprint",
           "tags": [
             "weapon",
             "prime",
@@ -8294,7 +7606,6 @@
         },
         {
           "slug": "venato_prime_blade",
-          "name": "Venato Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -8304,7 +7615,6 @@
         },
         {
           "slug": "venato_prime_handle",
-          "name": "Venato Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -8314,10 +7624,9 @@
         }
       ]
     },
-    "alternox": {
+    "alternox_prime": {
       "set": {
         "slug": "alternox_prime_set",
-        "name": "Alternox Prime Set",
         "tags": [
           "primary",
           "prime",
@@ -8330,7 +7639,6 @@
       "parts": [
         {
           "slug": "alternox_prime_blueprint",
-          "name": "Alternox Prime Blueprint",
           "tags": [
             "primary",
             "prime",
@@ -8342,7 +7650,6 @@
         },
         {
           "slug": "alternox_prime_barrel",
-          "name": "Alternox Prime Barrel",
           "tags": [
             "weapon",
             "prime",
@@ -8353,7 +7660,6 @@
         },
         {
           "slug": "alternox_prime_receiver",
-          "name": "Alternox Prime Receiver",
           "tags": [
             "weapon",
             "prime",
@@ -8364,7 +7670,6 @@
         },
         {
           "slug": "alternox_prime_stock",
-          "name": "Alternox Prime Stock",
           "tags": [
             "weapon",
             "prime",
@@ -8375,10 +7680,9 @@
         }
       ]
     },
-    "kestrel": {
+    "kestrel_prime": {
       "set": {
         "slug": "kestrel_prime_set",
-        "name": "Kestrel Prime Set",
         "tags": [
           "prime",
           "weapon",
@@ -8391,7 +7695,6 @@
       "parts": [
         {
           "slug": "kestrel_prime_blueprint",
-          "name": "Kestrel Prime Blueprint",
           "tags": [
             "prime",
             "weapon",
@@ -8403,7 +7706,6 @@
         },
         {
           "slug": "kestrel_prime_grip",
-          "name": "Kestrel Prime Grip",
           "tags": [
             "weapon",
             "prime",
@@ -8414,7 +7716,6 @@
         },
         {
           "slug": "kestrel_prime_blade",
-          "name": "Kestrel Prime Blade",
           "tags": [
             "weapon",
             "prime",
@@ -8425,10 +7726,9 @@
         }
       ]
     },
-    "perigale": {
+    "perigale_prime": {
       "set": {
         "slug": "perigale_prime_set",
-        "name": "Perigale Prime Set",
         "tags": [
           "weapon",
           "primary",
@@ -8441,7 +7741,6 @@
       "parts": [
         {
           "slug": "perigale_prime_blueprint",
-          "name": "Perigale Prime Blueprint",
           "tags": [
             "weapon",
             "primary",
@@ -8453,7 +7752,6 @@
         },
         {
           "slug": "perigale_prime_barrel",
-          "name": "Perigale Prime Barrel",
           "tags": [
             "component",
             "weapon",
@@ -8464,7 +7762,6 @@
         },
         {
           "slug": "perigale_prime_receiver",
-          "name": "Perigale Prime Receiver",
           "tags": [
             "component",
             "weapon",
@@ -8475,7 +7772,6 @@
         },
         {
           "slug": "perigale_prime_stock",
-          "name": "Perigale Prime Stock",
           "tags": [
             "component",
             "weapon",
@@ -8486,10 +7782,9 @@
         }
       ]
     },
-    "sarofang": {
+    "sarofang_prime": {
       "set": {
         "slug": "sarofang_prime_set",
-        "name": "Sarofang Prime Set",
         "tags": [
           "melee",
           "weapon",
@@ -8502,7 +7797,6 @@
       "parts": [
         {
           "slug": "sarofang_prime_blueprint",
-          "name": "Sarofang Prime Blueprint",
           "tags": [
             "melee",
             "weapon",
@@ -8514,7 +7808,6 @@
         },
         {
           "slug": "sarofang_prime_blade",
-          "name": "Sarofang Prime Blade",
           "tags": [
             "component",
             "weapon",
@@ -8525,7 +7818,6 @@
         },
         {
           "slug": "sarofang_prime_handle",
-          "name": "Sarofang Prime Handle",
           "tags": [
             "component",
             "weapon",
@@ -8538,10 +7830,9 @@
     }
   },
   "companions": {
-    "helios": {
+    "helios_prime": {
       "set": {
         "slug": "helios_prime_set",
-        "name": "Helios Prime Set",
         "tags": [
           "prime",
           "sentinel",
@@ -8553,7 +7844,6 @@
       "parts": [
         {
           "slug": "helios_prime_carapace",
-          "name": "Helios Prime Carapace",
           "tags": [
             "component",
             "weapon",
@@ -8564,7 +7854,6 @@
         },
         {
           "slug": "helios_prime_blueprint",
-          "name": "Helios Prime Blueprint",
           "tags": [
             "prime",
             "sentinel",
@@ -8575,7 +7864,6 @@
         },
         {
           "slug": "helios_prime_cerebrum",
-          "name": "Helios Prime Cerebrum",
           "tags": [
             "component",
             "weapon",
@@ -8586,7 +7874,6 @@
         },
         {
           "slug": "helios_prime_systems",
-          "name": "Helios Prime Systems",
           "tags": [
             "component",
             "weapon",
@@ -8597,10 +7884,9 @@
         }
       ]
     },
-    "carrier": {
+    "carrier_prime": {
       "set": {
         "slug": "carrier_prime_set",
-        "name": "Carrier Prime Set",
         "tags": [
           "sentinel",
           "prime",
@@ -8612,7 +7898,6 @@
       "parts": [
         {
           "slug": "carrier_prime_blueprint",
-          "name": "Carrier Prime Blueprint",
           "tags": [
             "sentinel",
             "blueprint",
@@ -8623,7 +7908,6 @@
         },
         {
           "slug": "carrier_prime_carapace",
-          "name": "Carrier Prime Carapace",
           "tags": [
             "component",
             "weapon",
@@ -8634,7 +7918,6 @@
         },
         {
           "slug": "carrier_prime_systems",
-          "name": "Carrier Prime Systems",
           "tags": [
             "component",
             "weapon",
@@ -8645,7 +7928,6 @@
         },
         {
           "slug": "carrier_prime_cerebrum",
-          "name": "Carrier Prime Cerebrum",
           "tags": [
             "component",
             "weapon",
@@ -8656,10 +7938,9 @@
         }
       ]
     },
-    "dethcube": {
+    "dethcube_prime": {
       "set": {
         "slug": "dethcube_prime_set",
-        "name": "Dethcube Prime Set",
         "tags": [
           "set",
           "prime",
@@ -8671,7 +7952,6 @@
       "parts": [
         {
           "slug": "dethcube_prime_carapace",
-          "name": "Dethcube Prime Carapace",
           "tags": [
             "component",
             "weapon",
@@ -8682,7 +7962,6 @@
         },
         {
           "slug": "dethcube_prime_cerebrum",
-          "name": "Dethcube Prime Cerebrum",
           "tags": [
             "component",
             "weapon",
@@ -8693,7 +7972,6 @@
         },
         {
           "slug": "dethcube_prime_blueprint",
-          "name": "Dethcube Prime Blueprint",
           "tags": [
             "blueprint",
             "prime",
@@ -8704,7 +7982,6 @@
         },
         {
           "slug": "dethcube_prime_systems",
-          "name": "Dethcube Prime Systems",
           "tags": [
             "component",
             "weapon",
@@ -8715,10 +7992,9 @@
         }
       ]
     },
-    "wyrm": {
+    "wyrm_prime": {
       "set": {
         "slug": "wyrm_prime_set",
-        "name": "Wyrm Prime Set",
         "tags": [
           "sentinel",
           "prime",
@@ -8730,7 +8006,6 @@
       "parts": [
         {
           "slug": "wyrm_prime_blueprint",
-          "name": "Wyrm Prime Blueprint",
           "tags": [
             "sentinel",
             "blueprint",
@@ -8741,7 +8016,6 @@
         },
         {
           "slug": "wyrm_prime_systems",
-          "name": "Wyrm Prime Systems",
           "tags": [
             "component",
             "weapon",
@@ -8752,7 +8026,6 @@
         },
         {
           "slug": "wyrm_prime_carapace",
-          "name": "Wyrm Prime Carapace",
           "tags": [
             "component",
             "weapon",
@@ -8763,7 +8036,6 @@
         },
         {
           "slug": "wyrm_prime_cerebrum",
-          "name": "Wyrm Prime Cerebrum",
           "tags": [
             "component",
             "weapon",
@@ -8774,10 +8046,9 @@
         }
       ]
     },
-    "shade": {
+    "shade_prime": {
       "set": {
         "slug": "shade_prime_set",
-        "name": "Shade Prime Set",
         "tags": [
           "prime",
           "sentinel",
@@ -8789,7 +8060,6 @@
       "parts": [
         {
           "slug": "shade_prime_blueprint",
-          "name": "Shade Prime Blueprint",
           "tags": [
             "sentinel",
             "prime",
@@ -8800,7 +8070,6 @@
         },
         {
           "slug": "shade_prime_systems",
-          "name": "Shade Prime Systems",
           "tags": [
             "component",
             "weapon",
@@ -8811,7 +8080,6 @@
         },
         {
           "slug": "shade_prime_cerebrum",
-          "name": "Shade Prime Cerebrum",
           "tags": [
             "component",
             "weapon",
@@ -8822,7 +8090,6 @@
         },
         {
           "slug": "shade_prime_carapace",
-          "name": "Shade Prime Carapace",
           "tags": [
             "component",
             "weapon",
@@ -8833,10 +8100,9 @@
         }
       ]
     },
-    "nautilus": {
+    "nautilus_prime": {
       "set": {
         "slug": "nautilus_prime_set",
-        "name": "Nautilus Prime Set",
         "tags": [
           "prime",
           "sentinel",
@@ -8848,7 +8114,6 @@
       "parts": [
         {
           "slug": "nautilus_prime_blueprint",
-          "name": "Nautilus Prime Blueprint",
           "tags": [
             "prime",
             "sentinel",
@@ -8859,7 +8124,6 @@
         },
         {
           "slug": "nautilus_prime_cerebrum",
-          "name": "Nautilus Prime Cerebrum",
           "tags": [
             "component",
             "prime",
@@ -8870,7 +8134,6 @@
         },
         {
           "slug": "nautilus_prime_carapace",
-          "name": "Nautilus Prime Carapace",
           "tags": [
             "component",
             "prime",
@@ -8881,7 +8144,6 @@
         },
         {
           "slug": "nautilus_prime_systems",
-          "name": "Nautilus Prime Systems",
           "tags": [
             "component",
             "prime",
@@ -8896,7 +8158,6 @@
   "arcanes": {
     "arcane_barrier": {
       "slug": "arcane_barrier",
-      "name": "Arcane Barrier",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -8906,7 +8167,6 @@
     },
     "arcane_ice": {
       "slug": "arcane_ice",
-      "name": "Arcane Ice",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -8916,7 +8176,6 @@
     },
     "virtuos_strike": {
       "slug": "virtuos_strike",
-      "name": "Virtuos Strike",
       "tags": [
         "operator",
         "uncommon",
@@ -8927,7 +8186,6 @@
     },
     "pax_soar": {
       "slug": "pax_soar",
-      "name": "Pax Soar",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -8937,7 +8195,6 @@
     },
     "arcane_trickery": {
       "slug": "arcane_trickery",
-      "name": "Arcane Trickery",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -8947,7 +8204,6 @@
     },
     "arcane_velocity": {
       "slug": "arcane_velocity",
-      "name": "Arcane Velocity",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -8957,7 +8213,6 @@
     },
     "arcane_resistance": {
       "slug": "arcane_resistance",
-      "name": "Arcane Resistance",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -8967,7 +8222,6 @@
     },
     "arcane_pulse": {
       "slug": "arcane_pulse",
-      "name": "Arcane Pulse",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -8977,7 +8231,6 @@
     },
     "magus_vigor": {
       "slug": "magus_vigor",
-      "name": "Magus Vigor",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -8987,7 +8240,6 @@
     },
     "magus_repair": {
       "slug": "magus_repair",
-      "name": "Magus Repair",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -8997,7 +8249,6 @@
     },
     "magus_glitch": {
       "slug": "magus_glitch",
-      "name": "Magus Glitch",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9007,7 +8258,6 @@
     },
     "magus_overload": {
       "slug": "magus_overload",
-      "name": "Magus Overload",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -9017,7 +8267,6 @@
     },
     "arcane_fury": {
       "slug": "arcane_fury",
-      "name": "Arcane Fury",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9027,7 +8276,6 @@
     },
     "arcane_aegis": {
       "slug": "arcane_aegis",
-      "name": "Arcane Aegis",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9037,7 +8285,6 @@
     },
     "arcane_consequence": {
       "slug": "arcane_consequence",
-      "name": "Arcane Consequence",
       "tags": [
         "arcane_enhancement"
       ],
@@ -9046,7 +8293,6 @@
     },
     "arcane_energize": {
       "slug": "arcane_energize",
-      "name": "Arcane Energize",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -9056,7 +8302,6 @@
     },
     "arcane_strike": {
       "slug": "arcane_strike",
-      "name": "Arcane Strike",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9066,7 +8311,6 @@
     },
     "arcane_nullifier": {
       "slug": "arcane_nullifier",
-      "name": "Arcane Nullifier",
       "tags": [
         "arcane_enhancement"
       ],
@@ -9075,7 +8319,6 @@
     },
     "arcane_victory": {
       "slug": "arcane_victory",
-      "name": "Arcane Victory",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9085,7 +8328,6 @@
     },
     "arcane_eruption": {
       "slug": "arcane_eruption",
-      "name": "Arcane Eruption",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9095,7 +8337,6 @@
     },
     "arcane_awakening": {
       "slug": "arcane_awakening",
-      "name": "Arcane Awakening",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9105,7 +8346,6 @@
     },
     "arcane_ultimatum": {
       "slug": "arcane_ultimatum",
-      "name": "Arcane Ultimatum",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9115,7 +8355,6 @@
     },
     "magus_anomaly": {
       "slug": "magus_anomaly",
-      "name": "Magus Anomaly",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -9125,7 +8364,6 @@
     },
     "virtuos_surge": {
       "slug": "virtuos_surge",
-      "name": "Virtuos Surge",
       "tags": [
         "common",
         "arcane_enhancement",
@@ -9136,7 +8374,6 @@
     },
     "arcane_deflection": {
       "slug": "arcane_deflection",
-      "name": "Arcane Deflection",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9146,7 +8383,6 @@
     },
     "exodia_valor": {
       "slug": "exodia_valor",
-      "name": "Exodia Valor",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9156,7 +8392,6 @@
     },
     "arcane_grace": {
       "slug": "arcane_grace",
-      "name": "Arcane Grace",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -9166,7 +8401,6 @@
     },
     "virtuos_fury": {
       "slug": "virtuos_fury",
-      "name": "Virtuos Fury",
       "tags": [
         "operator",
         "uncommon",
@@ -9177,7 +8411,6 @@
     },
     "virtuos_null": {
       "slug": "virtuos_null",
-      "name": "Virtuos Null",
       "tags": [
         "common",
         "arcane_enhancement",
@@ -9188,7 +8421,6 @@
     },
     "virtuos_tempo": {
       "slug": "virtuos_tempo",
-      "name": "Virtuos Tempo",
       "tags": [
         "common",
         "arcane_enhancement",
@@ -9199,7 +8431,6 @@
     },
     "exodia_force": {
       "slug": "exodia_force",
-      "name": "Exodia Force",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9209,7 +8440,6 @@
     },
     "virtuos_ghost": {
       "slug": "virtuos_ghost",
-      "name": "Virtuos Ghost",
       "tags": [
         "operator",
         "arcane_enhancement",
@@ -9220,7 +8450,6 @@
     },
     "peculiar_growth": {
       "slug": "peculiar_growth",
-      "name": "Peculiar Growth",
       "tags": [
         "mod",
         "peculiar",
@@ -9232,7 +8461,6 @@
     },
     "virtuos_forge": {
       "slug": "virtuos_forge",
-      "name": "Virtuos Forge",
       "tags": [
         "operator",
         "uncommon",
@@ -9243,7 +8471,6 @@
     },
     "pax_seeker": {
       "slug": "pax_seeker",
-      "name": "Pax Seeker",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9253,7 +8480,6 @@
     },
     "virtuos_spike": {
       "slug": "virtuos_spike",
-      "name": "Virtuos Spike",
       "tags": [
         "common",
         "arcane_enhancement",
@@ -9264,7 +8490,6 @@
     },
     "arcane_tempo": {
       "slug": "arcane_tempo",
-      "name": "Arcane Tempo",
       "tags": [
         "arcane_enhancement"
       ],
@@ -9273,7 +8498,6 @@
     },
     "arcane_agility": {
       "slug": "arcane_agility",
-      "name": "Arcane Agility",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9283,7 +8507,6 @@
     },
     "arcane_bodyguard": {
       "slug": "arcane_bodyguard",
-      "name": "Arcane Bodyguard",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9293,7 +8516,6 @@
     },
     "arcane_primary_charger": {
       "slug": "arcane_primary_charger",
-      "name": "Arcane Primary Charger",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9303,7 +8525,6 @@
     },
     "arcane_blade_charger": {
       "slug": "arcane_blade_charger",
-      "name": "Arcane Blade Charger",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9313,7 +8534,6 @@
     },
     "magus_drive": {
       "slug": "magus_drive",
-      "name": "Magus Drive",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -9323,7 +8543,6 @@
     },
     "magus_cadence": {
       "slug": "magus_cadence",
-      "name": "Magus Cadence",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9333,7 +8552,6 @@
     },
     "exodia_brave": {
       "slug": "exodia_brave",
-      "name": "Exodia Brave",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9343,7 +8561,6 @@
     },
     "exodia_hunt": {
       "slug": "exodia_hunt",
-      "name": "Exodia Hunt",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9353,7 +8570,6 @@
     },
     "exodia_triumph": {
       "slug": "exodia_triumph",
-      "name": "Exodia Triumph",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9363,7 +8579,6 @@
     },
     "magus_nourish": {
       "slug": "magus_nourish",
-      "name": "Magus Nourish",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9373,7 +8588,6 @@
     },
     "virtuos_shadow": {
       "slug": "virtuos_shadow",
-      "name": "Virtuos Shadow",
       "tags": [
         "operator",
         "arcane_enhancement",
@@ -9384,7 +8598,6 @@
     },
     "arcane_guardian": {
       "slug": "arcane_guardian",
-      "name": "Arcane Guardian",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9394,7 +8607,6 @@
     },
     "magus_accelerant": {
       "slug": "magus_accelerant",
-      "name": "Magus Accelerant",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -9404,7 +8616,6 @@
     },
     "arcane_healing": {
       "slug": "arcane_healing",
-      "name": "Arcane Healing",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9414,7 +8625,6 @@
     },
     "arcane_warmth": {
       "slug": "arcane_warmth",
-      "name": "Arcane Warmth",
       "tags": [
         "arcane_enhancement"
       ],
@@ -9423,7 +8633,6 @@
     },
     "virtuos_trojan": {
       "slug": "virtuos_trojan",
-      "name": "Virtuos Trojan",
       "tags": [
         "operator",
         "uncommon",
@@ -9434,7 +8643,6 @@
     },
     "exodia_contagion": {
       "slug": "exodia_contagion",
-      "name": "Exodia Contagion",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -9444,7 +8652,6 @@
     },
     "exodia_epidemic": {
       "slug": "exodia_epidemic",
-      "name": "Exodia Epidemic",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -9454,7 +8661,6 @@
     },
     "theorem_demulcent": {
       "slug": "theorem_demulcent",
-      "name": "Theorem Demulcent",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9464,7 +8670,6 @@
     },
     "theorem_infection": {
       "slug": "theorem_infection",
-      "name": "Theorem Infection",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9474,7 +8679,6 @@
     },
     "residual_shock": {
       "slug": "residual_shock",
-      "name": "Residual Shock",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9484,7 +8688,6 @@
     },
     "magus_replenish": {
       "slug": "magus_replenish",
-      "name": "Magus Replenish",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9494,7 +8697,6 @@
     },
     "peculiar_bloom": {
       "slug": "peculiar_bloom",
-      "name": "Peculiar Bloom",
       "tags": [
         "mod",
         "peculiar",
@@ -9506,7 +8708,6 @@
     },
     "magus_cloud": {
       "slug": "magus_cloud",
-      "name": "Magus Cloud",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9516,7 +8717,6 @@
     },
     "arcane_acceleration": {
       "slug": "arcane_acceleration",
-      "name": "Arcane Acceleration",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9526,7 +8726,6 @@
     },
     "arcane_arachne": {
       "slug": "arcane_arachne",
-      "name": "Arcane Arachne",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9536,7 +8735,6 @@
     },
     "arcane_momentum": {
       "slug": "arcane_momentum",
-      "name": "Arcane Momentum",
       "tags": [
         "arcane_enhancement"
       ],
@@ -9545,7 +8743,6 @@
     },
     "arcane_precision": {
       "slug": "arcane_precision",
-      "name": "Arcane Precision",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9555,7 +8752,6 @@
     },
     "exodia_might": {
       "slug": "exodia_might",
-      "name": "Exodia Might",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9565,7 +8761,6 @@
     },
     "pax_bolt": {
       "slug": "pax_bolt",
-      "name": "Pax Bolt",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9575,7 +8770,6 @@
     },
     "magus_melt": {
       "slug": "magus_melt",
-      "name": "Magus Melt",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9585,7 +8779,6 @@
     },
     "magus_firewall": {
       "slug": "magus_firewall",
-      "name": "Magus Firewall",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -9595,7 +8788,6 @@
     },
     "magus_destruct": {
       "slug": "magus_destruct",
-      "name": "Magus Destruct",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9605,7 +8797,6 @@
     },
     "magus_husk": {
       "slug": "magus_husk",
-      "name": "Magus Husk",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -9615,7 +8806,6 @@
     },
     "magus_elevate": {
       "slug": "magus_elevate",
-      "name": "Magus Elevate",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9625,7 +8815,6 @@
     },
     "residual_boils": {
       "slug": "residual_boils",
-      "name": "Residual Boils",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9635,7 +8824,6 @@
     },
     "residual_viremia": {
       "slug": "residual_viremia",
-      "name": "Residual Viremia",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9645,7 +8833,6 @@
     },
     "residual_malodor": {
       "slug": "residual_malodor",
-      "name": "Residual Malodor",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9655,7 +8842,6 @@
     },
     "theorem_contagion": {
       "slug": "theorem_contagion",
-      "name": "Theorem Contagion",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9665,7 +8851,6 @@
     },
     "arcane_tanker": {
       "slug": "arcane_tanker",
-      "name": "Arcane Tanker",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9675,7 +8860,6 @@
     },
     "arcane_pistoleer": {
       "slug": "arcane_pistoleer",
-      "name": "Arcane Pistoleer",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9685,7 +8869,6 @@
     },
     "pax_charge": {
       "slug": "pax_charge",
-      "name": "Pax Charge",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9695,7 +8878,6 @@
     },
     "magus_revert": {
       "slug": "magus_revert",
-      "name": "Magus Revert",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9705,7 +8887,6 @@
     },
     "arcane_avenger": {
       "slug": "arcane_avenger",
-      "name": "Arcane Avenger",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9715,7 +8896,6 @@
     },
     "arcane_phantasm": {
       "slug": "arcane_phantasm",
-      "name": "Arcane Phantasm",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -9725,7 +8905,6 @@
     },
     "arcane_rage": {
       "slug": "arcane_rage",
-      "name": "Arcane Rage",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9735,7 +8914,6 @@
     },
     "magus_lockdown": {
       "slug": "magus_lockdown",
-      "name": "Magus Lockdown",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9745,7 +8923,6 @@
     },
     "secondary_merciless": {
       "slug": "secondary_merciless",
-      "name": "Secondary Merciless",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9755,7 +8932,6 @@
     },
     "primary_merciless": {
       "slug": "primary_merciless",
-      "name": "Primary Merciless",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9765,7 +8941,6 @@
     },
     "secondary_dexterity": {
       "slug": "secondary_dexterity",
-      "name": "Secondary Dexterity",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9775,7 +8950,6 @@
     },
     "secondary_deadhead": {
       "slug": "secondary_deadhead",
-      "name": "Secondary Deadhead",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9785,7 +8959,6 @@
     },
     "primary_deadhead": {
       "slug": "primary_deadhead",
-      "name": "Primary Deadhead",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9795,7 +8968,6 @@
     },
     "primary_dexterity": {
       "slug": "primary_dexterity",
-      "name": "Primary Dexterity",
       "tags": [
         "arcane_enhancement",
         "rare"
@@ -9805,7 +8977,6 @@
     },
     "emergence_dissipate": {
       "slug": "emergence_dissipate",
-      "name": "Emergence Dissipate",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9815,7 +8986,6 @@
     },
     "molt_vigor": {
       "slug": "molt_vigor",
-      "name": "Molt Vigor",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9825,7 +8995,6 @@
     },
     "emergence_renewed": {
       "slug": "emergence_renewed",
-      "name": "Emergence Renewed",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9835,7 +9004,6 @@
     },
     "eternal_eradicate": {
       "slug": "eternal_eradicate",
-      "name": "Eternal Eradicate",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9845,7 +9013,6 @@
     },
     "molt_efficiency": {
       "slug": "molt_efficiency",
-      "name": "Molt Efficiency",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9855,7 +9022,6 @@
     },
     "emergence_savior": {
       "slug": "emergence_savior",
-      "name": "Emergence Savior",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9865,7 +9031,6 @@
     },
     "cascadia_overcharge": {
       "slug": "cascadia_overcharge",
-      "name": "Cascadia Overcharge",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9875,7 +9040,6 @@
     },
     "eternal_onslaught": {
       "slug": "eternal_onslaught",
-      "name": "Eternal Onslaught",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9885,7 +9049,6 @@
     },
     "molt_reconstruct": {
       "slug": "molt_reconstruct",
-      "name": "Molt Reconstruct",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9895,7 +9058,6 @@
     },
     "molt_augmented": {
       "slug": "molt_augmented",
-      "name": "Molt Augmented",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9905,7 +9067,6 @@
     },
     "eternal_logistics": {
       "slug": "eternal_logistics",
-      "name": "Eternal Logistics",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9915,7 +9076,6 @@
     },
     "cascadia_empowered": {
       "slug": "cascadia_empowered",
-      "name": "Cascadia Empowered",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9925,7 +9085,6 @@
     },
     "fractalized_reset": {
       "slug": "fractalized_reset",
-      "name": "Fractalized Reset",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9935,7 +9094,6 @@
     },
     "cascadia_flare": {
       "slug": "cascadia_flare",
-      "name": "Cascadia Flare",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9945,7 +9103,6 @@
     },
     "cascadia_accuracy": {
       "slug": "cascadia_accuracy",
-      "name": "Cascadia Accuracy",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9955,7 +9112,6 @@
     },
     "peculiar_audience": {
       "slug": "peculiar_audience",
-      "name": "Peculiar Audience",
       "tags": [
         "mod",
         "peculiar",
@@ -9967,7 +9123,6 @@
     },
     "conjunction_voltage": {
       "slug": "conjunction_voltage",
-      "name": "Conjunction Voltage",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9977,7 +9132,6 @@
     },
     "primary_frostbite": {
       "slug": "primary_frostbite",
-      "name": "Primary Frostbite",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9987,7 +9141,6 @@
     },
     "arcane_rise": {
       "slug": "arcane_rise",
-      "name": "Arcane Rise",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -9997,7 +9150,6 @@
     },
     "arcane_blessing": {
       "slug": "arcane_blessing",
-      "name": "Arcane Blessing",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10007,7 +9159,6 @@
     },
     "primary_plated_round": {
       "slug": "primary_plated_round",
-      "name": "Primary Plated Round",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10017,7 +9168,6 @@
     },
     "arcane_steadfast": {
       "slug": "arcane_steadfast",
-      "name": "Arcane Steadfast",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10027,7 +9177,6 @@
     },
     "arcane_double_back": {
       "slug": "arcane_double_back",
-      "name": "Arcane Double Back",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10037,7 +9186,6 @@
     },
     "secondary_kinship": {
       "slug": "secondary_kinship",
-      "name": "Secondary Kinship",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10047,7 +9195,6 @@
     },
     "secondary_encumber": {
       "slug": "secondary_encumber",
-      "name": "Secondary Encumber",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10057,7 +9204,6 @@
     },
     "primary_obstruct": {
       "slug": "primary_obstruct",
-      "name": "Primary Obstruct",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10067,7 +9213,6 @@
     },
     "arcane_intention": {
       "slug": "arcane_intention",
-      "name": "Arcane Intention",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -10077,7 +9222,6 @@
     },
     "secondary_shiver": {
       "slug": "secondary_shiver",
-      "name": "Secondary Shiver",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10087,7 +9231,6 @@
     },
     "longbow_sharpshot": {
       "slug": "longbow_sharpshot",
-      "name": "Longbow Sharpshot",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10097,7 +9240,6 @@
     },
     "shotgun_vendetta": {
       "slug": "shotgun_vendetta",
-      "name": "Shotgun Vendetta",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10107,7 +9249,6 @@
     },
     "magus_aggress": {
       "slug": "magus_aggress",
-      "name": "Magus Aggress",
       "tags": [
         "uncommon",
         "arcane_enhancement"
@@ -10117,7 +9258,6 @@
     },
     "arcane_reaper": {
       "slug": "arcane_reaper",
-      "name": "Arcane Reaper",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10127,7 +9267,6 @@
     },
     "primary_exhilarate": {
       "slug": "primary_exhilarate",
-      "name": "Primary Exhilarate",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10137,7 +9276,6 @@
     },
     "arcane_power_ramp": {
       "slug": "arcane_power_ramp",
-      "name": "Arcane Power Ramp",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10147,7 +9285,6 @@
     },
     "primary_blight": {
       "slug": "primary_blight",
-      "name": "Primary Blight",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10157,7 +9294,6 @@
     },
     "secondary_outburst": {
       "slug": "secondary_outburst",
-      "name": "Secondary Outburst",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10167,7 +9303,6 @@
     },
     "akimbo_slip_shot": {
       "slug": "akimbo_slip_shot",
-      "name": "Akimbo Slip Shot",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10177,7 +9312,6 @@
     },
     "melee_influence": {
       "slug": "melee_influence",
-      "name": "Melee Influence",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10187,7 +9321,6 @@
     },
     "melee_retaliation": {
       "slug": "melee_retaliation",
-      "name": "Melee Retaliation",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -10197,7 +9330,6 @@
     },
     "melee_crescendo": {
       "slug": "melee_crescendo",
-      "name": "Melee Crescendo",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10207,7 +9339,6 @@
     },
     "melee_vortex": {
       "slug": "melee_vortex",
-      "name": "Melee Vortex",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10217,7 +9348,6 @@
     },
     "melee_animosity": {
       "slug": "melee_animosity",
-      "name": "Melee Animosity",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10227,7 +9357,6 @@
     },
     "melee_exposure": {
       "slug": "melee_exposure",
-      "name": "Melee Exposure",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10237,7 +9366,6 @@
     },
     "melee_duplicate": {
       "slug": "melee_duplicate",
-      "name": "Melee Duplicate",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10247,7 +9375,6 @@
     },
     "melee_fortification": {
       "slug": "melee_fortification",
-      "name": "Melee Fortification",
       "tags": [
         "common",
         "arcane_enhancement"
@@ -10257,7 +9384,6 @@
     },
     "arcane_ice_storm": {
       "slug": "arcane_ice_storm",
-      "name": "Arcane Ice Storm",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10267,7 +9393,6 @@
     },
     "secondary_surge": {
       "slug": "secondary_surge",
-      "name": "Secondary Surge",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10277,7 +9402,6 @@
     },
     "arcane_battery": {
       "slug": "arcane_battery",
-      "name": "Arcane Battery",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10287,7 +9411,6 @@
     },
     "secondary_fortifier": {
       "slug": "secondary_fortifier",
-      "name": "Secondary Fortifier",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10297,7 +9420,6 @@
     },
     "melee_afflictions": {
       "slug": "melee_afflictions",
-      "name": "Melee Afflictions",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10307,7 +9429,6 @@
     },
     "arcane_crepuscular": {
       "slug": "arcane_crepuscular",
-      "name": "Arcane Crepuscular",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10317,7 +9438,6 @@
     },
     "arcane_impetus": {
       "slug": "arcane_impetus",
-      "name": "Arcane Impetus",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10327,7 +9447,6 @@
     },
     "primary_crux": {
       "slug": "primary_crux",
-      "name": "Primary Crux",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10337,7 +9456,6 @@
     },
     "secondary_enervate": {
       "slug": "secondary_enervate",
-      "name": "Secondary Enervate",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10347,7 +9465,6 @@
     },
     "melee_doughty": {
       "slug": "melee_doughty",
-      "name": "Melee Doughty",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10357,7 +9474,6 @@
     },
     "arcane_camisado": {
       "slug": "arcane_camisado",
-      "name": "Arcane Camisado",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10367,7 +9483,6 @@
     },
     "arcane_bellicose": {
       "slug": "arcane_bellicose",
-      "name": "Arcane Bellicose",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10377,7 +9492,6 @@
     },
     "arcane_truculence": {
       "slug": "arcane_truculence",
-      "name": "Arcane Truculence",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10387,7 +9501,6 @@
     },
     "arcane_escapist": {
       "slug": "arcane_escapist",
-      "name": "Arcane Escapist",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10397,7 +9510,6 @@
     },
     "arcane_hot_shot": {
       "slug": "arcane_hot_shot",
-      "name": "Arcane Hot Shot",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10407,7 +9519,6 @@
     },
     "arcane_universal_fallout": {
       "slug": "arcane_universal_fallout",
-      "name": "Arcane Universal Fallout",
       "tags": [
         "legendary",
         "arcane_enhancement"
@@ -10417,7 +9528,6 @@
     },
     "peculiar_end": {
       "slug": "peculiar_end",
-      "name": "Peculiar End",
       "tags": [
         "mod",
         "peculiar",
@@ -10429,7 +9539,6 @@
     },
     "arcane_persistence": {
       "slug": "arcane_persistence",
-      "name": "Arcane Persistence",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10439,7 +9548,6 @@
     },
     "arcane_expertise": {
       "slug": "arcane_expertise",
-      "name": "Arcane Expertise",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10449,7 +9557,6 @@
     },
     "arcane_circumvent": {
       "slug": "arcane_circumvent",
-      "name": "Arcane Circumvent",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10459,7 +9566,6 @@
     },
     "primary_bulwark": {
       "slug": "primary_bulwark",
-      "name": "Primary Bulwark",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10469,7 +9575,6 @@
     },
     "primary_overcharge": {
       "slug": "primary_overcharge",
-      "name": "Primary Overcharge",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10479,7 +9584,6 @@
     },
     "secondary_irradiate": {
       "slug": "secondary_irradiate",
-      "name": "Secondary Irradiate",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10489,7 +9593,6 @@
     },
     "primary_debilitate": {
       "slug": "primary_debilitate",
-      "name": "Primary Debilitate",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10499,7 +9602,6 @@
     },
     "arcane_concentration": {
       "slug": "arcane_concentration",
-      "name": "Arcane Concentration",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10509,7 +9611,6 @@
     },
     "melee_careen": {
       "slug": "melee_careen",
-      "name": "Melee Careen",
       "tags": [
         "rare",
         "arcane_enhancement"
@@ -10519,7 +9620,6 @@
     },
     "zid-an-sek-eel": {
       "slug": "zid-an-sek-eel",
-      "name": "Zid-an Sek-eel",
       "tags": [
         "arcane_enhancement"
       ],
@@ -10528,7 +9628,6 @@
     },
     "zid-an-asheir": {
       "slug": "zid-an-asheir",
-      "name": "Zid-an Asheir",
       "tags": [
         "arcane_enhancement"
       ],
@@ -10537,7 +9636,6 @@
     },
     "zid-an-uskos": {
       "slug": "zid-an-uskos",
-      "name": "Zid-an Uskos",
       "tags": [
         "arcane_enhancement"
       ],
@@ -10546,7 +9644,6 @@
     },
     "zid-an-haras": {
       "slug": "zid-an-haras",
-      "name": "Zid-an Haras",
       "tags": [
         "arcane_enhancement"
       ],
@@ -10555,7 +9652,6 @@
     },
     "zid-an-osbok": {
       "slug": "zid-an-osbok",
-      "name": "Zid-an Osbok",
       "tags": [
         "arcane_enhancement"
       ],
@@ -10566,7 +9662,6 @@
   "mods": {
     "primed_point_blank": {
       "slug": "primed_point_blank",
-      "name": "Primed Point Blank",
       "tags": [
         "mod",
         "legendary",
@@ -10578,7 +9673,6 @@
     },
     "primed_shotgun_ammo_mutation": {
       "slug": "primed_shotgun_ammo_mutation",
-      "name": "Primed Shotgun Ammo Mutation",
       "tags": [
         "mod",
         "legendary",
@@ -10590,7 +9684,6 @@
     },
     "primed_ravage": {
       "slug": "primed_ravage",
-      "name": "Primed Ravage",
       "tags": [
         "mod",
         "legendary",
@@ -10602,7 +9695,6 @@
     },
     "primed_pressure_point": {
       "slug": "primed_pressure_point",
-      "name": "Primed Pressure Point",
       "tags": [
         "mod",
         "legendary",
@@ -10613,7 +9705,6 @@
     },
     "primed_expel_grineer": {
       "slug": "primed_expel_grineer",
-      "name": "Primed Expel Grineer",
       "tags": [
         "mod",
         "legendary",
@@ -10625,7 +9716,6 @@
     },
     "primed_expel_corpus": {
       "slug": "primed_expel_corpus",
-      "name": "Primed Expel Corpus",
       "tags": [
         "mod",
         "legendary",
@@ -10637,7 +9727,6 @@
     },
     "primed_expel_infested": {
       "slug": "primed_expel_infested",
-      "name": "Primed Expel Infested",
       "tags": [
         "mod",
         "legendary",
@@ -10649,7 +9738,6 @@
     },
     "primed_expel_corrupted": {
       "slug": "primed_expel_corrupted",
-      "name": "Primed Expel Orokin",
       "tags": [
         "mod",
         "legendary",
@@ -10661,7 +9749,6 @@
     },
     "primed_heated_charge": {
       "slug": "primed_heated_charge",
-      "name": "Primed Heated Charge",
       "tags": [
         "mod",
         "legendary",
@@ -10673,7 +9760,6 @@
     },
     "primed_continuity": {
       "slug": "primed_continuity",
-      "name": "Primed Continuity",
       "tags": [
         "mod",
         "legendary",
@@ -10684,7 +9770,6 @@
     },
     "primed_bane_of_infested": {
       "slug": "primed_bane_of_infested",
-      "name": "Primed Bane Of Infested",
       "tags": [
         "mod",
         "legendary",
@@ -10696,7 +9781,6 @@
     },
     "primed_bane_of_corpus": {
       "slug": "primed_bane_of_corpus",
-      "name": "Primed Bane Of Corpus",
       "tags": [
         "mod",
         "legendary",
@@ -10708,7 +9792,6 @@
     },
     "primed_bane_of_grineer": {
       "slug": "primed_bane_of_grineer",
-      "name": "Primed Bane Of Grineer",
       "tags": [
         "mod",
         "legendary",
@@ -10720,7 +9803,6 @@
     },
     "primed_morphic_transformer": {
       "slug": "primed_morphic_transformer",
-      "name": "Primed Morphic Transformer",
       "tags": [
         "mod",
         "legendary",
@@ -10731,7 +9813,6 @@
     },
     "primed_pack_leader": {
       "slug": "primed_pack_leader",
-      "name": "Primed Pack Leader",
       "tags": [
         "mod",
         "legendary",
@@ -10743,7 +9824,6 @@
     },
     "primed_heavy_trauma": {
       "slug": "primed_heavy_trauma",
-      "name": "Primed Heavy Trauma",
       "tags": [
         "mod",
         "legendary",
@@ -10754,7 +9834,6 @@
     },
     "primed_fast_hands": {
       "slug": "primed_fast_hands",
-      "name": "Primed Fast Hands",
       "tags": [
         "mod",
         "legendary",
@@ -10766,7 +9845,6 @@
     },
     "primed_bane_of_corrupted": {
       "slug": "primed_bane_of_corrupted",
-      "name": "Primed Bane Of Orokin",
       "tags": [
         "mod",
         "rifle",
@@ -10778,7 +9856,6 @@
     },
     "primed_slip_magazine": {
       "slug": "primed_slip_magazine",
-      "name": "Primed Slip Magazine",
       "tags": [
         "mod",
         "legendary",
@@ -10790,7 +9867,6 @@
     },
     "primed_flow": {
       "slug": "primed_flow",
-      "name": "Primed Flow",
       "tags": [
         "mod",
         "legendary",
@@ -10801,7 +9877,6 @@
     },
     "primed_pistol_ammo_mutation": {
       "slug": "primed_pistol_ammo_mutation",
-      "name": "Primed Pistol Ammo Mutation",
       "tags": [
         "mod",
         "legendary",
@@ -10813,7 +9888,6 @@
     },
     "primed_reach": {
       "slug": "primed_reach",
-      "name": "Primed Reach",
       "tags": [
         "mod",
         "legendary",
@@ -10824,7 +9898,6 @@
     },
     "primed_smite_infested": {
       "slug": "primed_smite_infested",
-      "name": "Primed Smite Infested",
       "tags": [
         "mod",
         "legendary",
@@ -10835,7 +9908,6 @@
     },
     "primed_smite_corpus": {
       "slug": "primed_smite_corpus",
-      "name": "Primed Smite Corpus",
       "tags": [
         "mod",
         "legendary",
@@ -10846,7 +9918,6 @@
     },
     "primed_cleanse_grineer": {
       "slug": "primed_cleanse_grineer",
-      "name": "Primed Cleanse Grineer",
       "tags": [
         "mod",
         "legendary",
@@ -10858,7 +9929,6 @@
     },
     "primed_cleanse_infested": {
       "slug": "primed_cleanse_infested",
-      "name": "Primed Cleanse Infested",
       "tags": [
         "mod",
         "legendary",
@@ -10870,7 +9940,6 @@
     },
     "primed_cleanse_corpus": {
       "slug": "primed_cleanse_corpus",
-      "name": "Primed Cleanse Corpus",
       "tags": [
         "mod",
         "legendary",
@@ -10882,7 +9951,6 @@
     },
     "primed_cleanse_corrupted": {
       "slug": "primed_cleanse_corrupted",
-      "name": "Primed Cleanse Orokin",
       "tags": [
         "mod",
         "legendary",
@@ -10894,7 +9962,6 @@
     },
     "primed_cryo_rounds": {
       "slug": "primed_cryo_rounds",
-      "name": "Primed Cryo Rounds",
       "tags": [
         "mod",
         "legendary",
@@ -10906,7 +9973,6 @@
     },
     "primed_animal_instinct": {
       "slug": "primed_animal_instinct",
-      "name": "Primed Animal Instinct",
       "tags": [
         "mod",
         "legendary",
@@ -10918,7 +9984,6 @@
     },
     "primed_rubedo_lined_barrel": {
       "slug": "primed_rubedo_lined_barrel",
-      "name": "Primed Rubedo-Lined Barrel",
       "tags": [
         "legendary",
         "primary",
@@ -10931,7 +9996,6 @@
     },
     "primed_target_cracker": {
       "slug": "primed_target_cracker",
-      "name": "Primed Target Cracker",
       "tags": [
         "mod",
         "legendary",
@@ -10943,7 +10007,6 @@
     },
     "primed_pistol_gambit": {
       "slug": "primed_pistol_gambit",
-      "name": "Primed Pistol Gambit",
       "tags": [
         "mod",
         "legendary",
@@ -10955,7 +10018,6 @@
     },
     "primed_fever_strike": {
       "slug": "primed_fever_strike",
-      "name": "Primed Fever Strike",
       "tags": [
         "mod",
         "legendary",
@@ -10966,7 +10028,6 @@
     },
     "primed_quickdraw": {
       "slug": "primed_quickdraw",
-      "name": "Primed Quickdraw",
       "tags": [
         "mod",
         "legendary",
@@ -10978,7 +10039,6 @@
     },
     "primed_firestorm": {
       "slug": "primed_firestorm",
-      "name": "Primed Firestorm",
       "tags": [
         "mod",
         "legendary",
@@ -10990,7 +10050,6 @@
     },
     "primed_fulmination": {
       "slug": "primed_fulmination",
-      "name": "Primed Fulmination",
       "tags": [
         "mod",
         "legendary",
@@ -11002,7 +10061,6 @@
     },
     "primed_rifle_ammo_mutation": {
       "slug": "primed_rifle_ammo_mutation",
-      "name": "Primed Rifle Ammo Mutation",
       "tags": [
         "mod",
         "legendary",
@@ -11014,7 +10072,6 @@
     },
     "primed_charged_shell": {
       "slug": "primed_charged_shell",
-      "name": "Primed Charged Shell",
       "tags": [
         "mod",
         "legendary",
@@ -11026,7 +10083,6 @@
     },
     "primed_regen": {
       "slug": "primed_regen",
-      "name": "Primed Regen",
       "tags": [
         "sentinel",
         "mod",
@@ -11037,7 +10093,6 @@
     },
     "primed_smite_grineer": {
       "slug": "primed_smite_grineer",
-      "name": "Primed Smite Grineer",
       "tags": [
         "mod",
         "legendary",
@@ -11048,7 +10103,6 @@
     },
     "primed_smite_corrupted": {
       "slug": "primed_smite_corrupted",
-      "name": "Primed Smite Orokin",
       "tags": [
         "mod",
         "legendary",
@@ -11059,7 +10113,6 @@
     },
     "primed_chilling_grasp": {
       "slug": "primed_chilling_grasp",
-      "name": "Primed Chilling Grasp",
       "tags": [
         "mod",
         "legendary",
@@ -11071,7 +10124,6 @@
     },
     "primed_tactical_pump": {
       "slug": "primed_tactical_pump",
-      "name": "Primed Tactical Pump",
       "tags": [
         "mod",
         "legendary",
@@ -11083,7 +10135,6 @@
     },
     "primed_magazine_warp": {
       "slug": "primed_magazine_warp",
-      "name": "Primed Magazine Warp",
       "tags": [
         "mod",
         "legendary",
@@ -11095,7 +10146,6 @@
     },
     "primed_ammo_stock": {
       "slug": "primed_ammo_stock",
-      "name": "Primed Ammo Stock",
       "tags": [
         "mod",
         "legendary",
@@ -11107,7 +10157,6 @@
     },
     "primed_sniper_ammo_mutation": {
       "slug": "primed_sniper_ammo_mutation",
-      "name": "Primed Sniper Ammo Mutation",
       "tags": [
         "mod",
         "legendary",
@@ -11118,7 +10167,6 @@
     },
     "primed_redirection": {
       "slug": "primed_redirection",
-      "name": "Primed Redirection",
       "tags": [
         "mod",
         "legendary",
@@ -11129,7 +10177,6 @@
     },
     "primed_convulsion": {
       "slug": "primed_convulsion",
-      "name": "Primed Convulsion",
       "tags": [
         "mod",
         "legendary",
@@ -11141,7 +10188,6 @@
     },
     "primed_dual_rounds": {
       "slug": "primed_dual_rounds",
-      "name": "Primed Dual Rounds",
       "tags": [
         "primary",
         "mod",
@@ -11154,7 +10200,6 @@
     },
     "primed_deadly_efficiency": {
       "slug": "primed_deadly_efficiency",
-      "name": "Primed Deadly Efficiency",
       "tags": [
         "primary",
         "mod",
@@ -11167,7 +10212,6 @@
     },
     "primed_steady_hands": {
       "slug": "primed_steady_hands",
-      "name": "Primed Steady Hands",
       "tags": [
         "mod",
         "legendary",
@@ -11179,7 +10223,6 @@
     },
     "primed_stabilizer": {
       "slug": "primed_stabilizer",
-      "name": "Primed Stabilizer",
       "tags": [
         "mod",
         "legendary",
@@ -11191,7 +10234,6 @@
     },
     "primed_counterbalance": {
       "slug": "primed_counterbalance",
-      "name": "Primed Counterbalance",
       "tags": [
         "mod",
         "legendary",
@@ -11203,7 +10245,6 @@
     },
     "primed_smite_the_murmur": {
       "slug": "primed_smite_the_murmur",
-      "name": "Primed Smite The Murmur",
       "tags": [
         "mod",
         "legendary",
@@ -11214,7 +10255,6 @@
     },
     "primed_expel_the_murmur": {
       "slug": "primed_expel_the_murmur",
-      "name": "Primed Expel The Murmur",
       "tags": [
         "mod",
         "legendary",
@@ -11226,7 +10266,6 @@
     },
     "primed_cleanse_the_murmur": {
       "slug": "primed_cleanse_the_murmur",
-      "name": "Primed Cleanse The Murmur",
       "tags": [
         "mod",
         "legendary",
@@ -11238,7 +10277,6 @@
     },
     "primed_bane_of_the_murmur": {
       "slug": "primed_bane_of_the_murmur",
-      "name": "Primed Bane Of The Murmur",
       "tags": [
         "mod",
         "legendary",
@@ -11250,7 +10288,6 @@
     },
     "primed_venomous_clip": {
       "slug": "primed_venomous_clip",
-      "name": "Primed Venomous Clip",
       "tags": [
         "primary",
         "archwing",
@@ -11263,7 +10300,6 @@
     },
     "primed_ammo_chain": {
       "slug": "primed_ammo_chain",
-      "name": "Primed Ammo Chain",
       "tags": [
         "primary",
         "archwing",

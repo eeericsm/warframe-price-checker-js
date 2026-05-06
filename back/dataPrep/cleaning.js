@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const RAW_FILE = path.join(__dirname, "..", "data", "raw_items_filtered.json");
-const SAVE_PATH = path.join(__dirname, "..", "data", "names.json")
+const SAVE_PATH = path.join(__dirname, "..", "data", "items.json")
 
 async function prep() {
     // read the raw_items_filtered.json file
@@ -19,29 +19,32 @@ async function prep() {
         const obj = {
             slug: item.slug
         };
-        if (item.i18n && item.i18n.en && item.i18n.en.name) obj.name = item.i18n.en.name;
-        else if (item.item_name) obj.name = item.item_name;
+        // if the item has a name, save it
+        //if (item.i18n && item.i18n.en && item.i18n.en.name) obj.name = item.i18n.en.name;
         
+        //if the item has tags, save it
         if (item.tags) obj.tags = item.tags;
-        if ('ducats' in item) obj.ducats = item.ducats;
-        if ('maxRank' in item) obj.max_rank = item.maxRank;
-        else if ('max_rank' in item) obj.max_rank = item.max_rank;
+
+        // if the item has ducats, save it
+        if (item.ducats) obj.ducats = item.ducats;
+
+        // if item has maxRank, save it
+        if (item.maxRank) obj.max_rank = item.maxRank;
         
-        if (item.i18n && item.i18n.en && item.i18n.en.thumb) {
-            obj.thumb = item.i18n.en.thumb;
-        } else if (item.thumb) {
-            obj.thumb = item.thumb;
-        }
+        // if item has a thumb, save it
+        if (item.i18n && item.i18n.en && item.i18n.en.thumb) obj.thumb = item.i18n.en.thumb;
+
         return obj;
     }
 
     function groupItems(setsData, partsData) {
+        
         const result = {};
 
         if (setsData) {
             for (const item of setsData) {
                 const slug = item.slug;
-                let baseName = slug.replace(/_prime_set$/, "").replace(/_set$/, "");
+                let baseName = slug.replace(/_set$/, "");
                 result[baseName] = {
                     set: formatItem(item),
                     parts: []
@@ -50,14 +53,16 @@ async function prep() {
         }
 
         if (partsData) {
+            // knownBases = every single warframe_prime
+            const knownBases = Object.keys(result);
+
             for (const item of partsData) {
                 const slug = item.slug;
-                let baseName = slug;
-                if (slug.includes("_prime_")) {
-                    baseName = slug.split("_prime_")[0];
-                } else {
-                    let matchingBase = Object.keys(result).find(b => slug.startsWith(b + "_") || slug === b);
-                    if (matchingBase) baseName = matchingBase;
+                
+                let baseName = knownBases.find(b => slug.startsWith(b + "_") || slug === b);
+
+                if (!baseName) {
+                    baseName = slug.substring(0, slug.lastIndexOf('_'));
                 }
 
                 if (!result[baseName]) {
@@ -74,14 +79,17 @@ async function prep() {
         warframes: groupItems(data.warframe_sets, data.warframes),
         weapons: groupItems(data.weapon_sets, data.weapons),
         companions: groupItems(data.companion_sets, data.companions),
-        arcanes: data.arcanes ? data.arcanes.reduce((acc, item) => {
+        // reduce(function, starting value) 
+        arcanes: data.arcanes.reduce((acc, item) => {
+        // acc = accumulator, item = iterator
+            acc[item.slug] = formatItem(item);
+            //acc["mod_name"] = formatItem(item)
+            return acc;
+        }, {}),
+        mods: data.mods.reduce((acc, item) => {
             acc[item.slug] = formatItem(item);
             return acc;
-        }, {}) : {},
-        mods: data.mods ? data.mods.reduce((acc, item) => {
-            acc[item.slug] = formatItem(item);
-            return acc;
-        }, {}) : {}
+        }, {})
     };
 
     await fs.writeFile(
