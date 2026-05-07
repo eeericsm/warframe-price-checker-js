@@ -1,10 +1,8 @@
 import fs from "fs/promises";
 import path from "path";
-import { fileURLToPath } from "url";
 
 // recreating __dirname for ES Modules
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const __dirname = import.meta.dirname;
 
 const PATH = "https://api.warframe.market/v2/";
 const RAW_FILE = path.join(__dirname, "..", "data", "raw_items.json");
