@@ -1,0 +1,73 @@
+.card {
+    background-color: var(--graphite);
+    color: var(--white);
+    padding: 1.5rem 1rem;
+    border-radius: 0.4rem;
+    width: 250px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.title {
+    text-transform: capitalize;
+    margin-bottom: 0.8rem;
+    color: var(--bright-lemon);
+}
+
+.marketMainLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.marketMainLink:hover .title {
+    text-decoration: underline;
+}
+
+.mainPrice {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.detailsBox {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+
+.divider {
+    border: none;
+    border-top: 1px solid var(--white);
+    opacity: 0.2;
+    margin-bottom: 0.5rem;
+}
+
+.partRow {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    text-align: left;
+}
+
+.marketLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.marketLink:hover .partName {
+    text-decoration: underline;
+    color: var(--bright-lemon);
+}
+
+.partName {
+    text-transform: capitalize;
+    opacity: 0.8;
+}

@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom"
 //
 import Layout from "../components/Layout";
 import Home from "../pages/Home"
+import Category from "../pages/Category"
 //
 import "./index.css"
 
@@ -13,7 +14,8 @@ const routesArray = [
     path:"/",
     element: <Layout/>,
     children: [
-      {index: true, element: <Home/>}
+      {index: true, element: <Home/>},
+      {path: ":category", element: <Category/>}
     ]
   }
 ]
